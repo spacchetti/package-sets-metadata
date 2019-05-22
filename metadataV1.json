@@ -2740,6 +2740,7 @@
     },
     "foreign-generic": {
         "commits": [
+            "46f09996bd54efc146bc1725783789dbac7d6a5b",
             "ad56cb733cfef51a5f673db8fd2ef34440dd08ba",
             "918327d3407b8a0e8d3f522f27a2c3803a366d27",
             "47442ad8d14f89e20262032c991bf3da05d740ae",
@@ -2798,6 +2799,7 @@
             "v0.2.0": "e95bfdbba0ea0b86f2940a50576fceeba31cdcf3",
             "v8.1.0": "918327d3407b8a0e8d3f522f27a2c3803a366d27",
             "v9.0.0": "ad56cb733cfef51a5f673db8fd2ef34440dd08ba",
+            "v10.0.0": "46f09996bd54efc146bc1725783789dbac7d6a5b",
             "v4.0.0": "ad0d657ad39851ebd57ad68be810c07251c94aee",
             "v5.0.1": "e35698c87f38686d9ee027dfa2290259d28d660a",
             "v0.3.0": "59066f6b607d3452c036a8a1764bd2dbf028b120",
