@@ -12810,6 +12810,10 @@
     },
     "react-basic-native": {
         "commits": [
+            "f5a963df87ffa0cc8b2810cc5df78c724c9afcbe",
+            "301b12a4a367f169427ce102259c1326a20b103b",
+            "77fcd247512ed2bdb06981b33a0e8382b98ff3fa",
+            "3c5ea27622ba90529a3da8639e5137d4b09cf2c6",
             "fc703e7cb3727c81f94ccc6f8544723507acac6c",
             "b94189f0f89708ab6e04122d8625397045a8086b",
             "b3bd1d2881cb27329bb0f0cce6cfd1533966fc12",
@@ -12896,6 +12900,8 @@
         ],
         "tags": {
             "v0.1.0": "b3bd1d2881cb27329bb0f0cce6cfd1533966fc12",
+            "v0.1.3": "f5a963df87ffa0cc8b2810cc5df78c724c9afcbe",
+            "v0.1.2": "77fcd247512ed2bdb06981b33a0e8382b98ff3fa",
             "v0.1.1": "fc703e7cb3727c81f94ccc6f8544723507acac6c"
         }
     },
