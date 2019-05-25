@@ -3714,6 +3714,17 @@
             "v0.1.1": "8e4cc454eca0b82bde6cf650b40c1735037f6884"
         }
     },
+    "simple-jwt": {
+        "commits": [
+            "ae5eed117206ae84b2e680f99f2353215109124d",
+            "46e29ae1f5d3d66ac2bbd5cd5d8dd50efeddd65e",
+            "9794026b6c657752071333ca52ad80daf9a99271",
+            "27d5fdf33411eded49bdff686152b79d901d43a0"
+        ],
+        "tags": {
+            "v1.0.0": "46e29ae1f5d3d66ac2bbd5cd5d8dd50efeddd65e"
+        }
+    },
     "bucketchain-health": {
         "commits": [
             "a7d116244453cfdeb1c22f5952789999de0c6660",
