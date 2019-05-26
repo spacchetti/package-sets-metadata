@@ -10467,6 +10467,11 @@
     },
     "typelevel-prelude": {
         "commits": [
+            "10aaed6ef6b32c34c128e0148525b02e714a7875",
+            "62d08b156151bbe98063ba952b2f7287ae3d70e5",
+            "f5b3b0d559c7510627241939de959401209e4bae",
+            "ef4a4015ec0c59c33d14cc1f1505768760346543",
+            "95ac64c7e97404089ca1417a51b9971b341fdb7e",
             "9eb572f14d45f9480f49d8e5658be20e226a8718",
             "92b4fd8bc635a9bef6aeec46b87cdc02deaf86f1",
             "a7c73aad06703e43cd24355c41680c42b01184e0",
@@ -10520,6 +10525,7 @@
         "tags": {
             "v2.3.0": "c28581510ae5297229b5ac3d8f148eef88a81db1",
             "v1.0.0": "29a7123a0c29c85d4b923fcf4a7df8e45ebf9bac",
+            "v4.0.2": "f5b3b0d559c7510627241939de959401209e4bae",
             "v2.4.0": "5b70a6f30a5916d112941dc6f91db4a7fd93212c",
             "v2.5.0": "f7385cc0f1eb3c8f076ce64967897850024d181e",
             "v2.0.0": "52ededde01ca0c98cbedb108408bd0ad7b98ec8a",
