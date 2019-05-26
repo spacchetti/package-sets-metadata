@@ -3716,6 +3716,7 @@
     },
     "simple-jwt": {
         "commits": [
+            "0b67358d20437d96c7c25f5895dfb52e7b979653",
             "ae5eed117206ae84b2e680f99f2353215109124d",
             "46e29ae1f5d3d66ac2bbd5cd5d8dd50efeddd65e",
             "9794026b6c657752071333ca52ad80daf9a99271",
