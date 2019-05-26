@@ -5425,6 +5425,8 @@
     },
     "web-html": {
         "commits": [
+            "ccaaf173be50cf21ba154780714171c4fe2b2380",
+            "c59ffc4a02bbe07713ded811deaee8619cc022c2",
             "9ec258ce0f01bc10c743731844141104336f7bf4",
             "750851a446580970e93becad418aa797893767cc",
             "c42701fdcfd855d94b5cd86896f450122851c3ff",
@@ -5461,7 +5463,8 @@
             "v2.1.0": "9ec258ce0f01bc10c743731844141104336f7bf4",
             "v2.0.1": "c42701fdcfd855d94b5cd86896f450122851c3ff",
             "v1.2.0": "818cbd094db4ca3ae0e22966fbdbb7255b07caa6",
-            "v1.1.0": "e8a03b0d3fc60a82bfa1725f4fa9719f5eabcd33"
+            "v1.1.0": "e8a03b0d3fc60a82bfa1725f4fa9719f5eabcd33",
+            "v2.2.0": "ccaaf173be50cf21ba154780714171c4fe2b2380"
         }
     },
     "rave": {
