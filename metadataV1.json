@@ -8516,6 +8516,8 @@
     },
     "foreign-object": {
         "commits": [
+            "ecf9457f27854e45fa0d1292d1652b877ac24781",
+            "aedd55149bdc07f4e2d4a9d60aa51739cdc69a3d",
             "64643745fc563d0714078c709526c64dbb45fbc9",
             "993b44ae8faec8671407e0fc348fe0d5d040472b",
             "9c106a2867e004d1999c515abb538af0e4572e88",
@@ -8762,6 +8764,7 @@
             "v1.0.0": "6c5c386bdb4e8efba1747059a141d94f4ad7fcc0",
             "v2.0.0": "9c106a2867e004d1999c515abb538af0e4572e88",
             "v2.0.1": "64643745fc563d0714078c709526c64dbb45fbc9",
+            "v2.0.2": "ecf9457f27854e45fa0d1292d1652b877ac24781",
             "v1.1.0": "dea06f0616b292f52e2de87666725302d490c831"
         }
     },
@@ -13929,10 +13932,12 @@
     },
     "argonaut-codecs": {
         "commits": [
+            "9a1c0e09ca523ba7a290461e5346b818059f3d2a",
             "b0317d576e10aa73600c43f835bfad45679d0aff",
             "c088e732f18b22ff2d86d92d944655dd136db574",
             "c6f029e392f62ba76050abb127a0b46cd55a8008",
             "d1a3ae6adc4c5ecb4c21ec28e6161f554217c4f6",
+            "f2805f0459bfed319850c53124a3b4ba2cc80398",
             "ac5e4fbad5680f55c6237d2b311206a25b36ec2d",
             "da3a9fd23371d79cceb8bc5dedd778adc55607dc",
             "3be823ef851ec0f60f8869eb85f26bd8dddbe97d",
