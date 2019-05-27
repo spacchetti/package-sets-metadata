@@ -14331,6 +14331,10 @@
     },
     "node-http": {
         "commits": [
+            "d528eddd1e8bad84f796db4f5ff9fc639232263b",
+            "5c8844d71c7789f026033cb38ae8e969e2bf4f51",
+            "53da4eddf61bea875809ba4f8b50ff38a0c3e089",
+            "2132b12f234a744f9c6c205afbf3a7f031511c7d",
             "a46ebd999fafddac7979f83311f1e545868cbea0",
             "bb1daa2e4acb25b392d8631f21e1065d5d28e279",
             "6515cb83feafe6b02e163e83022183779adcecf6",
