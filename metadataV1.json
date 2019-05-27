@@ -1499,6 +1499,7 @@
     },
     "variant": {
         "commits": [
+            "31e620334124d2ca8b1e608c27d74b607a5831e9",
             "b6eec4d2a4c9e76f66c153cba7c5bb77fdc4eb91",
             "82607b73e7669cc1cc7692a6a89b8ad3a988bdbf",
             "dcb7013008f3bba76ff4d78f22656bf04eaa4ae9",
@@ -1568,6 +1569,7 @@
             "v3.2.0": "88c89028684f30f893ec4de9af24d2606fa13c66",
             "v1.0.0": "17c3f73c132754982f41eb2bd422a68b52b66024",
             "v6.0.0": "82607b73e7669cc1cc7692a6a89b8ad3a988bdbf",
+            "v6.0.1": "31e620334124d2ca8b1e608c27d74b607a5831e9",
             "v5.2.0": "be1de40cba7d7b832dbd26236a61215dfe9d20af",
             "v2.0.0": "71468d36de6fb054850cee4472583ec369b8cc69",
             "v3.1.0": "2e3fd8156c817567d3e1f56878aa8dccb08fc3d1",
