@@ -14545,6 +14545,8 @@
     },
     "halogen-bootstrap4": {
         "commits": [
+            "9a4532f7d4ef43b87e16bf2f9c5c23b5f1b8e8a0",
+            "637a82d3b02430ff374668fd3791293847ac5f53",
             "4c30c6b1712585efdc3e1379ac0a9934a07a2fad",
             "6718d8dfa046699433ebff9de6fc8a4d5361d9de",
             "e0adef11475e53c73cbe89d6a059caf9f8263fbb",
