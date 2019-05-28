@@ -8985,6 +8985,9 @@
     },
     "react": {
         "commits": [
+            "a2e40f93f0dd47a6e185462431799e0e0c6e8667",
+            "cffb1c0fd2e61cea5c82cd1c3b9b386b2a10672f",
+            "cf9b537f146ab5e5e4c0378fbb0da2e2536f6f87",
             "f1b90915d280d1a831286941e476895331d77ce1",
             "65dc0414f421ac9ef752003abdeadaf1c7e5ea9f",
             "e059debf49515721537a109986dabeae70fe8284",
@@ -9159,6 +9162,7 @@
             "v0.6.0": "1b37ba0ee1a57fd373a9d1dc90d1b8576bc48c46",
             "v0.7.1": "cadcbe928f1d88110abeb66db45a1681a23bd69f",
             "v0.4.2": "cbe6f58645cc3f53a608ac9e4e08e6b375866528",
+            "v7.0.1": "a2e40f93f0dd47a6e185462431799e0e0c6e8667",
             "v6.0.0": "756c021cdd0950fd330fbb4966a1370695f6a9fa",
             "v0.4.3": "8f99b18795b13688a2b5e5c9216e09880745f7e0",
             "v0.7.0": "fbdd2da3d5e1ccd48ae0d37bc0aa5947adbde065",
