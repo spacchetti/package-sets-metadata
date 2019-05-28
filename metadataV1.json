@@ -2815,6 +2815,9 @@
     },
     "react-dom": {
         "commits": [
+            "441e1705ab8fc5fb382d9b3b3516f40ef7234e6c",
+            "80808c7c3a21544ab9a294e2ed0f21c80e13be61",
+            "c7715d5ac2f857a1a39ac6508c02493a4fa5e0a1",
             "8e02c0b54980ac6a6969049acf57580b685720b8",
             "0730f25d601f58a69e0a91ada480fbb5cb102755",
             "987a9fe78e75d48bf1399acad3f82c6198ff43f2",
@@ -2844,6 +2847,7 @@
             "v1.0.0": "f5fbc868317f7dd4014ba70a9e93ccbd548d6aa2",
             "v6.0.0": "987a9fe78e75d48bf1399acad3f82c6198ff43f2",
             "v6.0.1": "0730f25d601f58a69e0a91ada480fbb5cb102755",
+            "v6.1.0": "441e1705ab8fc5fb382d9b3b3516f40ef7234e6c",
             "v2.0.0": "0c2c829843261603917f7edbf2d1338e5bdfc642",
             "v0.2.0": "03b4c05f86dc9424f7339f187c5e922e6cca8038",
             "v4.0.0": "73d1f67ac378a48823515572aaf77f4b1162a0d2",
