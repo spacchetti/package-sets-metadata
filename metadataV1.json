@@ -4973,6 +4973,9 @@
     },
     "unfoldable": {
         "commits": [
+            "f4928532605b18d9da3733f34451d59222edc181",
+            "66b69c9cd3676306e348648c57e0dc05fbdb1942",
+            "1dcc2d14be48072c617e0f02c4d9eac357013a80",
             "1135c42cb01eb9b30dd0e050c6f9bfd885ec457a",
             "42ffa29ff56195ec9b5d3ff8aefd8a55de5312dd",
             "954f723eebd3c7e8d3e9bd20a365c4420256c5f6",
@@ -5035,6 +5038,7 @@
             "v0.4.0": "f296dcae318e5dd5281d8e641832e84ad093ffb6",
             "v0.3.0": "24efe493e73dfaacf6eff62caec83512c39b8737",
             "v3.0.0": "40db2589ea5fe605956515834a08ee1ae0982426",
+            "v4.0.1": "f4928532605b18d9da3733f34451d59222edc181",
             "v0.4.1": "4cc1cdf32f5f0587632a511039683a3d73c629a9",
             "v1.1.0": "72acbbb701c5f9ea1321618f79589bcf9452af7e"
         }
@@ -14351,6 +14355,9 @@
     },
     "node-http": {
         "commits": [
+            "9a6d80f236fed494dce2d438e410233fa2183307",
+            "ae8d63c077bd826aa063c761eae057bb35facdb4",
+            "7b0766561d033fb606915f2fac59fad78099e9d3",
             "d528eddd1e8bad84f796db4f5ff9fc639232263b",
             "5c8844d71c7789f026033cb38ae8e969e2bf4f51",
             "53da4eddf61bea875809ba4f8b50ff38a0c3e089",
@@ -14426,6 +14433,7 @@
             "v3.0.1": "119113217aecced0b0e4c8796e7946fd93f711ac",
             "v0.1.5": "4d040caf84d0b143918304f3a8b72b79fea2b77c",
             "v4.0.0": "8c0679000886c272afe1d20512be4e099622bbce",
+            "v5.0.1": "9a6d80f236fed494dce2d438e410233fa2183307",
             "v0.4.0": "41de028b4126e6d4ab1e727ea5a89129b51dd92c",
             "v0.3.0": "13f68817da09cb6121f23f7fd889aab2eae6d165",
             "v0.1.2": "0bf5bf5738860ed59eff356c5bfe4774d0888c8d",
