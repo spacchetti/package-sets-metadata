@@ -4973,6 +4973,10 @@
     },
     "unfoldable": {
         "commits": [
+            "be3262a9dc48e794676b1b2883987331d4be6fd7",
+            "d7c72afa2c4de96fe903107353c5aefd2ec1e1ae",
+            "fe25ee3189abac01e31f71371f275329b9d17e07",
+            "b844a3562ddab479632225ad0ec5f469482d182e",
             "f4928532605b18d9da3733f34451d59222edc181",
             "66b69c9cd3676306e348648c57e0dc05fbdb1942",
             "1dcc2d14be48072c617e0f02c4d9eac357013a80",
@@ -5028,6 +5032,7 @@
             "v3.2.0": "91297eda139c04625cf3f23cb259e2958d555732",
             "v0.1.0": "0b4d1ce8cabe1cdf7b46542fa18f26294303f941",
             "v1.0.0": "6cd067943bea532b7df07ff1014df2493c355620",
+            "v4.0.2": "be3262a9dc48e794676b1b2883987331d4be6fd7",
             "v0.4.0-rc.1": "9ee79701bc7d9a5049b7fec7f5c1e0a983f1b129",
             "v2.0.0": "31f1f132c7edf04606117a901795b2018c96686a",
             "v0.3.1": "24efe493e73dfaacf6eff62caec83512c39b8737",
@@ -9203,6 +9208,8 @@
     },
     "foldable-traversable": {
         "commits": [
+            "34e5d3292749c4c45c62e53e48359335a065abe5",
+            "befcc1fb2f753e96681f72f88529c28f9b38613d",
             "29d5b873cc86f17e0082d777629819a96bdbc7a1",
             "3abc13486efff4dddd638b7385830ba16daaa9e7",
             "d30146ef988bead9d1c54f796b4da63d1c4d3c0f",
@@ -9270,6 +9277,7 @@
             "18fff8a270d58843799d90669612519b72068a15",
             "fc997ed9db4678d8837c039fea80bbb63f0b23a7",
             "be81e3ae569cbe74ef093f03833af2e1d6a54b1d",
+            "33937fb1014627830d710cf0e14dea1f8711ad76",
             "17ddb52928dd00fdb31b1cde3931991d6ea9e366",
             "3db300e13e9f837e2e24e09636dc344997f993db",
             "35323dbcd40f4174150aa3fd4a0f19c9c51ee2e4",
