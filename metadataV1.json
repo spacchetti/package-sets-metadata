@@ -1027,6 +1027,8 @@
     },
     "polyform": {
         "commits": [
+            "5daa1ff7eda4ed73d8d5a254ad098584856650d1",
+            "f23a553b975aa102486410dd466dfe855b51bbaf",
             "f0da96068abe4b570387815dcb9bcf1d2bdd7119",
             "807b72bb56a1872dd8599e837caf91d266a89166",
             "d4af5becd7b42c4fab0706d9da172d7652283c2a",
@@ -5054,6 +5056,8 @@
     },
     "naporitan": {
         "commits": [
+            "e911d10260897f5dec7caa034604691c7146f7ff",
+            "b8b790bd4efa656c97ff8d94e790529b50f41392",
             "c27a1b39e330b40ce5c0bf126b2f21ed3b488446",
             "ad4607ae3440bc10c93a9033cf3a312e4b8e6c8a",
             "79073b4728a23b7e475d7f13eb4e18f5cbf04b39",
@@ -5062,6 +5066,7 @@
         ],
         "tags": {
             "v0.1.0": "79073b4728a23b7e475d7f13eb4e18f5cbf04b39",
+            "v1.0.0": "e911d10260897f5dec7caa034604691c7146f7ff",
             "v0.2.0": "c27a1b39e330b40ce5c0bf126b2f21ed3b488446"
         }
     },
