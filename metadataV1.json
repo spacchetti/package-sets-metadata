@@ -11674,6 +11674,8 @@
     },
     "expect-inferred": {
         "commits": [
+            "68d560ed30919cb0146a1136e3826c9b4c8264a4",
+            "a6195e8c18dcfc8443b998e50648c8adb21ae6b9",
             "3bb12a77bada0f6aa2d75e9db6a17d5b914acfad",
             "d3b346d6a48f94f8fd2ceada486b0bdf99d79e24",
             "06ad9f48e789e422f33243066c91befca94c4a82",
@@ -11687,6 +11689,7 @@
         "tags": {
             "v0.1.0": "8d460bfe689abcfc27e28d75d89169256953bc20",
             "v1.0.0": "3bb12a77bada0f6aa2d75e9db6a17d5b914acfad",
+            "v2.0.0": "68d560ed30919cb0146a1136e3826c9b4c8264a4",
             "v0.2.0": "9ea5be60480b1f85bc013a7645fec2e22dce8ec9"
         }
     },
@@ -17581,6 +17584,10 @@
     },
     "kishimen": {
         "commits": [
+            "8a9b11f9bcdaf4ff63c2e572def3d0b2a4e2c870",
+            "4c142fbeaba2361e7f1f54af456577220935d179",
+            "6328a360c702269f6ffd41d50f110dfa05c3f436",
+            "ce24ce9ce97fea852b4afab533fd865bf27c08ff",
             "165d27cf8f7390f5962d535f8477ed77365f1197",
             "28c1fa12b3870bfdfde7b2025266eaa0843f39f6",
             "48967b77800eceb2d925dca9c460fbed47b52ad2",
@@ -17593,7 +17600,9 @@
         ],
         "tags": {
             "v0.1.0": "db0225f6d0158dfb9657f13e235341e13ef34c73",
-            "v0.2.0": "165d27cf8f7390f5962d535f8477ed77365f1197"
+            "v1.0.0": "6328a360c702269f6ffd41d50f110dfa05c3f436",
+            "v0.2.0": "165d27cf8f7390f5962d535f8477ed77365f1197",
+            "v1.0.1": "8a9b11f9bcdaf4ff63c2e572def3d0b2a4e2c870"
         }
     },
     "sized-vectors": {
