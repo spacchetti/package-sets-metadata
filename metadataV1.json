@@ -9618,6 +9618,8 @@
     },
     "choco-pie": {
         "commits": [
+            "c842beb9468e8cedb17f7a31b3e8166be05b0856",
+            "710c30e4e532f0518b042daf1b5e9c21456c4a89",
             "ca7c23401c2e9e62600259f1631f355ddfc765d5",
             "d077b0f3e6d0d3e804b4972d28bc4711fd4c1d8d",
             "ddace73c032bf11864ca8aad254c8488680e7b64",
@@ -9657,7 +9659,8 @@
             "v0.2.0": "eef9930f583cfb5af9c640bd8b227fc7b6787b8a",
             "v4.0.0": "ca7c23401c2e9e62600259f1631f355ddfc765d5",
             "v0.3.0": "e425f6d13491b35a320a062ad75fa96916fa2da0",
-            "v3.0.0": "c9dd9b1adf7e6e145653c1fda23f916dbbf74bd9"
+            "v3.0.0": "c9dd9b1adf7e6e145653c1fda23f916dbbf74bd9",
+            "v5.0.0": "c842beb9468e8cedb17f7a31b3e8166be05b0856"
         }
     },
     "routing-duplex": {
@@ -17161,6 +17164,8 @@
     },
     "simple-json": {
         "commits": [
+            "02b3cbc6ddc0aa4ee88a298fbbc638570f01fe3e",
+            "09b8abb6bb072583e0367dd4ea7e0ddc8edbad5d",
             "d45590f493d68baae174b2d3062d502c0cc4c265",
             "200ba88e74aa3cdc040d62154e0d0c7152a38b72",
             "625b496366cf6b420f75c8da60ee5728f690b3a2",
@@ -17308,6 +17313,7 @@
             "v1.0.0": "7b6a12611b5f2f63d7dd51e34fd52a818fe7b68a",
             "v4.2.0": "d9558bea73376934b3c0ba063aa4bb6465b91c07",
             "v0.6.0": "914a6c9bf68db69ddba7d7bdd567f2cd0370742f",
+            "v6.0.0": "02b3cbc6ddc0aa4ee88a298fbbc638570f01fe3e",
             "v0.8.0": "1e6bb8982b19c1d6f51a6d7db770e625df43d6d3",
             "v0.7.0": "71079decfbb6efe30e62524d54661ea563236e7d",
             "v4.3.0": "84a8c16232654a93909a90aa9c66aff724630db5",
