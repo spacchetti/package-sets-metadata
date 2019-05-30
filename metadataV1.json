@@ -1711,6 +1711,9 @@
     },
     "email-validate": {
         "commits": [
+            "b73471c0f479b6a5ad6fb903d3388013a9b79810",
+            "7c527324b6ed9e3b04a4f390fae178ad94c327e3",
+            "503bd7c94b9721c8766e8e6e36f006dffeef5b7e",
             "87ebcd9cf7df19d3e0d38861ec378bda300acb6a",
             "26c73cbd504d700c67530c7f46c3afaead797fd7",
             "31a4092aa9383abd17fc7d3da117e828ebd28f4a",
@@ -1787,6 +1790,7 @@
             "v3.0.0": "b2d193d76c516565a24eb9b9ac344c4be077bcf9",
             "v1.0.2": "ef128900b9c428e8d97385310e12b9cde9b19438",
             "v1.0.4": "cc4a3e1cf16507b5c86f4d7ce0834f9f3848c325",
+            "v5.0.0": "b73471c0f479b6a5ad6fb903d3388013a9b79810",
             "v1.0.1": "844a86c78fd29ced83469d6f75732f459d410b7e",
             "v0.0.0": "4c2663be8aadae53b8f9ef70ca04dbf3c0521b11"
         }
@@ -6385,13 +6389,16 @@
     },
     "chirashi": {
         "commits": [
+            "3589e247a0f269b0f7552828876b965eaa2fcafd",
+            "08968c1b690f620666a464df12e90ccebb0b3dfc",
             "25ab2d1c98570e0cdea18238fd4a787b11c984d9",
             "5a4e8dea26079d8ffedb48949fa5de3b314947dc",
             "903b93c97cd2b940ce124793fc6d0e410193c5fe",
             "e4cb47159c3d8644a932a4e4dd7166e1a663dae3"
         ],
         "tags": {
-            "v0.1.0": "903b93c97cd2b940ce124793fc6d0e410193c5fe"
+            "v0.1.0": "903b93c97cd2b940ce124793fc6d0e410193c5fe",
+            "v1.0.0": "3589e247a0f269b0f7552828876b965eaa2fcafd"
         }
     },
     "css": {
