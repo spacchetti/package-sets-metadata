@@ -14160,6 +14160,8 @@
     },
     "halogen-bootstrap4": {
         "commits": [
+            "1f3c45119b1679766dfcaf6402c0a52d313991ea",
+            "386f0f57d7e85b1ceff1ae6b9e988a5c25b101a4",
             "9a4532f7d4ef43b87e16bf2f9c5c23b5f1b8e8a0",
             "637a82d3b02430ff374668fd3791293847ac5f53",
             "4c30c6b1712585efdc3e1379ac0a9934a07a2fad",
@@ -14174,7 +14176,8 @@
         "tags": {
             "v0.1.0": "c17205745c8f20a859ef0579ffb19c7411db1b7e",
             "v0.1.3": "e0adef11475e53c73cbe89d6a059caf9f8263fbb",
-            "v0.1.2": "c17205745c8f20a859ef0579ffb19c7411db1b7e"
+            "v0.1.2": "c17205745c8f20a859ef0579ffb19c7411db1b7e",
+            "v0.1.4": "1f3c45119b1679766dfcaf6402c0a52d313991ea"
         }
     },
     "const": {
