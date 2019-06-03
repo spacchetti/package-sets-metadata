@@ -3256,6 +3256,8 @@
     },
     "httpure": {
         "commits": [
+            "ae56c9f0a1fcd08cb677888b785b9dc8bdbb7d23",
+            "413683cd09e491ce2c79ac15619dfbff00b9e869",
             "2a02d41954c542db5428dd0c20f3812f4edbbe16",
             "5af653076f74684d06c315bc60aad7e9b835535c",
             "717a33739c5f56ac9514ebb4ba9c78d627baf3b2",
@@ -3382,6 +3384,7 @@
         "tags": {
             "v0.8.2": "717a33739c5f56ac9514ebb4ba9c78d627baf3b2",
             "v0.1.0": "4ca1378f7d212d479eed2faffca72b4276aaf86b",
+            "v0.8.3": "ae56c9f0a1fcd08cb677888b785b9dc8bdbb7d23",
             "v0.6.0": "dfe759bf620f4b0f9f4d960b462529ab96d920a2",
             "v0.7.1": "4bcbbd95f8da97e575c2e007a793be8199fe6a2e",
             "v0.8.0": "cca1ca3986d3fc00fe7d84a4168c76989ee92c48",
