@@ -2487,6 +2487,8 @@
     },
     "basic-auth": {
         "commits": [
+            "ae614f8458950b6695b8ea14281306fea45182d3",
+            "66fcde65070219b647d111f9c0ba899fb6fe893b",
             "1088c0f8dd8dabe278594c0b976a85f9d374bb4a",
             "75652b6397536388ef93dc268172ac04c2b9b130",
             "46d9a70317b982e89be70e7f7f85412f02b9d819",
@@ -3717,6 +3719,9 @@
     },
     "simple-jwt": {
         "commits": [
+            "a07f5dd9f01b8a88d574f6c359af740100a69dac",
+            "d26e781496b785113b1edc5459710f92d94abca0",
+            "bd37df92432073e72d40c0d68f17a918232dfa8d",
             "0b67358d20437d96c7c25f5895dfb52e7b979653",
             "ae5eed117206ae84b2e680f99f2353215109124d",
             "46e29ae1f5d3d66ac2bbd5cd5d8dd50efeddd65e",
@@ -3724,7 +3729,8 @@
             "27d5fdf33411eded49bdff686152b79d901d43a0"
         ],
         "tags": {
-            "v1.0.0": "46e29ae1f5d3d66ac2bbd5cd5d8dd50efeddd65e"
+            "v1.0.0": "46e29ae1f5d3d66ac2bbd5cd5d8dd50efeddd65e",
+            "v1.0.1": "a07f5dd9f01b8a88d574f6c359af740100a69dac"
         }
     },
     "bucketchain-health": {
@@ -5931,6 +5937,9 @@
     },
     "identy": {
         "commits": [
+            "9e1bc89ae633fd9c3d5ffadbf6d28e8fca41861f",
+            "33864aa8daeb24510dad10fbaf9bfdeacb397240",
+            "8c9ba62d94d5622fe55542612d7759f9548d4f17",
             "8398429475912b82258a56a973b155d01906292f",
             "f092dbaab6828c1000eea5c7aac1a4ad510e9896",
             "d7821cffec4076a9e837aed0faf0ff020c7b2ade",
@@ -5952,7 +5961,8 @@
         ],
         "tags": {
             "v1.0.0": "d827e18acdec1158cbf08648e1f28db7692f5702",
-            "v2.0.0": "8398429475912b82258a56a973b155d01906292f"
+            "v2.0.0": "8398429475912b82258a56a973b155d01906292f",
+            "v2.0.1": "9e1bc89ae633fd9c3d5ffadbf6d28e8fca41861f"
         }
     },
     "halogen-vdom": {
@@ -16814,6 +16824,8 @@
     },
     "crypto": {
         "commits": [
+            "ab52f18cc4021aabf922ed69c98617a4450fc346",
+            "712981830df2e04320b6a512e340d51744ff0025",
             "cbfd115a3288320b4a626a4348723a9b69d8ad98",
             "f90bbe9eb5dd072916ceb1d48b8d0f2f0bd45956",
             "4867fa34eb3105ee6646381e6bea97e66377e842",
@@ -18192,6 +18204,9 @@
     },
     "nodemailer": {
         "commits": [
+            "81f1b6cc936587f30f057a98f9be3fe44c025698",
+            "58bb11831b183edc8cba9e23a59ad33cab5492c5",
+            "cd4fe9741880c390220241587dd1f3c725777c30",
             "cf896620deef4b8df9e9257f08670584f9da123a",
             "96f067ffe9d17fb0697e3e227cea7c0d9ec1ddd4",
             "31abca3102bf64791ec7940e59f468c78e312760",
@@ -18208,7 +18223,8 @@
         "tags": {
             "v0.1.0": "f39aed8e9787b269960f9ee6bf00fe3cec2bf620",
             "v1.0.0": "fb521afeb141b03faa9d69962a321915ce266db3",
-            "v2.0.0": "96f067ffe9d17fb0697e3e227cea7c0d9ec1ddd4"
+            "v2.0.0": "96f067ffe9d17fb0697e3e227cea7c0d9ec1ddd4",
+            "v2.0.1": "81f1b6cc936587f30f057a98f9be3fe44c025698"
         }
     },
     "signal": {
