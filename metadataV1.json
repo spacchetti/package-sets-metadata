@@ -223,6 +223,8 @@
     },
     "freedom-window-resize": {
         "commits": [
+            "dab0252538ec7189646b01d5a3be19049418d53a",
+            "72f564ce108d9a4563034209a56ff6929951f6e3",
             "d4c757d255930aa52b3be6c73c56ecdd4404c833",
             "a801a362c65813661af05616e4c06396d50e9ade",
             "f6f5b077a516b2b01631dc27a870d4f9d3cc4b4e",
@@ -3963,6 +3965,7 @@
     },
     "bucketchain-logger": {
         "commits": [
+            "20c4cfafeb972216ee15aac140646df005a04e81",
             "e0d612384747eaeb630751ff33c0afcd9ded79f8",
             "44e5279a41988e758d768fb04d2870a006517d59",
             "0f67f3a3605650d8508824080d5e48fc12b0695d",
@@ -4582,6 +4585,7 @@
     },
     "bucketchain-simple-api": {
         "commits": [
+            "e00bb2920053b3232c0db1c9a3f0cc44731a9563",
             "a7f546de145f72f9f426e848644804d7e0f09024",
             "d1d16fe37d8a0d6a5ca9457140b6a35e8ada46fb",
             "34bc66a75406b5752432bafcd89dae062cef7108",
@@ -6037,6 +6041,7 @@
     },
     "bucketchain": {
         "commits": [
+            "3f7aa0e6e67606aa78c68aaba4c175f3a9dde4dc",
             "afc57b2c68fd29de70749ef3653392e4225eaa7b",
             "ef51c50e12962fb9c87438245823742e83bd7e5b",
             "3d97f44326ada8eeda1a276bb364d736ae39e44d",
@@ -6642,6 +6647,7 @@
     },
     "bucketchain-cors": {
         "commits": [
+            "cf6c70fde1073fd836fe5076e51d1a772b869704",
             "bb0d5f05970f0fadae530a647da116f8c9ed99e2",
             "646fd548935a6158af8ee6d1cea0c2cb0e71c64d",
             "40fb93001eceb29087ad0993cbb0eedf2138d5ba",
@@ -7132,6 +7138,7 @@
     },
     "bucketchain-static": {
         "commits": [
+            "656a0e7ce85db24b38e7ce107403907ea73b9962",
             "485fd261eb33d9c4766bb8d604be08995e7a8515",
             "3c962169d1acf9f0d311d7b17a28eb84afe33e1a",
             "9cbf3d51ce2b4a5e8f40cfcf516dc2e3b06c26b9",
@@ -8431,6 +8438,7 @@
     },
     "now": {
         "commits": [
+            "68a2505155d74094f5adeeceeddd393b29e1095a",
             "c3b0d892cb188732b6b20cff522f7728ee275a6e",
             "2a05a426a10f5d046c947629b812e98f9122b9c7",
             "bdd2138f67b27bbe93feba93381bd9e731d963ec",
@@ -10531,6 +10539,8 @@
     },
     "freedom-virtualized": {
         "commits": [
+            "99446a875bed21a6cab123b4a5127f2829d4e982",
+            "391f9ce88c3b052a0dca40cd7b98d654a1f6a13e",
             "2bc1bd07ab1b5b89d78ca5c908000cc90f966cb1",
             "415cda957835f83d7f95883456237d2a8c07bc0d",
             "99f54bd7bcdbf6075d375965a47c9cbe9e2c42da",
@@ -10791,6 +10801,7 @@
     },
     "freedom-router": {
         "commits": [
+            "829b1f8bf3fd22281bf4c0a030795c27e08faa39",
             "a720938ce7eb18e16d62940f6cb6f8e600f2d9d6",
             "4e72bc64914fc308bf375dc87b041e10f2bfb3c0",
             "4313afcf620db041cc02b3f9a2a2737d652a015d",
@@ -10955,6 +10966,7 @@
     },
     "unsafe-reference": {
         "commits": [
+            "e8da5e834e404d8531d076a07f978ffce41f2c05",
             "1b56aa4e87bc46fa7150494cf2339fe8e140c8ed",
             "6aa19a5c1f4520f77814e8dc84d5c3d54fbb203e",
             "b18d3ed5c725ec413887db3ae5b9df7b64088c3e",
@@ -12098,6 +12110,7 @@
     },
     "concur-react": {
         "commits": [
+            "a943401430d8624bce4c9db85cad6142872cf63e",
             "c30a92e4978145a7c73b74261bdf0d4e769f32f3",
             "6660c28a218adb60b125151eff7091d75bdee536",
             "6f9200b64e7100a52c7d99eafc9440a3c4874012",
@@ -12364,6 +12377,7 @@
     },
     "bucketchain-csrf": {
         "commits": [
+            "3c9287ee1bd97b73e04214ce57b11f4b86b9f096",
             "a55ff1288e6f52521a30da9bb654f476c3297664",
             "702d62c35e0fa5d498982a869e98e036009450d4",
             "9a7e08a5423eafea14b20ec7656f5119f2cb2440"
@@ -12717,6 +12731,9 @@
     },
     "freedom": {
         "commits": [
+            "e8a768d930ec930a4cf697640c4cf58b520fb18f",
+            "a9bc3bf474731d6c6e4ca0c6301091444b962f49",
+            "c9612821bfe2168d04dd7bbcc6cb130ca2dded05",
             "0f0b25862af8b37198ccecdd2e54b3c35582b1c5",
             "8f77565d6d4dbc652e5d67a6ce049d4f5bfac9fa",
             "18b0d6ae3de6079aab8151ffe270bcaedbe07f26",
@@ -14833,6 +14850,7 @@
     },
     "js-date": {
         "commits": [
+            "9cc9635dab86f6b97a698664898be88475025f6e",
             "a25204ebfca92ab5825503c03ad81057938f4f30",
             "93fc004edc7b76bff3c62a25461001d2cc74570f",
             "7f9aea1140d9e5bf25af47442eeb5bdb2ea3fb88",
@@ -15261,6 +15279,8 @@
     },
     "freedom-transition": {
         "commits": [
+            "78a382acc16e8a9898074978beffa75a8d136252",
+            "64cd45d96125bf8bedec5076ac5ed5cc8d3a8adb",
             "8e8c1d2059d4d5ad5c35f464aa7ca16635629c2c",
             "e4a73141bc7b8d5b5db603164f9ec0a2f1cc22c3",
             "83ab0865c642513feaa186aad21facaac24f5d32",
@@ -15924,6 +15944,7 @@
     },
     "bucketchain-header-utils": {
         "commits": [
+            "2c4e52441a1c7836abd92e3982aa6dbbc678f7bf",
             "eed7b72662a08fff2b98c5505e87d03e02a866e9",
             "6690b3bddafea290530d331a6061a1633a11b029",
             "7cb8d03f18b7c328a683c38a8bc7789ca5002e8c"
@@ -16881,6 +16902,8 @@
     },
     "freedom-portal": {
         "commits": [
+            "f10d35b95ec316db97d4596399762c222b21d418",
+            "62a9bcc62b60403f2045ba9576cd2d9e4ca478bc",
             "061f1ee7048b7a95917db81f3eeedce5fae690e3",
             "8ab5580739d0098d494dc1170b3d162144fd141d",
             "695db8a7571a8d67d6e51c21398cf2edb76ebb55",
@@ -18446,6 +18469,7 @@
     },
     "nullable": {
         "commits": [
+            "d0b9957f8e78e72ada2d8afde6aa37ec94911872",
             "cc85a817e5d5cdc7fee3246b794747cc362ac585",
             "8d413f02224b8281bfa8037e45fbbf9fe2e254fd",
             "4dd36e4a0c107d0a3335b2817afee231836454ac",
