@@ -1308,6 +1308,7 @@
     },
     "bucketchain-sslify": {
         "commits": [
+            "8ee0b1725402ea8521d6840efb0ca1803a3f843e",
             "569776686a433731abd103d187a37aa186a40ace",
             "4bb3dfdf8ea444ab43b4b81a7a48ecca509a778f",
             "8d4062222d8545ccdce7d399f27520972898b6cd",
@@ -3737,6 +3738,7 @@
     },
     "bucketchain-health": {
         "commits": [
+            "58bfcd911506ba7e8ec0762f3d682a28d904f895",
             "a7d116244453cfdeb1c22f5952789999de0c6660",
             "1022ee6cec55f49f624b904c824254cbc426cae8",
             "bdb10dca4068943f8bb8d46dc340125731c116e0",
@@ -12731,6 +12733,7 @@
     },
     "freedom": {
         "commits": [
+            "d1fba4173d60b33946caafb8d80e7f06853b82a1",
             "e8a768d930ec930a4cf697640c4cf58b520fb18f",
             "a9bc3bf474731d6c6e4ca0c6301091444b962f49",
             "c9612821bfe2168d04dd7bbcc6cb130ca2dded05",
@@ -15253,6 +15256,7 @@
     },
     "bucketchain-history-api-fallback": {
         "commits": [
+            "7d7a9d335b45630bbf5da23276ad6f2be273ce09",
             "9f6fa8f9704e41b153ee034bc367d32cdd2a2010",
             "8ced83b5e524523682229ebb063e29de19da7849",
             "910dd8f0d7387c0f2db2f89683361effa4ffb13b",
@@ -15266,6 +15270,7 @@
     },
     "bucketchain-conditional": {
         "commits": [
+            "6f7d17e8cecb67d84f29b7d7a8ed0b74af1285ed",
             "d6dc738a6ab0247711a30edaf59d22e3a0332b80",
             "2a3e4e125f49d68c1641f3ec0022d3e908695c96",
             "a9c61308607dc089e1786414c320ded7f27efe77",
@@ -19756,6 +19761,7 @@
     },
     "bucketchain-basic-auth": {
         "commits": [
+            "a5c25667838d40b9d9b79519cc221e26093e61f6",
             "af8aef20b20ffb8d823522138e5aa3be8eb72505",
             "146dad06ba0b7042c275f25df4db56918a10aac9",
             "2b8e2a8a10331dba096563ae3cee99d87ee57e49",
