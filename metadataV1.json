@@ -18695,6 +18695,9 @@
     },
     "node-readline": {
         "commits": [
+            "0d61e645aa33142ddd46f63048fe16605f9b8b2a",
+            "70f0f7b744e0c95be3d87d86de0ca6555d1880bd",
+            "734a0e2ff6534e039d257ad45fd74ac5a9de485c",
             "72bed94d47d768dfe38ec8935126316b1e3f307c",
             "cf66311153c7b85405446b812f50fd1d3efb09dc",
             "5f897059b2c55cda5e689f681bc30e4accdfc2a5",
@@ -18760,6 +18763,7 @@
             "v0.1.2": "b3111cdd447e64f0ecee833af7bf506da96e90c7",
             "v3.0.0": "cac5d9f4e25465650060da748995739fa2f38073",
             "v0.5.0": "aab33c2e548ad1ab90b5995fea8ee1f2f104caa7",
+            "v4.0.1": "0d61e645aa33142ddd46f63048fe16605f9b8b2a",
             "v0.4.1": "90f55cc53b91b0d53162348bc646e36c236c09eb",
             "v0.1.1": "06b1bce49bd2bad2431fe5c495e6d423946c5ade"
         }
