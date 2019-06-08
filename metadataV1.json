@@ -3722,6 +3722,7 @@
     },
     "simple-jwt": {
         "commits": [
+            "979e7e5420b17ffa18220ccae332634e6f7e37d2",
             "a07f5dd9f01b8a88d574f6c359af740100a69dac",
             "d26e781496b785113b1edc5459710f92d94abca0",
             "bd37df92432073e72d40c0d68f17a918232dfa8d",
@@ -5943,6 +5944,7 @@
     },
     "identy": {
         "commits": [
+            "f385da58c9664eb5491b57c3fa569d03958ce64c",
             "9e1bc89ae633fd9c3d5ffadbf6d28e8fca41861f",
             "33864aa8daeb24510dad10fbaf9bfdeacb397240",
             "8c9ba62d94d5622fe55542612d7759f9548d4f17",
@@ -10803,6 +10805,7 @@
     },
     "freedom-router": {
         "commits": [
+            "fbe7e460d10da62f9aed125df03413c2bc7bee96",
             "829b1f8bf3fd22281bf4c0a030795c27e08faa39",
             "a720938ce7eb18e16d62940f6cb6f8e600f2d9d6",
             "4e72bc64914fc308bf375dc87b041e10f2bfb3c0",
@@ -12733,6 +12736,7 @@
     },
     "freedom": {
         "commits": [
+            "84074720d367924e19b75870ced646fd3ab7fb46",
             "d1fba4173d60b33946caafb8d80e7f06853b82a1",
             "e8a768d930ec930a4cf697640c4cf58b520fb18f",
             "a9bc3bf474731d6c6e4ca0c6301091444b962f49",
