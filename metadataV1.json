@@ -7149,6 +7149,8 @@
     },
     "bucketchain-static": {
         "commits": [
+            "0c8b21f957e6c8dd66c789cebf2ab92b1b26dc2d",
+            "fc72e808447717991d9b15bb314807658a4f5e84",
             "656a0e7ce85db24b38e7ce107403907ea73b9962",
             "485fd261eb33d9c4766bb8d604be08995e7a8515",
             "3c962169d1acf9f0d311d7b17a28eb84afe33e1a",
@@ -7159,7 +7161,8 @@
         ],
         "tags": {
             "v0.1.0": "17c9b8b63865632a9a972f273b311860e768d352",
-            "v0.2.0": "3c962169d1acf9f0d311d7b17a28eb84afe33e1a"
+            "v0.2.0": "3c962169d1acf9f0d311d7b17a28eb84afe33e1a",
+            "v0.3.0": "0c8b21f957e6c8dd66c789cebf2ab92b1b26dc2d"
         }
     },
     "uint": {
