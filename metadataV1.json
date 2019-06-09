@@ -3534,6 +3534,8 @@
     },
     "mysql": {
         "commits": [
+            "a4f090fdfa9df9738cc6f7353160a8d5ff1597a7",
+            "b4048cabcd0c9e3995ef7e974adf95e503f134c2",
             "8dbfe98f6076be77ae59031a4208c7d1242c4200",
             "3020c08d38e108ab6bb7aa6ce2d5bb0f94e10ec7",
             "2a4038e7fc7f061d44853e59dfa9d5668bb0ce89",
@@ -3603,6 +3605,7 @@
             "v0.1.2": "bc71aac05e2d45df078bfed8bfc543ebe7c0671c",
             "v2.1.0": "42a51c2088bd178755fba490579b8d7bb43e10ea",
             "v0.2.1": "568a88215f72ec91e21efc787bca57b4611ac5d1",
+            "v3.0.0": "a4f090fdfa9df9738cc6f7353160a8d5ff1597a7",
             "v2.0.1": "3f78afc70ce8fee36538e439ae303b3f8fa2f532",
             "v1.1.0": "11e9bac88b178f6c5773db11c408e70158dbe7c5",
             "v0.1.1": "eade4cc454d36bd23b7999718c428c5f905ab28c"
@@ -8480,6 +8483,8 @@
     },
     "foreign-object": {
         "commits": [
+            "8a7dc21c48e3e6d31e253b0e58dd95a3bbd7f6e7",
+            "75bd46aa12a242b1ecf7fc4cb3c321815c1073bd",
             "ecf9457f27854e45fa0d1292d1652b877ac24781",
             "aedd55149bdc07f4e2d4a9d60aa51739cdc69a3d",
             "64643745fc563d0714078c709526c64dbb45fbc9",
@@ -8725,6 +8730,7 @@
             "0d600b9606f803a835b9faf5963ed2a67dcd6f1d"
         ],
         "tags": {
+            "v2.0.3": "8a7dc21c48e3e6d31e253b0e58dd95a3bbd7f6e7",
             "v1.0.0": "6c5c386bdb4e8efba1747059a141d94f4ad7fcc0",
             "v2.0.0": "9c106a2867e004d1999c515abb538af0e4572e88",
             "v2.0.1": "64643745fc563d0714078c709526c64dbb45fbc9",
