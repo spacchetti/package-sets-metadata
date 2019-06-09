@@ -3753,6 +3753,11 @@
     },
     "spec-discovery": {
         "commits": [
+            "b90ca588dc054c951201488d982765226a8393e9",
+            "025d4d653b4523fb7277d593706b3b6a108f947c",
+            "8d4ee97d24dd365b258b0f880f1c9bbb69c0dac5",
+            "b49ea6620dbb3ba61a4b9baba53e19932cc17442",
+            "bbf6d7c7ff5d51718655af86376a92af397bae2d",
             "46dca2fbe41a29808dac93bfdd9ea05095be4323",
             "3df13c7eff03477c688f6c8f06795976533bb7ea",
             "fa4fd593446e41b5cf5cbe9e2453429e311328af",
@@ -3801,6 +3806,7 @@
             "v2.0.0": "003efe9cb15e27b1683fc69e8be5482208ba69c9",
             "v3.1.0": "fa4fd593446e41b5cf5cbe9e2453429e311328af",
             "v0.2.0": "f555ee72da87bfd463c91204a4942d05e3e98174",
+            "v4.0.0": "b90ca588dc054c951201488d982765226a8393e9",
             "v0.4.0": "e04b3a927879db7a7d8b784adf2db8b4fcac407c",
             "v0.3.0": "bf44280e584f25340243b8402bd8147fb7403445",
             "v3.0.0": "1f5f8f0916c255da99e1f605001cc013377a3cd8",
