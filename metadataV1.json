@@ -6394,6 +6394,7 @@
     },
     "react-basic-hooks": {
         "commits": [
+            "fd5e0f935a6785163c2ec3410688b1278972b7b5",
             "dd6cb470a6a94994dc96db4db9384dff8b4038da",
             "a758a629e4bb6ea29af2a0ad8baafc2cec2e9681",
             "2e7adda62e75e2e37ad53e8a618683ccdc427e39",
