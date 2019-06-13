@@ -19529,6 +19529,8 @@
     },
     "format-nix": {
         "commits": [
+            "47508fdc0d1220820afcf5ef1e46ea536a2e6846",
+            "bf5b969ad6ca558b8e83b9ab4e1bcbae2cd085a3",
             "8fd22be4f078eddbb9d1203bcab3a4741619e70b",
             "5688e8480dcb21acdd08901fe65e915423675f1c",
             "105a19245e72682d5b867b9ba31d6d26b9f9d054",
