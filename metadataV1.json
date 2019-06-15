@@ -19737,6 +19737,7 @@
     },
     "format-nix": {
         "commits": [
+            "aab90606c8a84831f32374da80de92c6147736fd",
             "e32633c7522cd1ecd9cc31b37db00efbb6614f51",
             "47508fdc0d1220820afcf5ef1e46ea536a2e6846",
             "bf5b969ad6ca558b8e83b9ab4e1bcbae2cd085a3",
@@ -19831,6 +19832,7 @@
         ],
         "tags": {
             "v0.1.0": "28867b88a2a41b62fadb651bdce96e8750e06fbc",
+            "v0.2.0": "aab90606c8a84831f32374da80de92c6147736fd",
             "v0.1.1": "105a19245e72682d5b867b9ba31d6d26b9f9d054"
         }
     },
