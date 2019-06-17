@@ -10835,6 +10835,8 @@
     },
     "sunde": {
         "commits": [
+            "e9c898ac0ffd5e61d82a6c02606ab84241278709",
+            "21ca55ec2d99bd39ddae3e901f369c4746c9fee2",
             "0342baae7d3d175bfc089ac1d2fcc10cfef18091",
             "989e83d219bd36dda356b7aefc4e3baa94537631",
             "e8ff4f66cf4c77a6de92dd68d86964a651a0bb03",
@@ -10843,7 +10845,8 @@
         ],
         "tags": {
             "v0.1.0": "2cd7749b93aa589254ec586049b621d9904b66a1",
-            "v1.0.0": "0342baae7d3d175bfc089ac1d2fcc10cfef18091"
+            "v1.0.0": "0342baae7d3d175bfc089ac1d2fcc10cfef18091",
+            "v2.0.0": "e9c898ac0ffd5e61d82a6c02606ab84241278709"
         }
     },
     "simple-json-utils": {
