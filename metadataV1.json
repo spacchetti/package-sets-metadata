@@ -6839,6 +6839,9 @@
     },
     "record-format": {
         "commits": [
+            "c277a20030b8c3d831b9ef8b50fc70b1edd26831",
+            "fb1aaa3412de9412c7c030415411235125467d01",
+            "07e63c5d39aee4f48c0984a9d74aadbf79c1b444",
             "657afb6f2ec81610b8008ffcc1386e6d1bf7141a",
             "303f35f37b5cfd1c0586b297b8256828512d69f5",
             "46dd6746ecbe47ce21e82a5efa5e9287f433d057",
@@ -6867,7 +6870,8 @@
         "tags": {
             "v0.0.1": "860917221d542e99bdd1bb553f6d2a03bb0c017e",
             "v0.1.0": "46dd6746ecbe47ce21e82a5efa5e9287f433d057",
-            "v1.0.0": "657afb6f2ec81610b8008ffcc1386e6d1bf7141a"
+            "v1.0.0": "657afb6f2ec81610b8008ffcc1386e6d1bf7141a",
+            "v2.0.0": "c277a20030b8c3d831b9ef8b50fc70b1edd26831"
         }
     },
     "svg-parser-halogen": {
