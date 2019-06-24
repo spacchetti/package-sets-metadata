@@ -20837,6 +20837,8 @@
     },
     "format-nix": {
         "commits": [
+            "8f0b0f6193ef36fc40add60f8477f6c3a06dfed9",
+            "46f1b265c335899816e4374948eb1891de122cc8",
             "54ddbbd702894c1dac076e7fb64cb6eda6cb3230",
             "1421394a9e99f29a1efb348eb689193560cac11b",
             "aab90606c8a84831f32374da80de92c6147736fd",
