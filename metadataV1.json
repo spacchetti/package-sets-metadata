@@ -12562,6 +12562,12 @@
     },
     "dotenv": {
         "commits": [
+            "16431fe5cf9416c53fd3ba627b610bc0ee446ff0",
+            "1331b26c254a336091fff58a63fce1e90ff47a4b",
+            "44ade2ab9c16da07cf0f3d10242d6baf8277abba",
+            "256947260e720328c7d5ea4512597153a831cafa",
+            "7abbfb24bf4dab074ddc7d9bd26047467dc2fb22",
+            "60bb7ffe50f9ae977bd76f3cbee290285d5a8b02",
             "c17d09cd6561a9f116bc5b2179ed7c162acc3fc9",
             "65490d435dee8714a2321d29646917c9c3bd4534",
             "4beff91a114e59de5450e7cc6621ffeb055b594a",
@@ -12656,6 +12662,7 @@
             "v0.3.0": "a1bfbdb7aa06ec7f01f1b2485212252fbab4ea44",
             "v0.1.2": "21ec469b49b8f363a9f0e598b85fa241f88d94e2",
             "v0.2.1": "f86f5e67138aec1877f4bd50eb32115a565b0ec3",
+            "v0.4.1": "16431fe5cf9416c53fd3ba627b610bc0ee446ff0",
             "v0.1.4": "3df29dc08110f1aba60c39419cd53bd68092b263",
             "v0.1.1": "f80792f7ea237377094373be6d57c821c05ef971",
             "v0.2.2": "44e4952afcd4a834b7f378eed62b3fcd419427c8"
