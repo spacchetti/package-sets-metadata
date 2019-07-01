@@ -12571,6 +12571,8 @@
     },
     "dotenv": {
         "commits": [
+            "bc4e898997ee35edb29997c5be2a624d6ffe0023",
+            "aad2ccab573ca0864d0d9e32cf5a1d01bc5c79ac",
             "9c5ac13133d0a3ff28ab1dc4af757768ff295e38",
             "fdecd444768ac086806a792a80a0690cfe31d835",
             "2319dcb6ad1f3a5784a77f757692e648e2519f2c",
