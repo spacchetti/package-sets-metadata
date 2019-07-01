@@ -4225,6 +4225,8 @@
     },
     "filterable": {
         "commits": [
+            "9d9fce00c0daed8095cd8f9ba5a3bc34e2cc0741",
+            "b7bff31576261bc66bf29bfeca7679c2b107d68e",
             "90bbe5d03a48f4ae5f8ba501c11fba9193226c7f",
             "0b9b0994704f29e75072e6b3e6b8658b93b35ab8",
             "6cf6406df6eb937d55a38b55ad25aaa2e2caa481",
@@ -4263,6 +4265,7 @@
         ],
         "tags": {
             "v0.1.0": "ef7d5b45318c02d0a28deb1706855d51ab310002",
+            "v3.0.2": "b7bff31576261bc66bf29bfeca7679c2b107d68e",
             "v2.3.0": "9c507465e216e192d086eba5467a607be6fdff4c",
             "v1.0.0": "e7377f374c45d0dc077cd054b5a6ba3616156b2a",
             "v2.4.0": "35c3945d019a7513a45240c0f199fd1fecfaf05a",
@@ -10950,6 +10953,7 @@
     },
     "sunde": {
         "commits": [
+            "5c71f0cc58bf31d3ed77af62f481c25a4725627a",
             "e9c898ac0ffd5e61d82a6c02606ab84241278709",
             "21ca55ec2d99bd39ddae3e901f369c4746c9fee2",
             "0342baae7d3d175bfc089ac1d2fcc10cfef18091",
