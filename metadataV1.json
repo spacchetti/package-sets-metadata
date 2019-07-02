@@ -3982,6 +3982,9 @@
     },
     "spec-discovery": {
         "commits": [
+            "1ca3416e6c0729eca8d5204f22cf0aa09c98df9d",
+            "170a3e1e5a083f98e8c0f669b375770d4f143608",
+            "6bf0dcfc20b41fc0a682ed4d88c98cbba0f06f60",
             "0bb1d70ff6334caa191c8d9c536f9bfcde46310d",
             "b90ca588dc054c951201488d982765226a8393e9",
             "025d4d653b4523fb7277d593706b3b6a108f947c",
