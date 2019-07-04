@@ -13396,6 +13396,8 @@
     },
     "freedom": {
         "commits": [
+            "e6f416ac2bc0576935106d11dd04f304adf4f905",
+            "ed7b9447eb20971b7c54ee1c808b16a05c3e783a",
             "84074720d367924e19b75870ced646fd3ab7fb46",
             "d1fba4173d60b33946caafb8d80e7f06853b82a1",
             "e8a768d930ec930a4cf697640c4cf58b520fb18f",
@@ -13491,6 +13493,7 @@
             "aec2e2d3e09be98878c6e5643a2682b954067c93"
         ],
         "tags": {
+            "v1.1.1": "e6f416ac2bc0576935106d11dd04f304adf4f905",
             "v0.0.1": "9f3ef96275a956cdf24e1545b8bb74af09603240",
             "v0.1.0": "381ae1aeb2577d928b468e6670ee1e4ed6ad7945",
             "v1.0.0": "5abb1a11b6411cfe0b4c58f465934f47acd428ae",
