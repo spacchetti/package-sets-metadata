@@ -289,6 +289,7 @@
     },
     "freedom-window-resize": {
         "commits": [
+            "43f43731c45456226af15c62f47a07d86d8e01e8",
             "dab0252538ec7189646b01d5a3be19049418d53a",
             "72f564ce108d9a4563034209a56ff6929951f6e3",
             "d4c757d255930aa52b3be6c73c56ecdd4404c833",
@@ -11059,6 +11060,7 @@
     },
     "freedom-virtualized": {
         "commits": [
+            "7d65951c82d03ea4c3c5cb44a7f183d367c0be43",
             "99446a875bed21a6cab123b4a5127f2829d4e982",
             "391f9ce88c3b052a0dca40cd7b98d654a1f6a13e",
             "2bc1bd07ab1b5b89d78ca5c908000cc90f966cb1",
@@ -11321,6 +11323,7 @@
     },
     "freedom-router": {
         "commits": [
+            "bfbc2a5dbc2bbf43dbdd42ad930cd2cb8dc04104",
             "fbe7e460d10da62f9aed125df03413c2bc7bee96",
             "829b1f8bf3fd22281bf4c0a030795c27e08faa39",
             "a720938ce7eb18e16d62940f6cb6f8e600f2d9d6",
@@ -16233,6 +16236,7 @@
     },
     "freedom-transition": {
         "commits": [
+            "bed2af2d6048ab47fe968e0b856d0ae108522b2e",
             "78a382acc16e8a9898074978beffa75a8d136252",
             "64cd45d96125bf8bedec5076ac5ed5cc8d3a8adb",
             "8e8c1d2059d4d5ad5c35f464aa7ca16635629c2c",
@@ -17861,6 +17865,7 @@
     },
     "freedom-portal": {
         "commits": [
+            "cedc35f4f001e5c59b58a487bb791e4083541f1d",
             "f10d35b95ec316db97d4596399762c222b21d418",
             "62a9bcc62b60403f2045ba9576cd2d9e4ca478bc",
             "061f1ee7048b7a95917db81f3eeedce5fae690e3",
