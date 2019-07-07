@@ -10934,6 +10934,7 @@
     },
     "pairs": {
         "commits": [
+            "8c220e4f51c33ef04291cab60af69729f768f8ea",
             "adedb8fecc53139600b087b1d2be0c9cdd43415e",
             "dfb42b0f3360fadbddf4528ff6196846f9428e72",
             "39ca9f45528f8254b08214e2c3229ee15c7c4230",
@@ -10950,6 +10951,7 @@
         "tags": {
             "v1.0.0": "d634af9b64cdf6846fb32de98bcb7391e337662b",
             "v6.0.0": "adedb8fecc53139600b087b1d2be0c9cdd43415e",
+            "v7.0.0": "8c220e4f51c33ef04291cab60af69729f768f8ea",
             "v2.0.0": "512c4b2416628d1706e6579324637a3a1dd154e6",
             "v4.0.0": "39ca9f45528f8254b08214e2c3229ee15c7c4230",
             "v3.0.0": "23f270ea792f73e1892fd3f0be17821203d6aa45",
@@ -15591,6 +15593,7 @@
     },
     "decimals": {
         "commits": [
+            "4911f744fb7db6519758b6993edc28d0f81e0a89",
             "94161bad1aa941e407995bb8144c046adaf14c00",
             "45088fca232448e3d4bb629185780f5dbd353539",
             "743165a7c8fed35f6557a1422fc4c5665fe2074d",
@@ -15623,6 +15626,7 @@
             "v2.1.0": "f50dcc0afd86c25f3855fa45d519d4c343bfc01d",
             "v3.0.0": "ad719fc73b00837edf9aca5966744b1915b4a650",
             "v1.2.0": "692ed11640d85aba6396149ef68e155c2437c787",
+            "v5.0.0": "4911f744fb7db6519758b6993edc28d0f81e0a89",
             "v1.4.0": "bdb8a72b7b49705eeeeb7de7930331170832ba0d",
             "v3.3.0": "f97174e0f2855fe56363956a3d1a055e4304c3c4",
             "v1.1.0": "71229493bca7d3fede9b8fadf06eeea4363214fe"
@@ -15864,6 +15868,7 @@
     },
     "numbers": {
         "commits": [
+            "6262a5f17dcdfba11dfae03f4fa8eec02f7ed29f",
             "1dfc39808806a93a6c6ccb123de73606e519785c",
             "a37f671cf219d3288b7bcca0b9ab9ff7e7dc5e5a",
             "b9202067ac5ad0789a8d64d7d7a8cd2a4a7ef4c6",
@@ -15901,6 +15906,7 @@
             "v1.0.0": "7ca3911aacf558b9e1b44e0809ad96e876b7a0e4",
             "v4.2.0": "6177417c5fb87e4a74d56d8dc651644fb0a918ad",
             "v6.0.0": "a37f671cf219d3288b7bcca0b9ab9ff7e7dc5e5a",
+            "v7.0.0": "6262a5f17dcdfba11dfae03f4fa8eec02f7ed29f",
             "v2.0.0": "4b573540eff276a1278873e6a731ae7fba02edeb",
             "v4.0.0": "c1aba38aafd0d7eb416ed09a6136bbb0925b2632",
             "v3.0.0": "1f214c4b5b1ee7216a5dcc83b58532bc5cbd6d69",
