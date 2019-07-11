@@ -4353,6 +4353,8 @@
     },
     "profunctor-lenses": {
         "commits": [
+            "83a242fd955a9c488d6423c37b8a248a62fabb2a",
+            "111b3dea0d020ee06cb174502a57643bab05f40b",
             "afe51d485c9a09679964a099f77915b1a3406186",
             "bb1743b7c80f7f09e6b55dfd0a803ecf47f1857b",
             "00241af28014dc05b9e7376c6dfbbecd79c864d9",
