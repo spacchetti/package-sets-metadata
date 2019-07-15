@@ -1530,6 +1530,7 @@
     },
     "bucketchain-sslify": {
         "commits": [
+            "6dc5707731105c42d835100b43ea805a61ea1d9d",
             "8ee0b1725402ea8521d6840efb0ca1803a3f843e",
             "569776686a433731abd103d187a37aa186a40ace",
             "4bb3dfdf8ea444ab43b4b81a7a48ecca509a778f",
@@ -4865,6 +4866,7 @@
     },
     "bucketchain-simple-api": {
         "commits": [
+            "2b7d758bf9ed88ef168bd051e00ee51dbfc2f586",
             "1955c1995731d49dfd722bca9f3f8b5e593e8a2e",
             "fe68574bd4ae8e786161b4949fa433f961a58495",
             "04885edb231f7bf2a61578464d109dc01d8d1c08",
@@ -7734,6 +7736,7 @@
     },
     "bucketchain-static": {
         "commits": [
+            "d2b17a7b13973a55943c4e8727aceaa0af20dd2d",
             "0c8b21f957e6c8dd66c789cebf2ab92b1b26dc2d",
             "fc72e808447717991d9b15bb314807658a4f5e84",
             "656a0e7ce85db24b38e7ce107403907ea73b9962",
@@ -21648,6 +21651,7 @@
     },
     "bucketchain-secure": {
         "commits": [
+            "685912b787d5f6858f221b416d9182ec731bad0d",
             "d51f484c5162b2b37c129efca6b5cba01ea68565",
             "7c50eea1950ce8959256d05e859ab5d8166d1f4e",
             "57aaab79a172e4e7a2c71c80717cec7df24f2171",
