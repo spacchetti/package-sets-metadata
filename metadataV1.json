@@ -289,6 +289,7 @@
     },
     "freedom-window-resize": {
         "commits": [
+            "bc1d75913b6c94f9eab44149b1a57d23d9e948fe",
             "43f43731c45456226af15c62f47a07d86d8e01e8",
             "dab0252538ec7189646b01d5a3be19049418d53a",
             "72f564ce108d9a4563034209a56ff6929951f6e3",
@@ -1224,6 +1225,7 @@
     },
     "unordered-collections": {
         "commits": [
+            "84501202af5319eabfce2c803f509ff63f6bc54f",
             "119ebe64821c4c55721269a10e88ee1eef7d0748",
             "15bf60f1490ed15b81ff0436bcc3cc7f17a1eeef",
             "e326acb7697b0a8c71861f276940f2ddaee61eb6",
@@ -2710,6 +2712,7 @@
     },
     "basic-auth": {
         "commits": [
+            "c259c88bc13a44b16f123085b837b91fcea9b9fd",
             "ae614f8458950b6695b8ea14281306fea45182d3",
             "66fcde65070219b647d111f9c0ba899fb6fe893b",
             "1088c0f8dd8dabe278594c0b976a85f9d374bb4a",
@@ -3755,6 +3758,7 @@
     },
     "mysql": {
         "commits": [
+            "5328ca577890915eb8b4af08fb9a5e9118c76792",
             "806f74c688837e76ac36972525a99bca05e80874",
             "3eec392b06c4c6645e7b531f3d79ce84f0dbdc96",
             "a4f090fdfa9df9738cc6f7353160a8d5ff1597a7",
@@ -3949,6 +3953,7 @@
     },
     "simple-jwt": {
         "commits": [
+            "53dbb945b600a9082893bf52287557826011274d",
             "dc8d3a0208f7ef12c310c5c97eab8682466e5caa",
             "6a50e3608712c3ce75e8c54f42df4b1a232f9ed8",
             "979e7e5420b17ffa18220ccae332634e6f7e37d2",
@@ -5212,6 +5217,7 @@
     },
     "simple-emitter": {
         "commits": [
+            "ed4163eaa961c234ca562a104cc1084aac703185",
             "cf9c4b4b534dccb1c9d6183f1040e7cb02a709bb",
             "9be84f4a553e0da641508d24be45a02a33e0bb79",
             "f22f657a2940250ff3b02973ed014befcd7d1735",
@@ -6295,6 +6301,7 @@
     },
     "identy": {
         "commits": [
+            "80a84c8dc1fae3fbcd6740e3ecc0c4d279b12977",
             "dd22f4b051aab0498a9c91752e003f07e81aa009",
             "d9650383fe0864e88627cbc717a109d0a21945dc",
             "f385da58c9664eb5491b57c3fa569d03958ce64c",
@@ -11165,6 +11172,7 @@
     },
     "freedom-virtualized": {
         "commits": [
+            "8a17f8ae76403062050058eddf6c796831a712c8",
             "7d65951c82d03ea4c3c5cb44a7f183d367c0be43",
             "99446a875bed21a6cab123b4a5127f2829d4e982",
             "391f9ce88c3b052a0dca40cd7b98d654a1f6a13e",
@@ -11428,6 +11436,7 @@
     },
     "freedom-router": {
         "commits": [
+            "c8aa545b95d87334c720a80eba7a8cc6ec5e5142",
             "bfbc2a5dbc2bbf43dbdd42ad930cd2cb8dc04104",
             "fbe7e460d10da62f9aed125df03413c2bc7bee96",
             "829b1f8bf3fd22281bf4c0a030795c27e08faa39",
@@ -12890,6 +12899,9 @@
     },
     "concur-react": {
         "commits": [
+            "31bb72ba8b226ea8a8d01914cf9bd6eede2f5543",
+            "3abca096caa9b5513e960c1f2224fedc6effc006",
+            "7bc13287e63e1f521c5e64ca0f4960a1c4a4b0c9",
             "fad6742e6bfd2ecd1fc4b25e15c95ea7455f4a94",
             "f06ff02d3e519db6ceecf4e75a99adca10104695",
             "541d15e5543ae2d82dfeddaa699ccd72d34cc346",
@@ -13531,6 +13543,7 @@
     },
     "freedom": {
         "commits": [
+            "ff60398b6153a2852483be0878dd154cd825f18d",
             "2693ac197c340a9644e8a169c968556a4b734bb7",
             "12ca78d47d3b6aa095320cc0e92b6de011dfa75b",
             "7ff7a2f310995ec03e66dc97a1bf7583bcc8dd62",
@@ -16372,6 +16385,7 @@
     },
     "freedom-transition": {
         "commits": [
+            "3d9ead39644f1b78f4bc23880098c9e7b0a2560c",
             "bed2af2d6048ab47fe968e0b856d0ae108522b2e",
             "78a382acc16e8a9898074978beffa75a8d136252",
             "64cd45d96125bf8bedec5076ac5ed5cc8d3a8adb",
@@ -17944,6 +17958,7 @@
     },
     "crypto": {
         "commits": [
+            "6b4f73727e974316c9f63ec7c8b5a1729f05d895",
             "ab52f18cc4021aabf922ed69c98617a4450fc346",
             "712981830df2e04320b6a512e340d51744ff0025",
             "cbfd115a3288320b4a626a4348723a9b69d8ad98",
@@ -18001,6 +18016,7 @@
     },
     "freedom-portal": {
         "commits": [
+            "552da2524caf9f6df83ba943d7e9a4898bb1b89f",
             "cedc35f4f001e5c59b58a487bb791e4083541f1d",
             "f10d35b95ec316db97d4596399762c222b21d418",
             "62a9bcc62b60403f2045ba9576cd2d9e4ca478bc",
@@ -20012,6 +20028,7 @@
     },
     "nodemailer": {
         "commits": [
+            "1132b66dbec26aed5cf1ea2e70c03514361b63a8",
             "5883df3b8e90eeb90a7780ba17c82da6b36f8fa6",
             "5d89e5e7bcaa5a82726dddbf2d4c277e21a4bd09",
             "81f1b6cc936587f30f057a98f9be3fe44c025698",
