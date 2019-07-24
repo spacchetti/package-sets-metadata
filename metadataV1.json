@@ -3857,6 +3857,8 @@
     },
     "node-streams": {
         "commits": [
+            "88740eeda2017d3ddcde50eea59d57c7749d8524",
+            "9fc7cd404abc5485d443555768b5ad59b2c7d9c8",
             "816275345db4465f2c39a26eedd7f253ea79b48a",
             "bebf20b0e50d9a564dd98e13baaee67692b331d6",
             "b45cf84d542eefda0a2d9f94a989ac62956cb991",
@@ -3946,6 +3948,7 @@
             "v0.1.2": "dec7851349363adf3a1315a2df657aa1db604bb9",
             "v3.0.0": "0f2b352c4db7b314784d1de47fbab8b1e9de75a4",
             "v0.5.0": "92bff3f867af8dab641101167ae923c3d64b2929",
+            "v4.0.1": "88740eeda2017d3ddcde50eea59d57c7749d8524",
             "v0.4.1": "da7ff40be40663ccaccec914e42cc2e819bd9e73",
             "v0.1.4": "b200888734c617f4aabd4c3398e72324fd7eb913",
             "v3.3.0": "5544cc893a403cc6f14a0efeace3c3209bcad938",
@@ -15170,6 +15173,8 @@
     },
     "node-http": {
         "commits": [
+            "b18d054de436ad589d41acee0aca7f3bd6762aab",
+            "970fd36886225f1d0a62215fcad789c36bea7ba8",
             "9a6d80f236fed494dce2d438e410233fa2183307",
             "ae8d63c077bd826aa063c761eae057bb35facdb4",
             "7b0766561d033fb606915f2fac59fad78099e9d3",
@@ -15239,6 +15244,7 @@
             "v1.0.0": "54fe7ed363ed095536eb841a521a2b10b773771c",
             "v4.2.0": "71c8050b145f89dc8177fbefcdb54501c78e3792",
             "v0.1.7": "8887d44e1c084b6040f64fade4a08fe75c75f746",
+            "v5.0.2": "b18d054de436ad589d41acee0aca7f3bd6762aab",
             "v0.1.6": "123ca3e66fc0ade7dac18aa0baeb5a3025f038b7",
             "v2.0.0": "1bae2f6ab58c42684fc337691769844a298cfb4a",
             "v1.3.0": "a3b8afa6f787f739d0ef70477341a78e7f16d94d",
@@ -16487,6 +16493,9 @@
     },
     "node-fs": {
         "commits": [
+            "3da61c95b0542fc65c67f086f56f787aebbb03f4",
+            "02d610f237dc130edb5ee594fd46b16c691b79eb",
+            "c3236e788556822c6ce001217d5041346acc9b3a",
             "a8380b56acab3202587259ea259ea195cb440774",
             "feef77f8edd9c59b93229eb3aa4d530b81e0c251",
             "ca60af26fe4dac9adefd12e46d0da27354bd4021",
@@ -16642,6 +16651,7 @@
             "v0.10.0": "b48216964992907bf8b3aec9698ab9ab17f590b6",
             "v0.8.1": "dea26f7c3ade4847eec55e9706d522667cc4ae5e",
             "v4.0.0": "d18a01f4aa3c3d901e7e15da9a44f0534a2ed6ff",
+            "v5.0.1": "02d610f237dc130edb5ee594fd46b16c691b79eb",
             "v0.4.0": "c0df3cb3200a6452592ed5488163aa798fb59fbb",
             "v0.3.0": "84efde19dbd74dfa6eb82cc259d2ea1caa1bf777",
             "v0.1.2": "140cc7a89645e24a9586c46b2b7bd4699f84aa34",
