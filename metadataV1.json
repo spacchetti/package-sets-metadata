@@ -2713,6 +2713,8 @@
     },
     "basic-auth": {
         "commits": [
+            "1a62ffdd2c9bf82f8225d168be70e417a1cf4c83",
+            "17c39b468c0d8aa2d3899bb4949de0cf1680f353",
             "c259c88bc13a44b16f123085b837b91fcea9b9fd",
             "ae614f8458950b6695b8ea14281306fea45182d3",
             "66fcde65070219b647d111f9c0ba899fb6fe893b",
@@ -2729,6 +2731,7 @@
         "tags": {
             "v0.0.1": "d1d59c2d5ed41e2de8bb0cf9afdf73090b9a5cf4",
             "v1.0.0": "2f552a4b9efc4f4a2a5f4cf8e9cf74dc7685c1f0",
+            "v1.0.2": "1a62ffdd2c9bf82f8225d168be70e417a1cf4c83",
             "v1.0.1": "1088c0f8dd8dabe278594c0b976a85f9d374bb4a"
         }
     },
@@ -3957,6 +3960,8 @@
     },
     "simple-jwt": {
         "commits": [
+            "5654df5747d8a403cd05c1b72bc8e6d1672f9b57",
+            "cc56ea9703ac4b2a6c7373195a7e1eb5b30e09e0",
             "53dbb945b600a9082893bf52287557826011274d",
             "dc8d3a0208f7ef12c310c5c97eab8682466e5caa",
             "6a50e3608712c3ce75e8c54f42df4b1a232f9ed8",
@@ -3972,6 +3977,7 @@
         ],
         "tags": {
             "v1.0.0": "46e29ae1f5d3d66ac2bbd5cd5d8dd50efeddd65e",
+            "v1.0.3": "5654df5747d8a403cd05c1b72bc8e6d1672f9b57",
             "v1.0.2": "dc8d3a0208f7ef12c310c5c97eab8682466e5caa",
             "v1.0.1": "a07f5dd9f01b8a88d574f6c359af740100a69dac"
         }
@@ -17987,6 +17993,8 @@
     },
     "crypto": {
         "commits": [
+            "0acc404042b5effa63d5aee08ffcc1b3e1e0e5ce",
+            "338517331670f0c6e072c79a7a313f1ad470a6e2",
             "6b4f73727e974316c9f63ec7c8b5a1729f05d895",
             "ab52f18cc4021aabf922ed69c98617a4450fc346",
             "712981830df2e04320b6a512e340d51744ff0025",
@@ -18028,6 +18036,7 @@
             "v0.1.3": "fc5bbfac89a74a788977138233dc258307e9ce64",
             "v0.2.0": "1b34dccc04ba23058c4e0d6f450fbdc879bbc9a1",
             "v0.1.2": "6f7fbff5eb480adbcb4b4e949237c17280069690",
+            "v2.0.1": "0acc404042b5effa63d5aee08ffcc1b3e1e0e5ce",
             "v1.1.0": "5145118e9265305f42bd7165709d32e45a29891f",
             "v0.1.1": "910a19ccf57268fe094d32ffed68038464a00913"
         }
