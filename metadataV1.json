@@ -583,6 +583,7 @@
     },
     "string-parsers": {
         "commits": [
+            "b72004351df26f1061c1b493ab117562409e4854",
             "fbb77491ac9e58c446fbc8876d933f29799a55f8",
             "098c22d9c8b62fb6c67ac62ccb6610720cf71810",
             "13afd0d9db90e1bb70849d974f6f615a06a00d4a",
