@@ -20214,6 +20214,12 @@
     },
     "hyper": {
         "commits": [
+            "48012f85b43e928a83dfe8ca8f9d1d4c6d264463",
+            "cdc97dc9b82dfc61e6f144c138ea2dd0c4d1eee5",
+            "c5311dbdd93a84e0a315c4855f5a4cc037a6ffdf",
+            "d64d97c8cb2b8f09b81c870a342ec33ad37ede02",
+            "108b7e267796a7d5f3c1ac33f6026162939b3fbe",
+            "5e90c484bd8c17061bfcef9a3d0e5875d71e1010",
             "191ab462f7e9328624a7312f94dde21df0698f2b",
             "b5cdb470011cbe2832f0f04ac798aa45b65f8f73",
             "56a2aa989838a9d5ca45e7dba4b9a1d41665da2c",
@@ -20650,6 +20656,7 @@
             "v0.1.0": "def53484eb2647fcb53ed495bbeb0e734f56825d",
             "v0.6.0": "6ef6ae6013622c20d366f749ebbb150d8a33a8fa",
             "v0.7.1": "c6dffaaee8afce1ea26aa6b076a5b2f722a31a5a",
+            "v0.10.1": "cdc97dc9b82dfc61e6f144c138ea2dd0c4d1eee5",
             "v0.8.0": "45910af3df1b7434fcc5695983be40b305b32d6c",
             "v0.9.1": "301c30e8914d13b0d1748dc7fc7c0b1bf971b51f",
             "v0.7.0": "b658435e60d493af6a8202fc0dce829b6d35906c",
