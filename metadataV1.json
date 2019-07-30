@@ -4014,6 +4014,8 @@
     },
     "simple-jwt": {
         "commits": [
+            "4acffe4e45aa6fbad98e50be2660262a2553ebc4",
+            "2375ebc8be7f65f3365a6d3535d933bf9fe08f02",
             "5654df5747d8a403cd05c1b72bc8e6d1672f9b57",
             "cc56ea9703ac4b2a6c7373195a7e1eb5b30e09e0",
             "53dbb945b600a9082893bf52287557826011274d",
@@ -4033,7 +4035,8 @@
             "v1.0.0": "46e29ae1f5d3d66ac2bbd5cd5d8dd50efeddd65e",
             "v1.0.3": "5654df5747d8a403cd05c1b72bc8e6d1672f9b57",
             "v1.0.2": "dc8d3a0208f7ef12c310c5c97eab8682466e5caa",
-            "v1.0.1": "a07f5dd9f01b8a88d574f6c359af740100a69dac"
+            "v1.0.1": "a07f5dd9f01b8a88d574f6c359af740100a69dac",
+            "v1.1.0": "4acffe4e45aa6fbad98e50be2660262a2553ebc4"
         }
     },
     "bucketchain-health": {
