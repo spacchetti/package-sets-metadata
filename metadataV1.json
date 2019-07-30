@@ -4014,6 +4014,8 @@
     },
     "simple-jwt": {
         "commits": [
+            "860362ed001ac1f28108408e63f181a0f9bb735b",
+            "cfb4825586d4a5459b680ad068b9c1518b330f1e",
             "4acffe4e45aa6fbad98e50be2660262a2553ebc4",
             "2375ebc8be7f65f3365a6d3535d933bf9fe08f02",
             "5654df5747d8a403cd05c1b72bc8e6d1672f9b57",
@@ -4032,6 +4034,7 @@
             "27d5fdf33411eded49bdff686152b79d901d43a0"
         ],
         "tags": {
+            "v1.1.1": "860362ed001ac1f28108408e63f181a0f9bb735b",
             "v1.0.0": "46e29ae1f5d3d66ac2bbd5cd5d8dd50efeddd65e",
             "v1.0.3": "5654df5747d8a403cd05c1b72bc8e6d1672f9b57",
             "v1.0.2": "dc8d3a0208f7ef12c310c5c97eab8682466e5caa",
@@ -10179,6 +10182,7 @@
     },
     "run": {
         "commits": [
+            "4c78421629c72cccacaf3574fea7e70fc68460db",
             "68eec5b5957e6f36fc4e206a1d4dd2adc3095587",
             "a16680c267cdc24a589021ca3a8986511cc5ef3f",
             "1fc0d15493b676c7566d34558685ea99700ccad0",
