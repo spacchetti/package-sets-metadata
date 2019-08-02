@@ -6830,6 +6830,8 @@
     },
     "react-basic-hooks": {
         "commits": [
+            "a7961dd10bb83ea2b82d5596a3d9442c99f3198d",
+            "429f41dab11a4dd8c8363506093d62ca57d65711",
             "a76aa48631a5fe6811c9bf260fcd8ac27637db0f",
             "1642393e1950c8c5e7cf392642bf53184ac52cd3",
             "3f3cf28c59436c86ca54edf82ac626e4a993bf33",
@@ -6869,6 +6871,7 @@
         ],
         "tags": {
             "v0.1.0": "94220fd9017207ebfcdfdf8e489e33f308cb253e",
+            "v1.0.0": "a7961dd10bb83ea2b82d5596a3d9442c99f3198d",
             "v0.6.0": "8cbe0d64ff358d01b447d6b1abb01d39ef3ebfb0",
             "v0.7.1": "929afe6eb9a0857a493e1d8f18357ac3042e1a33",
             "v0.7.0": "50610e0767b612855c7803efcdef718ed0771569",
@@ -7292,6 +7295,9 @@
     },
     "react-basic": {
         "commits": [
+            "bb3cfcbde081f75f4f3e1d04f0a83655f09af437",
+            "591a3ad83a6e3d7ae316230d76d5c6d63ba6111c",
+            "809ccc8b15793380e96ba28d5d4f7813878e1aa2",
             "0b45890df3863b6e8e44e3c360ef0565fe2fea9e",
             "3106c92abd5164a8a54f4a8b624f82f56b3c89f3",
             "c97f2841e4c5b40c51aaddf96dde964c367e0563",
@@ -7448,6 +7454,7 @@
             "v0.10.1": "705e7d475a39ab6446e16bd2ca4d37b50e8f7e25",
             "v8.0.0": "dc53374dd78bd224dd3a3c0ab4bcf4afed13cedf",
             "v0.8.0": "541c130353732e952a6d42b045999608b4eb8a05",
+            "v11.0.0": "bb3cfcbde081f75f4f3e1d04f0a83655f09af437",
             "v9.0.1": "7c3f46ddd652c6efec8bc444a185e2446bd79941",
             "v0.7.0": "a6b719ec9a376e919f70537c4534f4b8cee13e70",
             "v7.0.0": "e567488e0f09b52bd5fd9f91866bb4dbba4aad5a",
@@ -7460,6 +7467,7 @@
             "v9.0.0": "05f0cf2a6392c97087f699ad490b88ca55c20a4e",
             "v0.10.0": "a25b8cfdd8bb1a51b77e8ae34c111b2733512898",
             "v8.0.1": "ba247c019211892bc52c6de9550b7248bf52e751",
+            "v10.0.0": "809ccc8b15793380e96ba28d5d4f7813878e1aa2",
             "v6.2.0": "8784fa216c2d3fc26266cd2ad12e31f508538979",
             "v4.0.0": "4c2c2634950530200fd3d246b0dcc9b3053f060c",
             "v5.0.1": "7fb83512b976523d1c9def90617e0e143bdaea1b",
