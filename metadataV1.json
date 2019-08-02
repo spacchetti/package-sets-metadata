@@ -6830,6 +6830,8 @@
     },
     "react-basic-hooks": {
         "commits": [
+            "eb95b6d1101a8056802a8c335bcb32b76d6e53e5",
+            "3407b8023e1f028d8ed085c9aa5b74d803f12730",
             "a7961dd10bb83ea2b82d5596a3d9442c99f3198d",
             "429f41dab11a4dd8c8363506093d62ca57d65711",
             "a76aa48631a5fe6811c9bf260fcd8ac27637db0f",
@@ -6879,7 +6881,8 @@
             "v0.2.0": "32116d1ccd53ef81439d0fc2bd7332292b266efd",
             "v0.4.0": "1dae60e0e037ca75c8e339b878617d84bca73713",
             "v0.3.0": "6e334b938e7fea2df031c8207b73a1111a2b1e67",
-            "v0.5.0": "f6c2123c9a53e6177e4fd98096ea8e2d6b041310"
+            "v0.5.0": "f6c2123c9a53e6177e4fd98096ea8e2d6b041310",
+            "v1.0.1": "eb95b6d1101a8056802a8c335bcb32b76d6e53e5"
         }
     },
     "chirashi": {
