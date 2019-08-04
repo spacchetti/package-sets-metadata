@@ -7210,6 +7210,10 @@
     },
     "svg-parser-halogen": {
         "commits": [
+            "02a41abce5c665e94eeec8e33a54e953e4f9ca0d",
+            "e80a0e6cc0f330df7dbd85f922e0bc697b57c995",
+            "db13c1f58ce7cb711d684ebc4427bc0f16138bbf",
+            "0a6fd0e6173da8fa02a9efaaf0f689592f6a0b2d",
             "e8112870313eca2111f2c0fe4efed4b284526bf4",
             "a93c86579fbc8b4284250200153cbf5715423e0b",
             "3e061cfa1f2eba209acfd1fc1ceb889b39fc7b3d",
