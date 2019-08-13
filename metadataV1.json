@@ -18481,6 +18481,8 @@
     },
     "simple-json": {
         "commits": [
+            "c5e2b7b25e2e30fb9940cad388377a2040d8b54a",
+            "8fc0546d5e338e386ed110a82ba5b168d8112c95",
             "d6c4163f6ad65be97b148ebf86c900cb821da5a8",
             "6fb53f2bb3f1d35dacaf700bc4e7e01bee82a676",
             "f8f8b79feb23e57d332210b2234e09a21c96768e",
@@ -22583,6 +22585,9 @@
     },
     "milkis": {
         "commits": [
+            "7e524d44005ccb6f19c28d6c61fe1488ba637938",
+            "5d92f66b83482fd27ef09a1bd5abc739b7c4a101",
+            "b891818ff6b58ffa872e6201599cfef401181131",
             "6a55398de664595406e0b5fe7cd3646a4501f1ed",
             "0f5e5343eb5a876685d45292d1cd6a9355a2446a",
             "c8bea4079f2a515b02901b44c35e615c1ddb9ce6",
@@ -22663,6 +22668,7 @@
             "v6.1.0": "61054721d41b07b4ce55b0ed0b766fe7a1827cae",
             "v2.0.0": "6def07a68ba742095b108c571761a912e19752be",
             "v0.2.0": "f836175ae1de4da769c20373ee3414b963944f1e",
+            "v7.2.1": "7e524d44005ccb6f19c28d6c61fe1488ba637938",
             "v6.2.0": "3570a250d4f9a7fb861d49bf7a620cfd731ab213",
             "v4.0.0": "a2d526a02ff144a438e82a4e4e86f24ee14b3f0a",
             "v5.0.1": "1fb748de330220d26e4810eed8756421e9ec0740",
