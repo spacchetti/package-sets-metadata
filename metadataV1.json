@@ -17839,6 +17839,14 @@
     },
     "indexed-monad": {
         "commits": [
+            "c3638dd54272a44bca5ecb9290c9fbe03b5ed2b7",
+            "35ccf039dd7f327c74f5ed10d4d9f0607a96cdba",
+            "a52edecf739cd15d8c32fd544061b1ceaebf1ec1",
+            "643db1c1dc2e84633e20d7aa9284f2186be724f6",
+            "0694c6e97c6db46d74f8536e758b2bb6d3508d7d",
+            "793a285a55ec89bf6fcaa579552bb1635f25d42d",
+            "d4267210d6b42e41123cfa57639a1db389422c85",
+            "9a1480da11322a8593dfc00605af20c1dd364d5c",
             "2e16035a1dec57d3b4bb741cef7603fc98f63775",
             "55daa484f945c499401e8d9e9c402c6ca452461c",
             "a173948c6c1916fa7c980cacce3462b17c593a60",
@@ -17862,6 +17870,7 @@
             "v1.0.0": "2e16035a1dec57d3b4bb741cef7603fc98f63775",
             "v0.2.0": "2786138fe52b4445a42cb3cddbcc0144a092441a",
             "v0.3.0": "d421583e2ad869e9e8b4c95684629a5ed14a188e",
+            "v1.1.0": "c3638dd54272a44bca5ecb9290c9fbe03b5ed2b7",
             "v0.1.1": "320c1c12eff0cd56cc587e0de86b68ffd98a99fd"
         }
     },
