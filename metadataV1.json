@@ -2786,6 +2786,8 @@
     },
     "basic-auth": {
         "commits": [
+            "c6e86a5153ccaee42211fb6471de9922c364acd4",
+            "05145fa0df7d35cba4c5f0dec198249898c43987",
             "1a62ffdd2c9bf82f8225d168be70e417a1cf4c83",
             "17c39b468c0d8aa2d3899bb4949de0cf1680f353",
             "c259c88bc13a44b16f123085b837b91fcea9b9fd",
@@ -2804,6 +2806,7 @@
         "tags": {
             "v0.0.1": "d1d59c2d5ed41e2de8bb0cf9afdf73090b9a5cf4",
             "v1.0.0": "2f552a4b9efc4f4a2a5f4cf8e9cf74dc7685c1f0",
+            "v1.0.3": "c6e86a5153ccaee42211fb6471de9922c364acd4",
             "v1.0.2": "1a62ffdd2c9bf82f8225d168be70e417a1cf4c83",
             "v1.0.1": "1088c0f8dd8dabe278594c0b976a85f9d374bb4a"
         }
