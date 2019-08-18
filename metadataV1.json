@@ -19138,6 +19138,8 @@
     },
     "web-dom": {
         "commits": [
+            "dcfeb05905cedcdeeb88447259b022b6a1b824a4",
+            "4b2894a4553b6ad49a1d3b05d4563911567efb76",
             "ae891c563300f614e5284285aa64c69acfef8bb1",
             "0c47ae3e37407c10789712137381f7899d1ac3a0",
             "3f46a7a2187f052fa85e91f2707e1373ef7c6742",
@@ -19158,6 +19160,7 @@
         "tags": {
             "v1.0.0": "3c756980ef75564e782cdbe16d748a1ee8187ae2",
             "v2.0.0": "b3c9d46ade1acafe22dc44ae33f7febbd201264f",
+            "v3.1.0": "dcfeb05905cedcdeeb88447259b022b6a1b824a4",
             "v3.0.0": "0c47ae3e37407c10789712137381f7899d1ac3a0"
         }
     },
