@@ -16938,6 +16938,8 @@
     },
     "bucketchain-history-api-fallback": {
         "commits": [
+            "125beca6f91e3b20cb0aad7f8eb48ec84f5c2b8f",
+            "df2603ae266860f80a7f962dd5c96308ec4d3138",
             "fb1774d1ab857e0da663f56f2de0fe4a0b79993a",
             "7d7a9d335b45630bbf5da23276ad6f2be273ce09",
             "9f6fa8f9704e41b153ee034bc367d32cdd2a2010",
@@ -16948,7 +16950,8 @@
         ],
         "tags": {
             "v0.1.0": "0166d0edecc8828d6b08cc416572803ded702cfd",
-            "v0.2.0": "8ced83b5e524523682229ebb063e29de19da7849"
+            "v0.2.0": "8ced83b5e524523682229ebb063e29de19da7849",
+            "v0.3.0": "125beca6f91e3b20cb0aad7f8eb48ec84f5c2b8f"
         }
     },
     "bucketchain-conditional": {
