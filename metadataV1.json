@@ -10762,6 +10762,7 @@
     },
     "argonaut-generic": {
         "commits": [
+            "942057f06029136ff4239578585d02a228165a8e",
             "fbaa763f8cc6771c66c6207bf9c00fa56cc44a57",
             "d9c347f144d798759e4c36b294191086e2d826dc",
             "a25208169f9622e3908f42f24180cdd4d5a7c2ce",
@@ -12041,6 +12042,7 @@
     },
     "unsafe-reference": {
         "commits": [
+            "2ee6cb12afe097561c76ffec41077864fe2c590d",
             "e8da5e834e404d8531d076a07f978ffce41f2c05",
             "1b56aa4e87bc46fa7150494cf2339fe8e140c8ed",
             "6aa19a5c1f4520f77814e8dc84d5c3d54fbb203e",
@@ -21899,6 +21901,7 @@
     },
     "strings-extra": {
         "commits": [
+            "8e029b42c8d9018d8ea9174ea348bd8ee4d1e2c1",
             "dfe17addc1e30384ec48cec7320f47635764a2d1",
             "834b9078075f679cd188e35c0a65410d2eb13dbd",
             "371883284f8f598690d16f75d8a73d6552986513",
