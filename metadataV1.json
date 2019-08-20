@@ -2787,6 +2787,7 @@
     },
     "basic-auth": {
         "commits": [
+            "09adb67a191261a6cedd7a593cef5f1e677abc07",
             "c6e86a5153ccaee42211fb6471de9922c364acd4",
             "05145fa0df7d35cba4c5f0dec198249898c43987",
             "1a62ffdd2c9bf82f8225d168be70e417a1cf4c83",
@@ -4049,6 +4050,7 @@
     },
     "simple-jwt": {
         "commits": [
+            "c614a578d53fdc0f74c22acffecb3e943eb48c05",
             "860362ed001ac1f28108408e63f181a0f9bb735b",
             "cfb4825586d4a5459b680ad068b9c1518b330f1e",
             "4acffe4e45aa6fbad98e50be2660262a2553ebc4",
@@ -18974,6 +18976,7 @@
     },
     "crypto": {
         "commits": [
+            "eae49e622881fce65c1c04caed5b7f8c9e4946e8",
             "0acc404042b5effa63d5aee08ffcc1b3e1e0e5ce",
             "338517331670f0c6e072c79a7a313f1ad470a6e2",
             "6b4f73727e974316c9f63ec7c8b5a1729f05d895",
