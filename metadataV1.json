@@ -14371,6 +14371,8 @@
     },
     "freedom": {
         "commits": [
+            "e07c8e9fc61ca4c0309bbe7bfccdbbd0c5c8a037",
+            "6a2f264d205bd61c9f7875f17765bac439a00ae1",
             "8ca578faacedb4a1dab2a7bf05fed2bf2ec4e301",
             "add21031b4cff3b4aa48896c92deef477aa6f596",
             "7cdc3661ac066beee7d626bc66708a9ea6e1f7de",
@@ -19040,6 +19042,7 @@
     },
     "freedom-portal": {
         "commits": [
+            "615099da64a3e9d0c30b9458a6a59f0ae1515e98",
             "552da2524caf9f6df83ba943d7e9a4898bb1b89f",
             "cedc35f4f001e5c59b58a487bb791e4083541f1d",
             "f10d35b95ec316db97d4596399762c222b21d418",
