@@ -8122,6 +8122,7 @@
     },
     "bucketchain-static": {
         "commits": [
+            "c727ef4cdcf122f497e66dd1ec6a09251d2930ba",
             "d2b17a7b13973a55943c4e8727aceaa0af20dd2d",
             "0c8b21f957e6c8dd66c789cebf2ab92b1b26dc2d",
             "fc72e808447717991d9b15bb314807658a4f5e84",
