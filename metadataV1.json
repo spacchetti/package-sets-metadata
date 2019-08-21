@@ -4165,6 +4165,9 @@
     },
     "profunctor": {
         "commits": [
+            "9b3d014b38c69ea2dd4b1f597330b095034fe2c4",
+            "be868fc0c46df3b91cf15e64391d605fd064ee11",
+            "52cc344c6f38290b08507e20ef2ab90e1fb6702b",
             "1de584baf49624cc0d1686067d82b93523654c1b",
             "2bde9b5504837cff053314abcb84ba9dd9b30d8f",
             "e211ea63fe7cf3c4cee5067f299f02bd43a0f157",
@@ -4246,7 +4249,8 @@
             "v4.0.0": "1de584baf49624cc0d1686067d82b93523654c1b",
             "v0.3.0": "a216f5d48de296e9a6def2feffacbb2057f09554",
             "v0.2.1": "b831cb3672cbafc6cbae9b39a23f5e37ff4b559e",
-            "v3.0.0": "b4cff5e322df896188cbe282b3d80995369cdf9d"
+            "v3.0.0": "b4cff5e322df896188cbe282b3d80995369cdf9d",
+            "v4.1.0": "9b3d014b38c69ea2dd4b1f597330b095034fe2c4"
         }
     },
     "media-types": {
