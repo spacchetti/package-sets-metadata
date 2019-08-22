@@ -17332,6 +17332,8 @@
     },
     "monad-logger": {
         "commits": [
+            "b57fe478d22c6921d10ae6af340fca635e53fd55",
+            "efae6b30a13661225880e1452584e4bbbd0b3b39",
             "c154835166d7966e92015b8a32a0f515bba4370e",
             "8082a35c50a191c026db85b1c479e003a5356b13",
             "1922e7eeb576004cb7a4242566c9dc2a7489a757",
