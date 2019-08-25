@@ -11887,6 +11887,8 @@
     },
     "freedom-router": {
         "commits": [
+            "bf759ae5af1ab28abd66111c3741b67e728a4fdb",
+            "8bb3eb174b63067d128e980c1fb61e569559d243",
             "fb284c85ad726c1ec867c16643dbe4f87b769e02",
             "c8aa545b95d87334c720a80eba7a8cc6ec5e5142",
             "bfbc2a5dbc2bbf43dbdd42ad930cd2cb8dc04104",
@@ -11928,7 +11930,8 @@
             "v0.4.0": "e7bb49d423da01323b34f3c063b7fd197e7c0852",
             "v0.0.3": "00062302181f579ed8bc311e87977dcf896d7d14",
             "v0.3.0": "40effe8ded36d140d74dda9272a20054bd96c444",
-            "v0.5.0": "deda287ea3cd274de490453e08c9e6fc5680fc8e"
+            "v0.5.0": "deda287ea3cd274de490453e08c9e6fc5680fc8e",
+            "v1.0.1": "bf759ae5af1ab28abd66111c3741b67e728a4fdb"
         }
     },
     "promises": {
