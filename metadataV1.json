@@ -17198,6 +17198,8 @@
     },
     "freet": {
         "commits": [
+            "aecca5b389aecf15a37e369b76d7d0064223996d",
+            "eb662da6487b7d9c105d6e9d783e8743587ea7d8",
             "c85451a20e6cea2ac9e07762706283c7d9971f5e",
             "46e9c75c181be3b6a66c97f3373cd6dbcf0975bd",
             "8f05d0c610977507fe29a9ed6926cc5ca2be863c",
@@ -17259,6 +17261,7 @@
             "v3.0.0": "ae79da15ae3a8ceb836477a8e7b2035f05bb6cbe",
             "v2.0.1": "666f3769822708a961570901ad999ff5572f5ec5",
             "v4.0.1": "c85451a20e6cea2ac9e07762706283c7d9971f5e",
+            "v5.0.0": "aecca5b389aecf15a37e369b76d7d0064223996d",
             "v4.1.0": "c85451a20e6cea2ac9e07762706283c7d9971f5e",
             "v1.0.1": "79732dc2392ed16749f50ed93e97ec4a4bda9ebb",
             "v0.1.1": "572bc91bc4d2b330a250ee750b6977d584e4df86"
