@@ -6478,6 +6478,8 @@
     },
     "argonaut-core": {
         "commits": [
+            "1a9a4d87d97645f5fa0414a60f84f2bdae58ccd5",
+            "c7f14a24cb2a5c30929459527d9429daf1812de4",
             "ca4d80f7c289d97d479e8d232becb159d1a9d5c1",
             "bac3bcc9a0ccb677094adb0b11f5daf5bf1ba9e8",
             "bebd7099b9cd681659dcd93407e639219360188e",
