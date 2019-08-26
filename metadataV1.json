@@ -7596,6 +7596,8 @@
     },
     "react-basic": {
         "commits": [
+            "3ce119e90dea28da09bb2f5c25904fa258c634cb",
+            "a8ac272649df64449059fb31db88c0e50d434411",
             "f09b25de387935ccda70b6cf1ab91227b980e922",
             "ee3714f88d5790547e24d19353711bbd73aaf1cb",
             "bb3cfcbde081f75f4f3e1d04f0a83655f09af437",
@@ -7749,6 +7751,7 @@
             "v1.1.1": "8c34fe85a61632b794def6d905caa7e925d6ab17",
             "v0.1.0": "fd571e927f05b0ad598c9bae8cd134a41869c77d",
             "v1.0.0": "1ce2617c50d6733d79057b6baa470662cbbf92a5",
+            "v12.0.0": "3ce119e90dea28da09bb2f5c25904fa258c634cb",
             "v0.10.2": "91e7fd9b48cd44acc4bc25e49ebab58c0ecea7a9",
             "v0.6.0": "539cddc77541c4a6fe0b8d9bf0fcb427085a5f09",
             "v4.0.2": "4c2c2634950530200fd3d246b0dcc9b3053f060c",
