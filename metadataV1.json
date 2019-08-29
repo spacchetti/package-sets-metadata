@@ -12559,6 +12559,7 @@
     },
     "halogen-formless": {
         "commits": [
+            "97aaa24d411cc061ee5da3d611477aa0cc4aa084",
             "d7151f89d870b0e5647ac3ce76ec13d184e047b5",
             "55e2453f8e0d9169ec3cdccdd8cc09c0e289ffea",
             "2da6f6aac614f350b5b27a2d206f0a9a72c40e50",
@@ -12733,7 +12734,7 @@
             "b5fe3adb99e35888ffd5c2e7dad2a46261f05e37"
         ],
         "tags": {
-            "v1.0.0-rc.1": "d7151f89d870b0e5647ac3ce76ec13d184e047b5",
+            "v1.0.0-rc.1": "97aaa24d411cc061ee5da3d611477aa0cc4aa084",
             "v0.1.0": "2de2f75d847ae74fb2a55e1313fdea351db69ac5",
             "v0.5.2": "d2ea40347fbed51271301eabc23983417e2f3cc9",
             "v0.3.1": "9b23452b39ef81caa1c6fa5f9f1fc20d1649027b",
