@@ -17841,6 +17841,8 @@
     },
     "bower-json": {
         "commits": [
+            "c2880c35a99d500e71964fe4831f43a1bb7a2228",
+            "48589aba7aae6459991102128ca14f3e61995c68",
             "b6ad7b27af78b692164ccf022a974a1bcc6cc2c7",
             "91a9f2e93ebd0f9fd97ef87fb8c5d601d192c0cc",
             "dab96f66ac3867bc816c789f4b7486e637e87f62",
@@ -17853,7 +17855,8 @@
         ],
         "tags": {
             "v0.0.1": "8561cce47eeeecdf3e16a10d7b6d414352cf9c01",
-            "v0.1.0": "b6ad7b27af78b692164ccf022a974a1bcc6cc2c7"
+            "v0.1.0": "b6ad7b27af78b692164ccf022a974a1bcc6cc2c7",
+            "v1.0.0": "c2880c35a99d500e71964fe4831f43a1bb7a2228"
         }
     },
     "bucketchain-history-api-fallback": {
