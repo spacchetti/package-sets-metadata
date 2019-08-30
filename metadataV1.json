@@ -808,6 +808,8 @@
     },
     "safely": {
         "commits": [
+            "19f854737e17b4d058e5a1504a960821db36e4ab",
+            "262b6acd2891a10e90a46ec8b9c21e48c03db866",
             "454fa86e47c6f65e28f8c4fda3615d409f350505",
             "f8ab862d102bfa3df7c3997475fbb1cb974f58d4",
             "130f922a41db205c48e820b9aece47c643fc96c6",
@@ -840,6 +842,7 @@
             "v4.0.0": "454fa86e47c6f65e28f8c4fda3615d409f350505",
             "v0.3.0": "a34d2ed50a442adee7dec72f13520a9942c6053c",
             "v3.0.0": "75d510e758114eb2bf91ac4638ba3c3116fc70c7",
+            "v4.0.1": "19f854737e17b4d058e5a1504a960821db36e4ab",
             "v1.0.1": "a5a5bc6c502c76465f7631e57ce6ba62318447d9"
         }
     },
@@ -12562,6 +12565,7 @@
     },
     "halogen-formless": {
         "commits": [
+            "11ae3d6c1308d409a0ff972badf4c114bb232ab4",
             "97aaa24d411cc061ee5da3d611477aa0cc4aa084",
             "d7151f89d870b0e5647ac3ce76ec13d184e047b5",
             "55e2453f8e0d9169ec3cdccdd8cc09c0e289ffea",
