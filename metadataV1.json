@@ -22614,6 +22614,15 @@
             "v0.1.1": "e4ee8939e47cd5a8a1ab71a4630768c3e83dbeb1"
         }
     },
+    "freedom-now": {
+        "commits": [
+            "bf38aa7ab59dbddbb75ce6a05a6b215331b845df",
+            "732cd8852864231d61adf996ea4ba3e1143d5301"
+        ],
+        "tags": {
+            "v1.0.0": "bf38aa7ab59dbddbb75ce6a05a6b215331b845df"
+        }
+    },
     "datetime": {
         "commits": [
             "9e76abe96f45a68eb0bb23d0afd56031a8070bee",
