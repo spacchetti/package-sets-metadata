@@ -22626,11 +22626,14 @@
     },
     "freedom-now": {
         "commits": [
+            "a0fdc1fd1648f29f1d0dd7b2d4803e7c491231f2",
+            "441961c5696365fbaede2d8378d4db65dee591d5",
             "bf38aa7ab59dbddbb75ce6a05a6b215331b845df",
             "732cd8852864231d61adf996ea4ba3e1143d5301"
         ],
         "tags": {
-            "v1.0.0": "bf38aa7ab59dbddbb75ce6a05a6b215331b845df"
+            "v1.0.0": "bf38aa7ab59dbddbb75ce6a05a6b215331b845df",
+            "v2.0.0": "a0fdc1fd1648f29f1d0dd7b2d4803e7c491231f2"
         }
     },
     "datetime": {
