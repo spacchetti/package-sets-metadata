@@ -1211,6 +1211,7 @@
     },
     "event": {
         "commits": [
+            "5c3cf3866c01d8faed1763bb9f738db22a5ff4bb",
             "af8b8d2e381f423c0b5e739e92668e392e77efce",
             "a8ff0e852a4b1f291af3c4403f8220bbf1d6da9b",
             "f9ce9db19e614ba081bf167c140a7544eb5d6758",
@@ -1234,6 +1235,7 @@
             "v1.2.2": "77378d7f9feb0392a43c1305fc5e7ee7387d191c",
             "v1.0.0": "fb9b43e1a38bd618f08de21867135ad1ebee7e0f",
             "v1.2.4": "af8b8d2e381f423c0b5e739e92668e392e77efce",
+            "v1.3.0": "5c3cf3866c01d8faed1763bb9f738db22a5ff4bb",
             "v1.2.1": "3674d6b8c6a63eb64a987bf429cf5c1d42112fa2",
             "v1.2.0": "cff1bc90ed4a723f7a43b6e8c7c2a40108f61f5f",
             "v1.1.0": "0c09ce2f122039b35a2b98671e4b9edd5a8beace",
@@ -1702,6 +1704,7 @@
     },
     "behaviors": {
         "commits": [
+            "0fc50530f71a3026bba12dd8df435bdbd9ef076a",
             "3e300f9023ed85c6ff8d2b9840d69fba9604e7a4",
             "f55fd957500e9a70d21e1f20e95f8dc0696724ef",
             "d977905982d113d023988c9c75e91b15fddcb53a",
@@ -1757,6 +1760,7 @@
             "v0.1.0": "85c2f720870bcaf3ab9929710bc19904897bb6e0",
             "v1.0.0": "7ead6f052688fa627eeccc23298b6cd365218848",
             "v6.0.0": "a16e1a8706c31b11dc6b55b2112d7ea1f8755ed1",
+            "v8.0.0": "0fc50530f71a3026bba12dd8df435bdbd9ef076a",
             "v7.0.0": "f55fd957500e9a70d21e1f20e95f8dc0696724ef",
             "v6.0.1": "9a6bcdb05284f4a0ae71b96b3cce84341f3698af",
             "v6.1.0": "23ca2e3ca4a43f2168a04004aa66835251ad04b0",
