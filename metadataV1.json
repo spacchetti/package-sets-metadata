@@ -9610,6 +9610,7 @@
     },
     "typelevel": {
         "commits": [
+            "c7917aa6d43440608e6e04332e4c916a45976313",
             "0dfecf222fb1a91b31294ac729b9d76ba6636cc7",
             "5ce2e704fd86f66ccb40a81366146811a1e1fb16",
             "fd5804224ab15da19d2ed14378bfccc099204eb3",
@@ -9638,6 +9639,7 @@
         ],
         "tags": {
             "v1.0.0": "e76e4f56fec2c0411db0bfb2a50baaf48c698611",
+            "v6.0.0": "c7917aa6d43440608e6e04332e4c916a45976313",
             "v2.0.0": "934b7043b5d9ed9a0ec26938a0fb9cd2d2db8bd4",
             "v4.0.0": "fa4294d5102911ac9e7a1feec23dc568c9ddef03",
             "v3.0.0": "b2dc35421545b72c0fc1beb3fecb0308fe89ef93",
