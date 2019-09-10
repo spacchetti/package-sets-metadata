@@ -16079,6 +16079,8 @@
     },
     "argonaut-codecs": {
         "commits": [
+            "1e5aecae7ad292f4b5c255a87448b5b08bef053d",
+            "6372c0d6e6cd1733b59f7ea62859463e15251209",
             "5f8ebe528935b15c81e169ca823b61a4cfc60e46",
             "699073d7cf48f59058f7372cf3a5580aaf41589e",
             "e9d26f14306f31fd71a722ddfd57830d40cad775",
