@@ -3965,6 +3965,11 @@
     },
     "mysql": {
         "commits": [
+            "1a7e5969104d3c4bbafd7e117e1ea36aa0817348",
+            "75ce6958b329674e3e47a7a3e7306ee37229ffa7",
+            "95276efa90d2b898474c7488b09f25f598284d51",
+            "01ce36a764b56bf83e346979a51eaf0dac979103",
+            "2e8f0fde8a3ba22db588f968388e86cb5351d838",
             "863a0aee044319bade5c05903e6f7513d9a04526",
             "972d584bb4b5cf07b8601889777624b45579fabf",
             "317e262edfcdb57324eda7622661a06b051ff593",
@@ -4032,6 +4037,7 @@
             "fd0f3ab5e1d6f266b01203f5c26fdcb3979d4b42"
         ],
         "tags": {
+            "v3.2.0": "75ce6958b329674e3e47a7a3e7306ee37229ffa7",
             "v0.1.0": "02ae68ef6a1f12fa0c15a9ade22e33f3d65a876e",
             "v1.0.0": "5adccef96f6f788781b8ca598d72515fefe9aba5",
             "v2.0.0": "9c6efb7685db1d1020748dfe4e34edd3dc668ec0",
