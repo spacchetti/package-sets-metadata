@@ -18012,6 +18012,7 @@
     },
     "monad-logger": {
         "commits": [
+            "55441b4caf390bc38078a9c5c865efb105549cef",
             "974b6fcfec6dff3474bcbc8e658a0e9ef2f9a97c",
             "daf4961adf761728543b743ab92df33c683039f8",
             "0c066fcd7da231f09ef5c85d76fffec6f5f2628e",
@@ -18035,6 +18036,7 @@
         "tags": {
             "v1.0.0": "438bc3fc89c51c3f79dffcf83f7a73f7c2e5c16b",
             "v1.3.0": "0c066fcd7da231f09ef5c85d76fffec6f5f2628e",
+            "v1.3.1": "55441b4caf390bc38078a9c5c865efb105549cef",
             "v1.2.0": "c154835166d7966e92015b8a32a0f515bba4370e",
             "v1.1.0": "542930d96ebe924f31c4e008b16c3ebc4fb88571"
         }
