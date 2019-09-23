@@ -3829,6 +3829,7 @@
     },
     "httpure": {
         "commits": [
+            "4d5518eff52122f940bccb5f091572095cf976f5",
             "88e1dcde9e020ebd4e4f7914349666947b9c7805",
             "ae56c9f0a1fcd08cb677888b785b9dc8bdbb7d23",
             "413683cd09e491ce2c79ac15619dfbff00b9e869",
