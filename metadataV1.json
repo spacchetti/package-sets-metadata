@@ -5323,6 +5323,8 @@
     },
     "bucketchain-simple-api": {
         "commits": [
+            "cfe81caae3fce051a5c630439aa8c8b93c9fc71e",
+            "5c780543238b95f925967c9518f4e5c0db1f041e",
             "169693ad0a7b52fc09e3d13c63f9f61f4b087fb4",
             "54fe25946235ae1969689652af7a5562ea45a643",
             "f7af7722905fe3f1146a39b5a34b9cb5675e94ff",
@@ -5376,6 +5378,7 @@
             "v0.4.0": "568e37a6eecd31d2d394ca271ceb1a70a64ed9ff",
             "v0.3.0": "84e971bd07f286c842f7e0b4a02eeb459db5a794",
             "v0.1.2": "f53e19ffbaa7afb346b728bc0df52cf38c06213d",
+            "v2.1.0": "cfe81caae3fce051a5c630439aa8c8b93c9fc71e",
             "v0.5.0": "1955c1995731d49dfd722bca9f3f8b5e593e8a2e",
             "v0.4.1": "a7f546de145f72f9f426e848644804d7e0f09024",
             "v0.1.1": "09b26a5bbd9eec0e54dcc35a15a137a41e3e33dc"
