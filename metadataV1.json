@@ -19067,6 +19067,9 @@
     },
     "bucketchain-header-utils": {
         "commits": [
+            "07a90f72493d4b0dbc58fdd9d7e9dd613c10a522",
+            "3e6dafc569255d248dd031d649ad37d3a444e749",
+            "7e51a3731a86745f665f7e9bc85432df955108a2",
             "5581bd652b0bb3998cd7b7868b5034e742356459",
             "e6643e1b06973be9919c09f8dd0811b2b649d501",
             "2c4e52441a1c7836abd92e3982aa6dbbc678f7bf",
@@ -19075,7 +19078,8 @@
             "7cb8d03f18b7c328a683c38a8bc7789ca5002e8c"
         ],
         "tags": {
-            "v0.1.0": "6690b3bddafea290530d331a6061a1633a11b029"
+            "v0.1.0": "6690b3bddafea290530d331a6061a1633a11b029",
+            "v0.2.0": "07a90f72493d4b0dbc58fdd9d7e9dd613c10a522"
         }
     },
     "tuples": {
