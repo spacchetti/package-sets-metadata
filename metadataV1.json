@@ -14814,6 +14814,9 @@
     },
     "stringutils": {
         "commits": [
+            "093a07ba7894dd9bdb3b91edccc372c65e362dd8",
+            "00f5984ba9fcb7fe488842faab63dbd4b55cfac4",
+            "aefea08eb4206b1ff260fb7378e54ceed79cf8c5",
             "4fb0d6dfd52bfe2374e0b7750cbad56a04a875c0",
             "b29695d9fee4d84a6cd1961445564a221f23c227",
             "ec3f0516558e8ed7714f5140487e6b667205a639",
@@ -14882,6 +14885,7 @@
             "v0.0.7": "c73e39a54caf5b28d125b074f0c7d7bdce32d7f3",
             "v0.0.2": "d5bc14d83c94bb8dbbb759a4f1ea1d642e7aee90",
             "v0.0.9": "7983cde4aa1edac2b31611eb7c1fd17abcff667c",
+            "v0.0.10": "093a07ba7894dd9bdb3b91edccc372c65e362dd8",
             "v0.0.4": "677f6a8c22f453c80dcc0e2865e9eaaabe22b7c2",
             "v0.0.3": "79bf0a51bf78a8a253fe0ef840f7fe297a2b8734",
             "v0.0.5": "9f6486ea3844ea74d7b8ca4a2abb99d63a72c93c"
@@ -19994,6 +19998,9 @@
     },
     "encoding": {
         "commits": [
+            "e45941150c75f26ab53cb5e34207cc347b375942",
+            "1dace094e7648ca525cf5e71dbbbf0af2a26f2c4",
+            "b2d7273b07b28fd1807410ddf59afe844d8c4e52",
             "8a697897538ac8d0c7de66770bb83a98b0a662b9",
             "9bcbd70952a88060917061fd7bb0119eccb221bc",
             "5a2d6576c991b7b6c812e30335e3f738fbf26957",
@@ -20010,6 +20017,7 @@
         ],
         "tags": {
             "v0.0.1": "cf9a03700fa3d978e5baada7a4bee5cea1b21283",
+            "v0.0.6": "e45941150c75f26ab53cb5e34207cc347b375942",
             "v0.0.2": "3cfa68498aa9288088c3870eb8aaf5abb07c28d4",
             "v0.0.4": "ebd4c37c55c84c6b30cebeaad4086cbee6684bd9",
             "v0.0.3": "8a36dbc7708d38f6ba9cb431d80ed3d0a8f4cb07",
