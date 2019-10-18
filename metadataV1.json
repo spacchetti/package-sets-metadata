@@ -6386,6 +6386,11 @@
     },
     "b64": {
         "commits": [
+            "694b9675cce744864c49a16c7c1c53b12fefa83f",
+            "57a48f604891cb3d1c96d23ea9c8a3a5614eb722",
+            "647bcd2ba5e23c817462b216d1a3766339eb4784",
+            "c291432eff029408ce41da3df4670cb19c9bdc93",
+            "4e070af5a5b06ebe666b99122a5a61f4ace29776",
             "114d33a1cc4e78815e6725a76e63cf6d0c113577",
             "4cd3402e9aeb1a549f2b478656ecb6aa67d49472",
             "3a4d832b6adbc8473e051f56ac9c93ae72166b38",
@@ -6408,6 +6413,7 @@
         ],
         "tags": {
             "v0.0.1": "6d44cf1caf8efbde40e795436b3c73d363cd0d4a",
+            "v0.0.6": "694b9675cce744864c49a16c7c1c53b12fefa83f",
             "v0.0.2": "8e0ef0e623a38db54aa10a808adf3664bfb8a6ec",
             "v0.0.4": "2b641d4acfd0cc12ec716b196a0a6c8cb422b2d4",
             "v0.0.3": "c8f77226946f27c61c590c4e809353c05240a5da",
@@ -11773,6 +11779,10 @@
     },
     "jwt": {
         "commits": [
+            "d543bcd54f4854057f2272654a8bf69f07bd9031",
+            "b8628bd541bcd4250a12c77d3b10ab0b614f879c",
+            "a8847ff2067ba25b463c3fa4642d26f28b454188",
+            "0f3cea105d48615e43a6fa73ea9fc4530744b7a0",
             "b0faa2e257a53e98809cabf4b6ab902be214389c",
             "286a5a99b9196daee2b57c833a86f4e30c8b628a",
             "b248527e5af2b5d2bbf49c1ac038ab9cee446453",
@@ -11790,6 +11800,7 @@
         "tags": {
             "v0.0.1": "84c82b0dd99b4806d9457d422d5a1d16c8273884",
             "v0.0.6": "b0faa2e257a53e98809cabf4b6ab902be214389c",
+            "v0.0.7": "d543bcd54f4854057f2272654a8bf69f07bd9031",
             "v0.0.2": "643b5e65b5df9e410732cc7a609fd9ab3e79ad17",
             "v0.0.4": "b248527e5af2b5d2bbf49c1ac038ab9cee446453",
             "v0.0.3": "7e217318e4a888d3a04c38c8c8b56e1f4fb84ce3",
