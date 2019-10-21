@@ -7727,6 +7727,8 @@
     },
     "react-basic-hooks": {
         "commits": [
+            "34f3fcc1afc86346dbb06cf1def277c5cf9c43e4",
+            "5f0e6059b0106dfcf8c072f4a11a306b1383054c",
             "ea86688b673ecec56eb393ea666c7d0e05f4c146",
             "1cf28d455034838c084af845151fa4e1a0397b8f",
             "c9b464fbf818778b610cde9deb9c71c77818fae0",
@@ -7778,6 +7780,7 @@
         ],
         "tags": {
             "v0.1.0": "94220fd9017207ebfcdfdf8e489e33f308cb253e",
+            "v2.0.3": "34f3fcc1afc86346dbb06cf1def277c5cf9c43e4",
             "v1.0.0": "a7961dd10bb83ea2b82d5596a3d9442c99f3198d",
             "v0.6.0": "8cbe0d64ff358d01b447d6b1abb01d39ef3ebfb0",
             "v0.7.1": "929afe6eb9a0857a493e1d8f18357ac3042e1a33",
@@ -8265,6 +8268,8 @@
     },
     "react-basic": {
         "commits": [
+            "feee3a51a531f65ff0c0802bffa77e9cd0bd0164",
+            "df358364ece1cd4760429afae0bcca0eb518eb03",
             "a81de9964b57b06e23939a784fa18a724261656e",
             "3ce119e90dea28da09bb2f5c25904fa258c634cb",
             "a8ac272649df64449059fb31db88c0e50d434411",
@@ -8418,6 +8423,7 @@
             "f0638e9bf79bd07a6f41e68031cecbf9a9c0fb88"
         ],
         "tags": {
+            "v13.0.0": "feee3a51a531f65ff0c0802bffa77e9cd0bd0164",
             "v1.1.1": "8c34fe85a61632b794def6d905caa7e925d6ab17",
             "v0.1.0": "fd571e927f05b0ad598c9bae8cd134a41869c77d",
             "v1.0.0": "1ce2617c50d6733d79057b6baa470662cbbf92a5",
