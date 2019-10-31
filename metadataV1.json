@@ -15469,6 +15469,8 @@
     },
     "react-basic-native": {
         "commits": [
+            "d62dbdfab5fcbfec6d4ed4e3b64eba101e3c39ce",
+            "e9c42796fe44322cbac7c76bad2e2023177fc9c8",
             "f5a963df87ffa0cc8b2810cc5df78c724c9afcbe",
             "301b12a4a367f169427ce102259c1326a20b103b",
             "77fcd247512ed2bdb06981b33a0e8382b98ff3fa",
