@@ -18707,6 +18707,11 @@
     },
     "freedom-transition": {
         "commits": [
+            "9eb2e6bc30d2fb1f34e24736248f1c63df978d4d",
+            "4787ed975d3d5578e92371983d276aeb2e7667b2",
+            "b62b16f2c7b67b3f935a9023d9c5a87da462ac29",
+            "9b89eea7842e3102359f1168248523c4d8bd6ccb",
+            "ae8d770ca194d8049565d5f4a7fb54156ae0e2a1",
             "0dfaaa8cad94c7422593a9f59ed62b255b2f61d2",
             "a77e439ca58e39977d2b61dcc78ccd569a019380",
             "3d9ead39644f1b78f4bc23880098c9e7b0a2560c",
@@ -18721,10 +18726,11 @@
             "ec81bbe47ec7ce5cb728e13007d6227f48b859fe",
             "b847a355d6e2729e85a6606ca35ae58d5d7d37f3"
         ],
-        "latest": "v1.0.0",
+        "latest": "v1.0.1",
         "tags": {
             "v0.1.0": "762e90f691579702fcf70ef344846840b0c750c0",
-            "v1.0.0": "e4a73141bc7b8d5b5db603164f9ec0a2f1cc22c3"
+            "v1.0.0": "e4a73141bc7b8d5b5db603164f9ec0a2f1cc22c3",
+            "v1.0.1": "9eb2e6bc30d2fb1f34e24736248f1c63df978d4d"
         }
     },
     "monad-logger": {
