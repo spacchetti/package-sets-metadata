@@ -1,5 +1,6 @@
 {
     "web-storage": {
+        "owner": "purescript-web",
         "commits": [
             "c2dedea1ee10ca7e94af5547c90274fb63ab3bc6",
             "86162554b4b1d26f426d12a768889193881a7781",
@@ -30,6 +31,7 @@
         }
     },
     "suggest": {
+        "owner": "nwolverson",
         "commits": [
             "bdce2322ddc5deef1c226937580c10df7d1930c1",
             "f6a672fb5d7fca3a8a3137b45ad4f2e9f262982e",
@@ -97,6 +99,7 @@
         }
     },
     "remotedata": {
+        "owner": "krisajenkins",
         "commits": [
             "10973308baf3ad0b5201abc1b65546b76dab192b",
             "8dc95a564a7e7badaee1bf1fff1df3414a70d6c0",
@@ -167,6 +170,7 @@
         }
     },
     "bigints": {
+        "owner": "sharkdp",
         "commits": [
             "b29a2487899abc3701124701b82993a5fe129378",
             "9e65d61fc228f487e9aac48f23fb89e3b93b03a5",
@@ -235,6 +239,7 @@
         }
     },
     "bytestrings": {
+        "owner": "rightfold",
         "commits": [
             "60a75042e0c1dd5663cf1f46bd2a737399843f38",
             "2d58bc68ac1d3650ee2a4f620057f526043f6352",
@@ -297,6 +302,7 @@
         }
     },
     "freedom-window-resize": {
+        "owner": "purescript-freedom",
         "commits": [
             "4aef9ab8c60efdb3a2ff79edb880b26d17c22f03",
             "fba6dcb6f261099f92e95047da4df0774f599c99",
@@ -320,6 +326,7 @@
         }
     },
     "pathy": {
+        "owner": "slamdata",
         "commits": [
             "350ac0bc770c5492786cd40b9998d35fef510b09",
             "a5927497529390a832aa3bcb6e5b27f5b1a76c37",
@@ -474,6 +481,7 @@
         }
     },
     "node-fs-aff": {
+        "owner": "purescript-node",
         "commits": [
             "feb58fa09b2184bf32e51c982b1a979fe45d0eb2",
             "d02c0a209824c3fce8254dddd94d85990e9ad1b6",
@@ -558,6 +566,7 @@
         }
     },
     "newtype": {
+        "owner": "purescript",
         "commits": [
             "7d85fa6a040208c010b05f7c23af6a943ba08763",
             "3ca3cf0857738e1ebcf470da6d81168dc368e5d0",
@@ -597,6 +606,7 @@
         }
     },
     "subcategory": {
+        "owner": "matthew-hilty",
         "commits": [
             "8fe8d65928a4c6a028986393a413c28ee780741f",
             "15a602d2078ebb879ec7f738ea8d87d2f1fb7273",
@@ -614,6 +624,7 @@
         }
     },
     "flare": {
+        "owner": "sharkdp",
         "commits": [
             "2e93a11322850fb82ecae77d5b8297379056b47a",
             "c9927cd904d1b74c7e9b5f276456c4ecb789e5f9",
@@ -751,6 +762,7 @@
         }
     },
     "string-parsers": {
+        "owner": "paf31",
         "commits": [
             "6e0752ede167479c8d2b38e9a5a1524ecf3046a8",
             "2812b3e667ba260c78abd32f1dea8a0ac97a84b4",
@@ -867,6 +879,7 @@
         }
     },
     "exceptions": {
+        "owner": "purescript",
         "commits": [
             "3cb7007628f306d0da2fee44b2e8bde43b10a12f",
             "0d9906db3f3b1663069d619cbc20e9e878a3b444",
@@ -946,6 +959,7 @@
         }
     },
     "proxying": {
+        "owner": "matthew-hilty",
         "commits": [
             "996711d2aabaa71c03727b02e059183dd2f36f5b",
             "1e4429c69c4ca2333015b99667b7b743413cdbd0",
@@ -967,6 +981,7 @@
         }
     },
     "safely": {
+        "owner": "paf31",
         "commits": [
             "19f854737e17b4d058e5a1504a960821db36e4ab",
             "262b6acd2891a10e90a46ec8b9c21e48c03db866",
@@ -1008,6 +1023,7 @@
         }
     },
     "memoize": {
+        "owner": "paf31",
         "commits": [
             "9960694e82adc212fd89f8ed8778cf55fcb72aeb",
             "7f116edf1a8418d55dd864964456fe2b51dbf0a5",
@@ -1047,6 +1063,7 @@
         }
     },
     "fixed-points": {
+        "owner": "slamdata",
         "commits": [
             "44ae7a7135bd17dc6d865d31f166a8cf5fa65c7e",
             "293ae76fae65e2444371cb058fa79e8282605877",
@@ -1087,6 +1104,7 @@
         }
     },
     "free": {
+        "owner": "purescript",
         "commits": [
             "f686f5fc07766f3ca9abc83b47b6ad3da326759a",
             "f6c139e98ee11685266d921a840328ec68b161c2",
@@ -1374,6 +1392,7 @@
         }
     },
     "event": {
+        "owner": "paf31",
         "commits": [
             "5c3cf3866c01d8faed1763bb9f738db22a5ff4bb",
             "af8b8d2e381f423c0b5e739e92668e392e77efce",
@@ -1408,6 +1427,7 @@
         }
     },
     "proxy": {
+        "owner": "purescript",
         "commits": [
             "4a529b1f874fa2f32fc4c575cafaf46e0ab69fb6",
             "6795310e8cf476c8b3e23ab4c3045ccd48039ed6",
@@ -1433,6 +1453,7 @@
         }
     },
     "unordered-collections": {
+        "owner": "fehrenbach",
         "commits": [
             "84501202af5319eabfce2c803f509ff63f6bc54f",
             "119ebe64821c4c55721269a10e88ee1eef7d0748",
@@ -1527,6 +1548,7 @@
         }
     },
     "polyform": {
+        "owner": "paluh",
         "commits": [
             "138e482ccda7f10bd30874aba9871c82747bc1e0",
             "f266efcc28befd33a3d8887a03c38cf3185b4c93",
@@ -1793,6 +1815,7 @@
         }
     },
     "bucketchain-sslify": {
+        "owner": "Bucketchain",
         "commits": [
             "883c6e85da997667db48b38fcda15bd53e71a529",
             "6dc5707731105c42d835100b43ea805a61ea1d9d",
@@ -1814,6 +1837,7 @@
         }
     },
     "react-stylesheet": {
+        "owner": "danieljharvey",
         "commits": [
             "4a4d6097d814757380ed87c1ca4fdb8e0554eed4",
             "c83f04338e7d93b831697916cf113cffe3e03024",
@@ -1833,6 +1857,7 @@
         }
     },
     "xiaomian": {
+        "owner": "justinwoo",
         "commits": [
             "93eff134fdddc5808d129a6a4125f4617edc97d5",
             "aa2805e37779a9e90c9fb9dd341d99e9f7ac64c5",
@@ -1844,6 +1869,7 @@
         }
     },
     "json-schema": {
+        "owner": "felixmulder",
         "commits": [
             "5dbce3cdc9fc3f339cee3dfbfe92d70a56edf629",
             "0ef07d9d4ccb6ac8b4b87c66bf949b7b96b79a06",
@@ -1875,6 +1901,7 @@
         }
     },
     "behaviors": {
+        "owner": "paf31",
         "commits": [
             "0fc50530f71a3026bba12dd8df435bdbd9ef076a",
             "3e300f9023ed85c6ff8d2b9840d69fba9604e7a4",
@@ -1950,6 +1977,7 @@
         }
     },
     "redux-devtools": {
+        "owner": "justinwoo",
         "commits": [
             "e9fae256f444c5a3d63c54bdc99e0623c4f07208",
             "b8389514c1466452ee4b4108d3426ef2d8a081d5"
@@ -1960,6 +1988,7 @@
         }
     },
     "precise-datetime": {
+        "owner": "awakesecurity",
         "commits": [
             "2355b3471b758e16d17078e09bb79ee26d82b90a",
             "aa82379866dac25be7d6bca855650c39170c361c",
@@ -2002,6 +2031,7 @@
         }
     },
     "control": {
+        "owner": "purescript",
         "commits": [
             "05d40c5855a0eda3bc396a3d815eaf213a0534e6",
             "c25cd667ece351c71bc9fc89fe47a26229de1794",
@@ -2132,6 +2162,7 @@
         }
     },
     "variant": {
+        "owner": "natefaubion",
         "commits": [
             "31e620334124d2ca8b1e608c27d74b607a5831e9",
             "b6eec4d2a4c9e76f66c153cba7c5bb77fdc4eb91",
@@ -2221,6 +2252,7 @@
         }
     },
     "arraybuffer-types": {
+        "owner": "purescript-contrib",
         "commits": [
             "a9645935de2368e8e07cc30db2fce6100d43272c",
             "0ded811b045c3fd88bb8dba621d2206949c77dea",
@@ -2249,6 +2281,7 @@
         }
     },
     "email-validate": {
+        "owner": "cdepillabout",
         "commits": [
             "b73471c0f479b6a5ad6fb903d3388013a9b79810",
             "7c527324b6ed9e3b04a4f390fae178ad94c327e3",
@@ -2336,6 +2369,7 @@
         }
     },
     "console": {
+        "owner": "purescript",
         "commits": [
             "add2bdb8a4af2213d993b728805f1f2a5e76deb8",
             "1cf02680af22501dacddfabc03f40176e046e7da",
@@ -2390,6 +2424,7 @@
         }
     },
     "either": {
+        "owner": "purescript",
         "commits": [
             "8b4b38a729f8e88750b03e5c7baf2b3863ce4742",
             "23518f68415109bc573a7e1c0277f5bbe9fdc84c",
@@ -2526,6 +2561,7 @@
         }
     },
     "effect": {
+        "owner": "purescript",
         "commits": [
             "775e99a0392e9241127cfa1b448a0f582e88f8e3",
             "6caa8e1e162a21eed025613c2c19194b996ef779",
@@ -2608,6 +2644,7 @@
         }
     },
     "ordered-collections": {
+        "owner": "purescript",
         "commits": [
             "54af8b281bf01acfc14e147debec76974901e93c",
             "7b4bad306174aa4cbbbcf11cd4946d1ffb295e69",
@@ -2887,6 +2924,7 @@
         }
     },
     "web-touchevents": {
+        "owner": "purescript-web",
         "commits": [
             "cde8ea42d92035b1c46df4f1e1c38205aba7742a",
             "650566c7f4d416569d9889003ea578922b33d186",
@@ -2902,6 +2940,7 @@
         }
     },
     "quickcheck-laws": {
+        "owner": "garyb",
         "commits": [
             "7f0160093340033f594dfb264422ac615cfac15e",
             "79ab936a518140ba48e0a1bed62e24bfd3424ab6",
@@ -2993,6 +3032,7 @@
         }
     },
     "these": {
+        "owner": "purescript-contrib",
         "commits": [
             "e2688fbd157725928d283545cd250b76059eb476",
             "2b4f545c433f4677761a8c557d069184f42b375c",
@@ -3061,6 +3101,7 @@
         }
     },
     "basic-auth": {
+        "owner": "oreshinya",
         "commits": [
             "09adb67a191261a6cedd7a593cef5f1e677abc07",
             "c6e86a5153ccaee42211fb6471de9922c364acd4",
@@ -3090,6 +3131,7 @@
         }
     },
     "group": {
+        "owner": "morganthomas",
         "commits": [
             "8e1fcc20c636d3c67732f09c30b46f9e14ba8af4",
             "da7ed88230f525985d0c7cd30a243bdb41bfb5e6",
@@ -3159,6 +3201,7 @@
         }
     },
     "struct": {
+        "owner": "matthew-hilty",
         "commits": [
             "c1c51a63930e4ec1d3d5187b0902cadf2e839f6e",
             "dfef5c3142b7625487327b414dcd2154a75392b8",
@@ -3185,6 +3228,7 @@
         }
     },
     "unicode": {
+        "owner": "purescript-contrib",
         "commits": [
             "3111519ec5e61901b7a07932483f935ead10e220",
             "c5efad2f7aeedd4808f8c47991df1c095a5c9c54",
@@ -3270,6 +3314,7 @@
         }
     },
     "web-events": {
+        "owner": "purescript-web",
         "commits": [
             "7f19f24d7b61066bef0813734964f2dc6b085e3d",
             "9dd1280eb992987dee0ad10e14ec04fd7332e5cc",
@@ -3297,6 +3342,7 @@
         }
     },
     "record-extra": {
+        "owner": "justinwoo",
         "commits": [
             "987932b882e0e4eb920015804a73ea652c649138",
             "9de31f7df5cabcc9a32ffab5612f8ae472b30016",
@@ -3354,6 +3400,7 @@
         }
     },
     "foreign-generic": {
+        "owner": "paf31",
         "commits": [
             "46f09996bd54efc146bc1725783789dbac7d6a5b",
             "ad56cb733cfef51a5f673db8fd2ef34440dd08ba",
@@ -3427,6 +3474,7 @@
         }
     },
     "react-dom": {
+        "owner": "purescript-contrib",
         "commits": [
             "441e1705ab8fc5fb382d9b3b3516f40ef7234e6c",
             "80808c7c3a21544ab9a294e2ed0f21c80e13be61",
@@ -3471,6 +3519,7 @@
         }
     },
     "arrays": {
+        "owner": "purescript",
         "commits": [
             "463dcacb99455de5e28ac4a3312bb795f293d2d9",
             "46f5a9c4e2dd265fd0a5ef36976599b1347c1927",
@@ -3836,6 +3885,7 @@
         }
     },
     "array-views": {
+        "owner": "klntsky",
         "commits": [
             "4b30bdb5e05a5b4feca04648c751f235256ae13d",
             "2020ab5517dbdf6aaac7138934140f13b70192b9",
@@ -3893,6 +3943,7 @@
         }
     },
     "httpure": {
+        "owner": "cprussin",
         "commits": [
             "ac43b0d12518c512b7ce25f5019f29caa38113b8",
             "46fe320a78bdad1a85898df188b84ad7e5a4aaa2",
@@ -4049,6 +4100,7 @@
         }
     },
     "maybe": {
+        "owner": "purescript",
         "commits": [
             "dd5df0b9a35af095a5e12682ca6259dd0c5c29d3",
             "95991c558b5e046a4e6a04c060c06fe3720b468c",
@@ -4177,6 +4229,7 @@
         }
     },
     "mysql": {
+        "owner": "oreshinya",
         "commits": [
             "29b1da96ee110892f3e5d5b8468dfc0ba6f2fef5",
             "ca0892164870b1472159add7b0c3fa8ae8199aa2",
@@ -4284,6 +4337,7 @@
         }
     },
     "read": {
+        "owner": "truqu",
         "commits": [
             "9cd1de78654dc79460597a041ee57b7770ba9cf5",
             "ec2d917af53fa92a86ab5d4b9b1ed80c8d81b927",
@@ -4300,6 +4354,7 @@
         }
     },
     "node-streams": {
+        "owner": "purescript-node",
         "commits": [
             "88740eeda2017d3ddcde50eea59d57c7749d8524",
             "9fc7cd404abc5485d443555768b5ad59b2c7d9c8",
@@ -4401,6 +4456,7 @@
         }
     },
     "simple-jwt": {
+        "owner": "oreshinya",
         "commits": [
             "9c79227bdb2ed8cce3fafe2643ceeacaaca3e597",
             "c74de1726577e93f6d9f380f63d2cc93259027de",
@@ -4437,6 +4493,7 @@
         }
     },
     "bucketchain-health": {
+        "owner": "Bucketchain",
         "commits": [
             "888e38d3adad97b040c565af50179b7b48e71868",
             "d9994df17ae72b52482294f024c6bb4dadceb0af",
@@ -4454,6 +4511,7 @@
         }
     },
     "spec-discovery": {
+        "owner": "owickstrom",
         "commits": [
             "1ca3416e6c0729eca8d5204f22cf0aa09c98df9d",
             "170a3e1e5a083f98e8c0f669b375770d4f143608",
@@ -4521,6 +4579,7 @@
         }
     },
     "profunctor": {
+        "owner": "purescript",
         "commits": [
             "9b3d014b38c69ea2dd4b1f597330b095034fe2c4",
             "be868fc0c46df3b91cf15e64391d605fd064ee11",
@@ -4612,6 +4671,7 @@
         }
     },
     "media-types": {
+        "owner": "purescript-contrib",
         "commits": [
             "fd90508ad10575d4b686422d225a52515fb003c3",
             "7303ad03caee47eebfc15ce825ab6f188c194a5e",
@@ -4645,6 +4705,7 @@
         }
     },
     "higher-order": {
+        "owner": "matthew-hilty",
         "commits": [
             "ca9dfe863a816ab7a210b8f895984965fe9a11b5",
             "099c494db391d0a372e3a6d9d4907df160c2075e",
@@ -4664,6 +4725,7 @@
         }
     },
     "folds": {
+        "owner": "paf31",
         "commits": [
             "996d88ac0d71df73f3a2e80eca80e41347fef01a",
             "35fdafd834cf2ab46eba77a5c7676e1046ec5d8f",
@@ -4706,6 +4768,7 @@
         }
     },
     "bucketchain-logger": {
+        "owner": "Bucketchain",
         "commits": [
             "50329514f0c1ebe78a10b9ecc8e22e793555b208",
             "471ecabe3f20c6332bffa6ba66f67a5301fd765b",
@@ -4730,6 +4793,7 @@
         }
     },
     "filterable": {
+        "owner": "LiamGoodacre",
         "commits": [
             "9d9fce00c0daed8095cd8f9ba5a3bc34e2cc0741",
             "b7bff31576261bc66bf29bfeca7679c2b107d68e",
@@ -4790,6 +4854,7 @@
         }
     },
     "form-urlencoded": {
+        "owner": "purescript-contrib",
         "commits": [
             "0eaafc0f138f5189a83d7aa254a67d78fa8f9616",
             "41c0525dc58ab3a2b4dad86823c5903da53d92ac",
@@ -4867,6 +4932,7 @@
         }
     },
     "profunctor-lenses": {
+        "owner": "purescript-contrib",
         "commits": [
             "2be610e104ab733a4dcc9d63f03d8eaee1e1b1c2",
             "dc1bfb74bd3b20e841cb5f50f6d1f339480993e3",
@@ -5086,6 +5152,7 @@
         }
     },
     "simple-timestamp": {
+        "owner": "reactormonk",
         "commits": [
             "c617a30cfb38034561180ab7d5cc1dc98216af79",
             "e73d6bcbf2cea00d1f0537279c2175c9f8831009",
@@ -5110,6 +5177,7 @@
         }
     },
     "slug": {
+        "owner": "thomashoneyman",
         "commits": [
             "a97735d47be7398f181085e0b117499462ba7a11",
             "51b5ce3f98105f8dd0d49390597517161797b455",
@@ -5140,6 +5208,7 @@
         }
     },
     "strongcheck": {
+        "owner": "purescript-contrib",
         "commits": [
             "3c2467c7b6b31ea9d427ded688b6cf7daea269e6",
             "81ce5ebc8ea6da536c71771e2ffb39767a5912be",
@@ -5397,6 +5466,7 @@
         }
     },
     "node-electron": {
+        "owner": "cprussin",
         "commits": [
             "19734790aa42c7a09e0efd725dad3828f6246c46",
             "ba84299a12723ff43bd9c33a32278acfa0f1c16e",
@@ -5416,6 +5486,7 @@
         }
     },
     "bucketchain-simple-api": {
+        "owner": "Bucketchain",
         "commits": [
             "d1809a5371f96970b372669d5ec802866b395046",
             "ae8a29bb989d8219f6bb33e714f870b55131112d",
@@ -5485,6 +5556,7 @@
         }
     },
     "type-equality": {
+        "owner": "purescript",
         "commits": [
             "2cdae51c394401cd5fc04b03c341273b41532b7d",
             "1ded3f6b522b5cbb419365533857b01e1b7c6d3b",
@@ -5509,6 +5581,7 @@
         }
     },
     "argonaut": {
+        "owner": "purescript-contrib",
         "commits": [
             "477f359a97ba08f402419e7ff2798546fbad3ea5",
             "d135ea32c904373048643f00e645fce4fe1ff951",
@@ -5759,6 +5832,7 @@
         }
     },
     "toppokki": {
+        "owner": "justinwoo",
         "commits": [
             "7e8e48ca4457246e97046465b8d32e3928b5ca31",
             "58b3553afc88bbd64b05ab69cc4f52a618510f39",
@@ -5815,6 +5889,7 @@
         }
     },
     "simple-emitter": {
+        "owner": "oreshinya",
         "commits": [
             "7f18bbaf6d19daa3a44de30991606b9ab4c5cc0a",
             "ed4163eaa961c234ca562a104cc1084aac703185",
@@ -5845,6 +5920,7 @@
         }
     },
     "phoenix": {
+        "owner": "brandonhamilton",
         "commits": [
             "93d24c8b93e8ff1008bf3a2da429e36d1216d51b",
             "74772be55cd3d82a0fa38305b8f2ed25525d7e1b",
@@ -5874,6 +5950,7 @@
         }
     },
     "uuid": {
+        "owner": "spicydonuts",
         "commits": [
             "6de5e57a8529eca6ac956103f6341c4fa7dfb25e",
             "e0db79053e2428f1d8fb5f9e34e7d48e57a36ab1",
@@ -5932,6 +6009,7 @@
         }
     },
     "radox": {
+        "owner": "danieljharvey",
         "commits": [
             "5ce2e46694a7391b921b975498bc4619b27b02e0",
             "9a206d16604249a3ee5774302cb114b713b96ad2",
@@ -5964,6 +6042,7 @@
         }
     },
     "unfoldable": {
+        "owner": "purescript",
         "commits": [
             "be3262a9dc48e794676b1b2883987331d4be6fd7",
             "d7c72afa2c4de96fe903107353c5aefd2ec1e1ae",
@@ -6042,6 +6121,7 @@
         }
     },
     "naporitan": {
+        "owner": "justinwoo",
         "commits": [
             "e911d10260897f5dec7caa034604691c7146f7ff",
             "b8b790bd4efa656c97ff8d94e790529b50f41392",
@@ -6059,6 +6139,7 @@
         }
     },
     "dom-filereader": {
+        "owner": "nwolverson",
         "commits": [
             "14ef7eb23c7b90113c3a9d0e745359a6efecbff1",
             "89d48ff0faac9c35df25371b55b2a92e169648ef",
@@ -6095,6 +6176,7 @@
         }
     },
     "invariant": {
+        "owner": "purescript",
         "commits": [
             "b704c5bda262719ca5cc88a3f8554edff8f03256",
             "3655b549ce44c036cd471ba4643fd2fc685157fa",
@@ -6140,6 +6222,7 @@
         }
     },
     "jajanmen": {
+        "owner": "justinwoo",
         "commits": [
             "91c2ed5a54fd539d8d94f741a2027b774d0816a7",
             "7ccdbeec4198f1478fb392224219298d73db3f50",
@@ -6172,6 +6255,7 @@
         }
     },
     "fork": {
+        "owner": "slamdata",
         "commits": [
             "27b9f223645a08b42731531a154892eaa263b590",
             "69ba0e98c5a94af44734638b9c4ea56a575ee260",
@@ -6203,6 +6287,7 @@
         }
     },
     "parsing": {
+        "owner": "purescript-contrib",
         "commits": [
             "d917ef2125c8ac8dea54fb24f40098ae1ab92eb4",
             "12684b20cef683e9e7a97263ae6a7b02611f21ee",
@@ -6433,6 +6518,7 @@
         }
     },
     "money": {
+        "owner": "i-am-tom",
         "commits": [
             "a57e25ea6e2db4c5319079902c052d48d86a7d55",
             "85a34365d40554952b2249a2b1b0cdf06188bc9a",
@@ -6473,6 +6559,7 @@
         }
     },
     "b64": {
+        "owner": "menelaos",
         "commits": [
             "694b9675cce744864c49a16c7c1c53b12fefa83f",
             "57a48f604891cb3d1c96d23ea9c8a3a5614eb722",
@@ -6510,6 +6597,7 @@
         }
     },
     "lcg": {
+        "owner": "purescript",
         "commits": [
             "dd71fe6f93d1bad9355c9c6bcbe66a0eb4af4e61",
             "d095ebcf596fa0ecd93482982d193283f85a00c2",
@@ -6526,6 +6614,7 @@
         }
     },
     "web-html": {
+        "owner": "purescript-web",
         "commits": [
             "0aa27db6d393fc53454f549566f9058147cc008a",
             "e6e399986c89d88ead7c52386266feaaf2b097cd",
@@ -6580,6 +6669,7 @@
         }
     },
     "rave": {
+        "owner": "reactormonk",
         "commits": [
             "b2a25d3ea327e52d1ac5584c05e9443587507ea5",
             "5375bba51f57ab272994da335b36ddfaedbc5940",
@@ -6597,6 +6687,7 @@
         }
     },
     "js-timers": {
+        "owner": "purescript-contrib",
         "commits": [
             "ec7284a2999844b24a0f0bb089f261b2290bc04f",
             "c00f5a394ad5df1ca299e42126356b3a598ffb7e",
@@ -6625,6 +6716,7 @@
         }
     },
     "node-he": {
+        "owner": "justinwoo",
         "commits": [
             "d2e3b78863c163e62713ef776059b92a5a91d8f5",
             "88646b5121bea7957d72e6c714157c8c08fc542d",
@@ -6640,6 +6732,7 @@
         }
     },
     "svg-parser": {
+        "owner": "rnons",
         "commits": [
             "3497fadad2af220f13fb01ef3c7d45cdd505a786"
         ],
@@ -6649,6 +6742,7 @@
         }
     },
     "exists": {
+        "owner": "purescript",
         "commits": [
             "ef53359aebc09bf863800ca86ad1dcd76f0b08ae",
             "cba78ef1be882c3cbd3451d9ee165337824ea28b",
@@ -6687,6 +6781,7 @@
         }
     },
     "httpure-contrib-biscotti": {
+        "owner": "drewolson",
         "commits": [
             "0eaaca3b0135af1455966bcd7ff9a5dd0292519e",
             "f05cf813e92a9a1858c571ad9edda4b59a773009",
@@ -6724,6 +6819,7 @@
         }
     },
     "node-path": {
+        "owner": "purescript-node",
         "commits": [
             "e3a704d5fc7d25fa93c6cd0eb92dbce9e5ebd69a",
             "bf6dc34315530583c9a97cd75f503cb728492faa",
@@ -6776,6 +6872,7 @@
         }
     },
     "trout": {
+        "owner": "purescript-hyper",
         "commits": [
             "efc97ffb9806f8a0d7a10313ac74f957f392a2f8",
             "da350320a3c62f197f8b7e0ff21947b86c9de738",
@@ -6854,6 +6951,7 @@
         }
     },
     "distributive": {
+        "owner": "purescript",
         "commits": [
             "3a43c0690883816e9ebeac510698423cfff5c174",
             "3a6cec3312f9de753de7840fe7ee5f21f41f5d5e",
@@ -6916,6 +7014,7 @@
         }
     },
     "halogen-css": {
+        "owner": "slamdata",
         "commits": [
             "1600df2902eccc3e3c73559a3446c99469885af6",
             "750613a6f3961d516d2ff5acdf469001425add67",
@@ -6990,6 +7089,7 @@
         }
     },
     "shoronpo": {
+        "owner": "justinwoo",
         "commits": [
             "6427a2f64816ad005b152e11ef467ba513a18e22",
             "8d57c063f1492e78e0e20436ef19534047006357",
@@ -7008,6 +7108,7 @@
         }
     },
     "halogen-select": {
+        "owner": "citizennet",
         "commits": [
             "467b35fa5dd05d64dbdbcab77442153f729bd0a8",
             "e6fcd98d7e93c9da5076aa9427c043c1492f8a76",
@@ -7219,6 +7320,7 @@
         }
     },
     "argonaut-core": {
+        "owner": "purescript-contrib",
         "commits": [
             "aa83414502459386f2d20611ac08b42419765ae1",
             "4950903b834dd3b9e82e909f7e77ea63bf4a342f",
@@ -7307,6 +7409,7 @@
         }
     },
     "aff-promise": {
+        "owner": "nwolverson",
         "commits": [
             "033d6b90252e0390b0de7845e21de919bc4c3a0e",
             "d7a3505688f8cedb22b5b11ce8939c08f690599d",
@@ -7364,6 +7467,7 @@
         }
     },
     "identy": {
+        "owner": "oreshinya",
         "commits": [
             "aa7ec7233f29d19893f4cf416a4dcc566ee822bc",
             "d7d27854fd25587b72bd9da2d10849a6dd94bfad",
@@ -7408,6 +7512,7 @@
         }
     },
     "halogen-vdom": {
+        "owner": "slamdata",
         "commits": [
             "34c032aa5f72b600d69ab970e2737ca533c6c118",
             "f245501fd0ea4886e3b40c84ecdad5aae9484f8a",
@@ -7480,6 +7585,7 @@
         }
     },
     "bucketchain": {
+        "owner": "Bucketchain",
         "commits": [
             "8a936085fafc46b39ca431f30c9a56cb62c807a4",
             "fd6ecc932d2c2d2a0724e5ce44a8f13a0c2a6a3e",
@@ -7560,6 +7666,7 @@
         }
     },
     "monad-loops": {
+        "owner": "mlang",
         "commits": [
             "9324b29cda6a4be8f896d42f2018fc6143607fe8",
             "0f4d564cc2a9ee4346a76a31efa7a3be98117d0f",
@@ -7611,6 +7718,7 @@
         }
     },
     "format": {
+        "owner": "sharkdp",
         "commits": [
             "764c4f4a9f7d01f9572cf34449d6a0ffbe3bb89a",
             "814f38b3aa65aca4e0dadb4b1773b4e287a05ad3",
@@ -7641,6 +7749,7 @@
         }
     },
     "argonaut-traversals": {
+        "owner": "purescript-contrib",
         "commits": [
             "240acff71bd27bdf6217a3694f51330cd1c0a5c2",
             "55fb20dfe180d6766bbd98c575eb5a1e5b8751da",
@@ -7724,6 +7833,7 @@
         }
     },
     "formatters": {
+        "owner": "slamdata",
         "commits": [
             "c39ae1fef63a4c5ed6ccb9faf80e6b99922a369b",
             "d75a54e43a327493e73b0967914b8ac0cc542e95",
@@ -7838,6 +7948,7 @@
         }
     },
     "react-basic-hooks": {
+        "owner": "spicydonuts",
         "commits": [
             "34f3fcc1afc86346dbb06cf1def277c5cf9c43e4",
             "5f0e6059b0106dfcf8c072f4a11a306b1383054c",
@@ -7910,6 +8021,7 @@
         }
     },
     "chirashi": {
+        "owner": "justinwoo",
         "commits": [
             "3589e247a0f269b0f7552828876b965eaa2fcafd",
             "08968c1b690f620666a464df12e90ccebb0b3dfc",
@@ -7925,6 +8037,7 @@
         }
     },
     "css": {
+        "owner": "slamdata",
         "commits": [
             "70ad3b95c070e79b1946aafc84cb446a17a3b695",
             "44e1a3dec667ba90cc80a669063252e82f29c723",
@@ -8095,6 +8208,7 @@
         }
     },
     "lenient-html-parser": {
+        "owner": "justinwoo",
         "commits": [
             "9e249aa16279d6a63de0d87ef0b624203e9a7f7c",
             "5c594bf8d8eea6f1b974473976a38311b7c3053e",
@@ -8140,6 +8254,7 @@
         }
     },
     "bucketchain-cors": {
+        "owner": "Bucketchain",
         "commits": [
             "ee4d5ee1ae1ec9a4b45f24d590fcba9d69541597",
             "0251ab18dc080985bb4b802a3df3a63676f67913",
@@ -8158,6 +8273,7 @@
         }
     },
     "record-format": {
+        "owner": "kcsongor",
         "commits": [
             "c277a20030b8c3d831b9ef8b50fc70b1edd26831",
             "fb1aaa3412de9412c7c030415411235125467d01",
@@ -8196,6 +8312,7 @@
         }
     },
     "svg-parser-halogen": {
+        "owner": "rnons",
         "commits": [
             "ac16a7af82d739b1f9773fbc28fc7e24f0d24550",
             "02a41abce5c665e94eeec8e33a54e953e4f9ca0d",
@@ -8232,6 +8349,7 @@
         }
     },
     "smolder": {
+        "owner": "bodil",
         "commits": [
             "5548710e5467cf7b08d7def62c8fcf5ebfb6d9ae",
             "dd923e54f26dda6f743992ce6f608dda0360e12b",
@@ -8353,6 +8471,7 @@
         }
     },
     "biscotti-session": {
+        "owner": "drewolson",
         "commits": [
             "8e07c53c8d5a8f2d538aaef8fbd884b5ee44e3bc",
             "519575c4d06d9681b3903c9638f3df16ce55d250",
@@ -8388,6 +8507,7 @@
         }
     },
     "react-basic": {
+        "owner": "lumihq",
         "commits": [
             "feee3a51a531f65ff0c0802bffa77e9cd0bd0164",
             "df358364ece1cd4760429afae0bcca0eb518eb03",
@@ -8590,6 +8710,7 @@
         }
     },
     "data-algebrae": {
+        "owner": "i-am-tom",
         "commits": [
             "88660d553df58222c0ddeebe09521aa300c868f2",
             "603e2e97aa7c6e3ef79e0a02cf349a090abe45f2",
@@ -8630,6 +8751,7 @@
         }
     },
     "node-postgres": {
+        "owner": "epost",
         "commits": [
             "7070b32886652e4d683788ac91d618741f448301",
             "e26267d96585fb24dbce631f47d93fe228b34a6b",
@@ -8724,6 +8846,7 @@
         }
     },
     "uri": {
+        "owner": "slamdata",
         "commits": [
             "e48b2e9153aeb06e6b234be98c79159dfc0f6d10",
             "31ea65ade312811789d499098898c28828484fe5",
@@ -8934,6 +9057,7 @@
         }
     },
     "bucketchain-static": {
+        "owner": "Bucketchain",
         "commits": [
             "c727ef4cdcf122f497e66dd1ec6a09251d2930ba",
             "d2b17a7b13973a55943c4e8727aceaa0af20dd2d",
@@ -8955,6 +9079,7 @@
         }
     },
     "uint": {
+        "owner": "zaquest",
         "commits": [
             "d3a6424ca266d5c8e2388e8b81bf4195f9a0e303",
             "9d89e0e4fe231a1ac8466b70a7c2315ce11a6dd7",
@@ -9011,6 +9136,7 @@
         }
     },
     "halogen": {
+        "owner": "slamdata",
         "commits": [
             "dd301747260620946956048a86e07e9efe1b6380",
             "18b1da50583d5eacdf43898d11de924410bcc84d",
@@ -10006,6 +10132,7 @@
         }
     },
     "matrices": {
+        "owner": "kritzcreek",
         "commits": [
             "7ddcd2d09f94757374ddab3c9879d459a023ee17",
             "2fee0d1039f31829ca31752d3fdc0db929a26da1",
@@ -10037,6 +10164,7 @@
         }
     },
     "typelevel": {
+        "owner": "bodil",
         "commits": [
             "c7917aa6d43440608e6e04332e4c916a45976313",
             "0dfecf222fb1a91b31294ac729b9d76ba6636cc7",
@@ -10076,6 +10204,7 @@
         }
     },
     "gomtang-basic": {
+        "owner": "justinwoo",
         "commits": [
             "8c47355f29b85a6a64c61f90190d525dcc9221d9",
             "d5e0221004635281ccfcfb2ff5b891ff007ad836",
@@ -10094,6 +10223,7 @@
         }
     },
     "lazy": {
+        "owner": "purescript",
         "commits": [
             "5bbd04f507a704f39aa756b5e12ed6665205fe2e",
             "31d3c33ae4393dc69119d219ac6c79747a1a2761",
@@ -10197,6 +10327,7 @@
         }
     },
     "yargs": {
+        "owner": "paf31",
         "commits": [
             "a517d190f15e7817a3144a982663281f125d28e8",
             "0567f8670288d95481b1348a1c88b0e3e75cb947",
@@ -10268,6 +10399,7 @@
         }
     },
     "now": {
+        "owner": "purescript-contrib",
         "commits": [
             "68a2505155d74094f5adeeceeddd393b29e1095a",
             "c3b0d892cb188732b6b20cff522f7728ee275a6e",
@@ -10297,6 +10429,7 @@
         }
     },
     "foreign-object": {
+        "owner": "purescript",
         "commits": [
             "8a7dc21c48e3e6d31e253b0e58dd95a3bbd7f6e7",
             "75bd46aa12a242b1ecf7fc4cb3c321815c1073bd",
@@ -10555,6 +10688,7 @@
         }
     },
     "exitcodes": {
+        "owner": "Risto-Stevcev",
         "commits": [
             "8a9a93fd1776aba4a14cdc9a31094c9e05b05348",
             "eb17e8325895a1031af3edf812b1aff67e444ac3",
@@ -10579,6 +10713,7 @@
         }
     },
     "tortellini": {
+        "owner": "justinwoo",
         "commits": [
             "1ef407cb5e241209fb6207c48f4790d9bf38eaa3",
             "b8e1dd51d7dc59bfecd830603e4470a532e9a54e",
@@ -10619,6 +10754,7 @@
         }
     },
     "json-pointer": {
+        "owner": "reactormonk",
         "commits": [
             "808ece8b338706a41ae2aa5b31a8715d38dcd490",
             "9400087fc48282c1720eb3e38f59a3c3fe72ec8d",
@@ -10630,6 +10766,7 @@
         }
     },
     "checked-exceptions": {
+        "owner": "natefaubion",
         "commits": [
             "b73844cfb6e128afb521a3d5aa61410fbe9992dc",
             "2332c93d71506eb998c630abb69f3566fcc62390",
@@ -10647,6 +10784,7 @@
         }
     },
     "node-process": {
+        "owner": "purescript-node",
         "commits": [
             "88871d84a69f47dd2d1d9eccd7cc942be4457d46",
             "4827d068d455c5dd8642d531b8d5d0af84ff9405",
@@ -10718,6 +10856,7 @@
         }
     },
     "web-uievents": {
+        "owner": "purescript-web",
         "commits": [
             "bdbc845bf8b06649c8361411085a0c0f788c9511",
             "ec2659107f3d2152ee22beb12dc0ed86edf94ea2",
@@ -10742,6 +10881,7 @@
         }
     },
     "node-url": {
+        "owner": "purescript-node",
         "commits": [
             "9b1ff0f522374549400817ea2a68d68c6fa1c246",
             "20eecd603124bf07b477f1f2be2135ae99c885fe",
@@ -10779,6 +10919,7 @@
         }
     },
     "heterogeneous": {
+        "owner": "natefaubion",
         "commits": [
             "854e6fe8e52c570954c22275aaf657ef068c73f8",
             "ce8bdf63a812726ab113358acc3358ded55856e4",
@@ -10815,6 +10956,7 @@
         }
     },
     "react": {
+        "owner": "purescript-contrib",
         "commits": [
             "4bf5a5a46ceb485f6941820f717f4507cc030674",
             "a2e40f93f0dd47a6e185462431799e0e0c6e8667",
@@ -11028,6 +11170,7 @@
         }
     },
     "foldable-traversable": {
+        "owner": "purescript",
         "commits": [
             "34e5d3292749c4c45c62e53e48359335a065abe5",
             "befcc1fb2f753e96681f72f88529c28f9b38613d",
@@ -11248,6 +11391,7 @@
         }
     },
     "cssom": {
+        "owner": "danieljharvey",
         "commits": [
             "47cfe2e301cc61b81bd45c2b1df5a246d2cc489c",
             "bd1fffc883f18cc6a79ce41e1e688b5a0f0351f7",
@@ -11262,6 +11406,7 @@
         }
     },
     "result": {
+        "owner": "ad-si",
         "commits": [
             "a09ebc3749e3b902f8144fa4a22c95840ce46701",
             "339efb07de372fe1cb74753ab2861c1d13d45791",
@@ -11375,6 +11520,7 @@
         }
     },
     "querydsl": {
+        "owner": "Dretch",
         "commits": [
             "96016e4547486019a8100c489f092e3b5ffc6a15",
             "a64d647ad0c9e99086e705424f5338fcb254359d",
@@ -11514,6 +11660,7 @@
         }
     },
     "run": {
+        "owner": "natefaubion",
         "commits": [
             "4c78421629c72cccacaf3574fea7e70fc68460db",
             "68eec5b5957e6f36fc4e206a1d4dd2adc3095587",
@@ -11595,6 +11742,7 @@
         }
     },
     "choco-pie": {
+        "owner": "justinwoo",
         "commits": [
             "56d5f38ff09f5f617e6eb1257ea7f17001568b4a",
             "c842beb9468e8cedb17f7a31b3e8166be05b0856",
@@ -11644,6 +11792,7 @@
         }
     },
     "routing-duplex": {
+        "owner": "natefaubion",
         "commits": [
             "a76379757707725bb73d30a64ed4973c8c347c4e",
             "33845e577a701aabef9463100f438958f50b78d9",
@@ -11666,6 +11815,7 @@
         }
     },
     "node-child-process": {
+        "owner": "purescript-node",
         "commits": [
             "887b252ef85975f4cf31dfd9079f6d98d905fc1b",
             "c024af7fbc996a64a01b58f8dffef7fd44337c71",
@@ -11769,6 +11919,7 @@
         }
     },
     "argonaut-generic": {
+        "owner": "purescript-contrib",
         "commits": [
             "395bcbd3be8b44c3d9304dbefd2be533aa2d2085",
             "942057f06029136ff4239578585d02a228165a8e",
@@ -11833,6 +11984,7 @@
         }
     },
     "rationals": {
+        "owner": "anttih",
         "commits": [
             "b303267a7cb751ef43589ae4572f307911a1ed3b",
             "2af94d646c28a922dd8dc408b7d3bfb1ab2cc5a7",
@@ -11950,6 +12102,7 @@
         }
     },
     "jwt": {
+        "owner": "menelaos",
         "commits": [
             "d543bcd54f4854057f2272654a8bf69f07bd9031",
             "b8628bd541bcd4250a12c77d3b10ab0b614f879c",
@@ -11981,6 +12134,7 @@
         }
     },
     "debug": {
+        "owner": "garyb",
         "commits": [
             "b1484b8aac685dc83c1d938d71407495ae2a2259",
             "4531d84a56e984c9cddaf5ba2f1b67381c0ea613",
@@ -12033,6 +12187,7 @@
         }
     },
     "typedenv": {
+        "owner": "nsaunders",
         "commits": [
             "8d416242c170a2bbff1b12b43618a78ea32df411",
             "30a627c625ab2576496ceb00b4564560d5579d0b",
@@ -12085,6 +12240,7 @@
         }
     },
     "float32": {
+        "owner": "athanclark",
         "commits": [
             "1ca78fedb0b2da65b9ec0969d16c0bb7155e4f29",
             "dcb7d098856a073952ee163ccb8b3aafb987f427",
@@ -12104,6 +12260,7 @@
         }
     },
     "coroutines": {
+        "owner": "purescript-contrib",
         "commits": [
             "67a076b704f4b176f9332e8dc82d531a357e00ac",
             "97405aaf4a2551294d67a41af9407065db1ab8af",
@@ -12199,6 +12356,7 @@
         }
     },
     "minibench": {
+        "owner": "purescript",
         "commits": [
             "a9cc6d74730bdcf21bd6962cd640a3744fe6c14b",
             "1f443775572eddd7a64f01813f1886da53adafd8",
@@ -12227,6 +12385,7 @@
         }
     },
     "quotient": {
+        "owner": "rightfold",
         "commits": [
             "cd7ab1fd0ece7f14ba85a0e6a5b87d863426c054",
             "299cb1e23a764a4aed4096aa4afb3d22fc5ea8af",
@@ -12254,6 +12413,7 @@
         }
     },
     "aff": {
+        "owner": "slamdata",
         "commits": [
             "78916a9c7e6d203f1d9f441c8eaa257d6475e978",
             "7f9e362b4f03f6f86627b5682b0204cec8813685",
@@ -12562,6 +12722,7 @@
         }
     },
     "pairs": {
+        "owner": "sharkdp",
         "commits": [
             "8c220e4f51c33ef04291cab60af69729f768f8ea",
             "adedb8fecc53139600b087b1d2be0c9cdd43415e",
@@ -12589,6 +12750,7 @@
         }
     },
     "sunde": {
+        "owner": "justinwoo",
         "commits": [
             "5c71f0cc58bf31d3ed77af62f481c25a4725627a",
             "e9c898ac0ffd5e61d82a6c02606ab84241278709",
@@ -12607,6 +12769,7 @@
         }
     },
     "simple-json-utils": {
+        "owner": "justinwoo",
         "commits": [
             "ec5df413e1058959454e380de42f590046a43373",
             "620cbc428af54478ba60e30db586f44b32f21092"
@@ -12617,6 +12780,7 @@
         }
     },
     "typelevel-prelude": {
+        "owner": "purescript",
         "commits": [
             "182bc7d19d320d7db46024257e7fc1d8d9c37439",
             "dd703bac30e9cd837dba64fce4d0ff750da965d0",
@@ -12696,6 +12860,7 @@
         }
     },
     "freedom-virtualized": {
+        "owner": "purescript-freedom",
         "commits": [
             "8ae58a8e658745391c540e07711cb0d2d6cd1f48",
             "48c256647263eb4d3e1cc7327843c8cd3291c4e4",
@@ -12727,6 +12892,7 @@
         }
     },
     "functors": {
+        "owner": "purescript",
         "commits": [
             "96bcf8a970a40115a76a20d19e50aa3b524adcf3",
             "772bc6729d6405f46e7c0ee22920ea7de5bdfbbf",
@@ -12788,6 +12954,7 @@
         }
     },
     "simple-json-generics": {
+        "owner": "justinwoo",
         "commits": [
             "a6b20afe6df82023ce1eba6dd7c8d3273f08cf1f",
             "f7127b94bd2da73b28e863c299edb72a42ee4bce",
@@ -12799,6 +12966,7 @@
         }
     },
     "routing": {
+        "owner": "slamdata",
         "commits": [
             "d4b15b9042ff4880c906e38e28be892844c817d6",
             "59266816658274d094e5adb1eb9ad4f029c68dc3",
@@ -12966,6 +13134,7 @@
         }
     },
     "freedom-router": {
+        "owner": "purescript-freedom",
         "commits": [
             "bf759ae5af1ab28abd66111c3741b67e728a4fdb",
             "8bb3eb174b63067d128e980c1fb61e569559d243",
@@ -13016,6 +13185,7 @@
         }
     },
     "promises": {
+        "owner": "thimoteus",
         "commits": [
             "76aac1f6583c39a3745f862636d16c7292d29690",
             "835f76fefc92b24194fc2b6b7214c795d1c50cfc",
@@ -13060,6 +13230,7 @@
         }
     },
     "tailrec": {
+        "owner": "purescript",
         "commits": [
             "8946bf9d9f68a8469198b4d512593d4a2a97cada",
             "61fdf9d6b108ba5a26351aa7bb00579cc32e36af",
@@ -13143,6 +13314,7 @@
         }
     },
     "aff-retry": {
+        "owner": "Unisay",
         "commits": [
             "fa0814127c8f0ce95ecc98537f5d58cbd7d0a71c",
             "4a84672818cc2daf67ad2d9579e51cc4e8b7943e",
@@ -13183,6 +13355,7 @@
         }
     },
     "unsafe-reference": {
+        "owner": "purescript-contrib",
         "commits": [
             "2ee6cb12afe097561c76ffec41077864fe2c590d",
             "e8da5e834e404d8531d076a07f978ffce41f2c05",
@@ -13210,6 +13383,7 @@
         }
     },
     "react-radox": {
+        "owner": "danieljharvey",
         "commits": [
             "8004820fa46f3078169638915174e77abdc7d38a",
             "c72543d9d28adb0acfddf3e736bd2749fbee39b1",
@@ -13229,6 +13403,7 @@
         }
     },
     "biscotti-cookie": {
+        "owner": "drewolson",
         "commits": [
             "d8f67a00911ed55550ef409c898e534abe230643",
             "243370d94d918a2852999bfda31c2f2961bedaac",
@@ -13264,6 +13439,7 @@
         }
     },
     "avar": {
+        "owner": "slamdata",
         "commits": [
             "045201429148df06f69c9285d123343567b0096e",
             "17914413130490318a475e9de6a9244aaaa097d2",
@@ -13303,6 +13479,7 @@
         }
     },
     "halogen-formless": {
+        "owner": "thomashoneyman",
         "commits": [
             "4542d08de1edb744e0c8a540766ec0a44af8ee60",
             "658d2c06d648e90fae2df39cceae6bcc85e7c1cc",
@@ -13497,6 +13674,7 @@
         }
     },
     "gen": {
+        "owner": "purescript",
         "commits": [
             "36f36f03f082b57e402c27f1513f8935caa54101",
             "357dc3f06c4f5574d5652e7d4fc28db5e0623060",
@@ -13551,6 +13729,7 @@
         }
     },
     "dom-indexed": {
+        "owner": "slamdata",
         "commits": [
             "c449ae115bffe1fce89e145da62b862ad16ed935",
             "bb5b3f547f682365940584740c00d5d23926d7c4",
@@ -13590,6 +13769,7 @@
         }
     },
     "web-xhr": {
+        "owner": "purescript-web",
         "commits": [
             "ca6e7b3b8186c026809e705ec6d8c2c943828ca8",
             "15aaf6df4ec1968b0bda4f1736843b67c4222ead",
@@ -13627,6 +13807,7 @@
         }
     },
     "prelude": {
+        "owner": "purescript",
         "commits": [
             "e3504b2f9f9e27a39b6e25a27eb6bb6e9045ad10",
             "a96663b34364fdd0885a200955e35b99f4e58c43",
@@ -13888,6 +14069,7 @@
         }
     },
     "refined": {
+        "owner": "danieljharvey",
         "commits": [
             "55d6ba91d6f755709ac1127f2511ed326db34c7c",
             "145e40a9f5d4131651020d2955a0490e6e040edf",
@@ -13920,6 +14102,7 @@
         }
     },
     "bifunctors": {
+        "owner": "purescript",
         "commits": [
             "1062425892b4a1c734ec653dded22546e3063b27",
             "080a2ada3c60b0b4e689ccd2d1d2d47c8173da50",
@@ -13995,6 +14178,7 @@
         }
     },
     "st": {
+        "owner": "purescript",
         "commits": [
             "552c4329fafcfe80dffbb4125a2aa08e7cdaea95",
             "173934e41e61898277dd9b89945ca4273d2d9be1",
@@ -14049,6 +14233,7 @@
         }
     },
     "pipes": {
+        "owner": "felixSchl",
         "commits": [
             "a9533035f6fe8e59a65c6d11a3a7c767f3c9ae67",
             "464e568053777019ab1c5b3659210f026c21b7b4",
@@ -14127,6 +14312,7 @@
         }
     },
     "expect-inferred": {
+        "owner": "justinwoo",
         "commits": [
             "68d560ed30919cb0146a1136e3826c9b4c8264a4",
             "a6195e8c18dcfc8443b998e50648c8adb21ae6b9",
@@ -14149,6 +14335,7 @@
         }
     },
     "sijidou": {
+        "owner": "justinwoo",
         "commits": [
             "1535631b8659c40450f9d48de49f2420ff30c27d",
             "455f2b43811a3a918ab961c36b08672e6efa8c75",
@@ -14162,6 +14349,7 @@
         }
     },
     "cheerio": {
+        "owner": "icyrockcom",
         "commits": [
             "70e11f60f554d8747e566c32f7f0c0bdec5f76bc",
             "e8111489db752aafbafe477dbf03a812d183dde7",
@@ -14186,6 +14374,7 @@
         }
     },
     "leibniz": {
+        "owner": "paf31",
         "commits": [
             "ed1fa97012a01126c499f2d0e28dfea2919296b3",
             "7d6fd7d7cf99d715465e7579fac4d3ac5bea39a4",
@@ -14218,6 +14407,7 @@
         }
     },
     "naturals": {
+        "owner": "LiamGoodacre",
         "commits": [
             "53aaa11516cd1bb8429f33032802bf43a5b04644",
             "9b47a71b8107a9313f08afd4a7bc8db9e00cdf61",
@@ -14249,6 +14439,7 @@
         }
     },
     "fuzzy": {
+        "owner": "citizennet",
         "commits": [
             "411f57a457605f2bff75cb1e0b11e5aa6ba99ea5",
             "fd1841214697f34c309967afcfa6fa4aa450d237",
@@ -14300,6 +14491,7 @@
         }
     },
     "unsafe-coerce": {
+        "owner": "purescript",
         "commits": [
             "0985c08dbe356ef31785ce12fe907f389de323f9",
             "fa6a5ca9b4581c00ee0b8539306a49badb7bee60",
@@ -14347,6 +14539,7 @@
         }
     },
     "dotenv": {
+        "owner": "nsaunders",
         "commits": [
             "d66c219aa3f5e068de65c238c35413e0bad77884",
             "c910e81c2f10faf3b1a63beb09738b0d0bd3d062",
@@ -14495,6 +14688,7 @@
         }
     },
     "refs": {
+        "owner": "purescript",
         "commits": [
             "3d515bc461acb950f3c8bac7b8def1d6e65b3f6b",
             "f683bc0931129b9f7875ad48df66c2105ad143ba",
@@ -14560,6 +14754,7 @@
         }
     },
     "flow-id": {
+        "owner": "i-am-the-slime",
         "commits": [
             "127459a340241fe0e056237b19314bbf9b2d3caa",
             "e7c339e5abc7e3729235d90c6d12935d8e811436",
@@ -14575,6 +14770,7 @@
         }
     },
     "express": {
+        "owner": "nkly",
         "commits": [
             "b0d3d31703a02a7dddc48fa23669bebe6de85e90",
             "44602ab4ded9410835191e3712c7f9fa47f3fa3d",
@@ -14854,6 +15050,7 @@
         }
     },
     "concur-react": {
+        "owner": "ajnsit",
         "commits": [
             "ac23d7d151d0105595c18df8e093e219513f43e3",
             "bb6358c22b20d93dfea92f9cdc8ed4f32185976f",
@@ -15106,6 +15303,7 @@
         }
     },
     "stringutils": {
+        "owner": "menelaos",
         "commits": [
             "093a07ba7894dd9bdb3b91edccc372c65e362dd8",
             "00f5984ba9fcb7fe488842faab63dbd4b55cfac4",
@@ -15186,6 +15384,7 @@
         }
     },
     "bucketchain-csrf": {
+        "owner": "Bucketchain",
         "commits": [
             "9676e55f8563ab33bb0e492a6cf93ab4c1f54654",
             "140d33209c324d4bed01550669dc8ff48b0689cb",
@@ -15200,6 +15399,7 @@
         }
     },
     "snabbdom": {
+        "owner": "LukaJCB",
         "commits": [
             "fad4049c3cf70c466748d2d723def5c36f3e106c",
             "b7193cd37bd271a2db0cc7979abf7171ba645962",
@@ -15244,6 +15444,7 @@
         }
     },
     "nonempty": {
+        "owner": "purescript",
         "commits": [
             "36ca3b2fa6d98b1c9d2ee05643341e496fbeab57",
             "e427691a9acf2249039a3d909817e41def9412f8",
@@ -15315,6 +15516,7 @@
         }
     },
     "contravariant": {
+        "owner": "purescript",
         "commits": [
             "cb69db0253c2e2ed3fef784dad58f3418a8ee834",
             "ce71bf70b3c8aee8485c5bbfcbd8bfed8aafe2ee",
@@ -15389,6 +15591,7 @@
         }
     },
     "undefined": {
+        "owner": "bklaric",
         "commits": [
             "4012dc06b58feae301140bc081135d0f24c432b0",
             "e025ff19ca6645b7862dcb7f977449f342d0ebad",
@@ -15407,6 +15610,7 @@
         }
     },
     "pointed-list": {
+        "owner": "paluh",
         "commits": [
             "606de7f6ebd953aea822747c21fa4d73ef5187bc",
             "76ca53428a8f4262398272adef9acdc3d84c6fd9",
@@ -15468,6 +15672,7 @@
         }
     },
     "react-basic-native": {
+        "owner": "dwhitney",
         "commits": [
             "09e84f582be1e9c685d82e2f58209fb1eb68dfb2",
             "46f2b9cf7abe191f7e2fb640486ae8b8a4e46c73",
@@ -15578,6 +15783,7 @@
         }
     },
     "freedom": {
+        "owner": "purescript-freedom",
         "commits": [
             "9637771b2167d2342ae387cdb54f94c2e3f51b95",
             "9b9798e0ea8acd7931b08904471319a724202d2b",
@@ -15743,6 +15949,7 @@
         }
     },
     "assert": {
+        "owner": "purescript",
         "commits": [
             "2044562f3c7c49c36ef4e63490031ed534589f6c",
             "7283f246d154af7b01387e82e67d273fa89524eb",
@@ -15787,6 +15994,7 @@
         }
     },
     "pairing": {
+        "owner": "paf31",
         "commits": [
             "779ac384f911a1ddb5b713864b9236203046c20c",
             "90db685e2556b9b7405eade6e361c22c963088eb",
@@ -15826,6 +16034,7 @@
         }
     },
     "node-net": {
+        "owner": "purescript-node",
         "commits": [
             "1fd91c872ecff202ae86b848f2c8d054f7a751f3",
             "08cec42dbe0f2ba26ff5ad161f3d40af9b1c00f9",
@@ -15846,6 +16055,7 @@
         }
     },
     "spec": {
+        "owner": "purescript-spec",
         "commits": [
             "a91d77654c4a6ac314b42bae941892dd576c4916",
             "ddcb5af5476dfd395dd35c2e74cb9e1e295e190d",
@@ -16300,6 +16510,7 @@
         }
     },
     "metadata": {
+        "owner": "spacchetti",
         "commits": [
             "049672087bb130a586aeda4e73ebf4b26a80dfa6",
             "2c097903c39eefe98140380b05d7c843011f2ba2",
@@ -16326,6 +16537,7 @@
         }
     },
     "record": {
+        "owner": "purescript",
         "commits": [
             "42a15ba34d860f4d8f899836956bf09659a0256b",
             "6edc3d7c0e9a0ea74d33c54821aa17692d18a58a",
@@ -16385,6 +16597,7 @@
         }
     },
     "simple-i18n": {
+        "owner": "oreshinya",
         "commits": [
             "c70562ec3075408aa33d0c16428f4d04928efe7b",
             "05d94926b1a5ff70ee1117306e5f59b94d97c3ff"
@@ -16395,6 +16608,7 @@
         }
     },
     "freeap": {
+        "owner": "ethul",
         "commits": [
             "8f7bebc36c267794c31d5af1a5737746645e59df",
             "f7f76c9bc4bf97e5e289aa4b9fc1109e581ab9e5",
@@ -16435,6 +16649,7 @@
         }
     },
     "node-buffer": {
+        "owner": "purescript-node",
         "commits": [
             "dac7d4734a739cea2cd379f6bae5226dbab26da2",
             "60692d615d1273c2f123ba4e83825594c9b84028",
@@ -16556,6 +16771,7 @@
         }
     },
     "node-telegram-bot-api": {
+        "owner": "justinwoo",
         "commits": [
             "722fc94c6ff28d2a762a87a0fbbb8d92b6497bc7",
             "26d9dc37a28e153a5bc545ed4912399f36923ff8",
@@ -16621,6 +16837,7 @@
         }
     },
     "integers": {
+        "owner": "purescript",
         "commits": [
             "3850da9cd96b37c71685b6bc3bf0cb489baefc93",
             "99b152359947f89c8a7f1b17725da8214fac85ab",
@@ -16707,6 +16924,7 @@
         }
     },
     "argonaut-codecs": {
+        "owner": "purescript-contrib",
         "commits": [
             "adaad0f7ff3cb61f0f12fe401f3fd1f37ada4e56",
             "1e5aecae7ad292f4b5c255a87448b5b08bef053d",
@@ -16879,6 +17097,7 @@
         }
     },
     "psc-ide": {
+        "owner": "kRITZCREEK",
         "commits": [
             "0f5c433c57391ae68ce1b285a0964bd19fdae073",
             "566c2c4bfb8e30c8785a98e2c794fb15808be98a",
@@ -17026,6 +17245,7 @@
         }
     },
     "test-unit": {
+        "owner": "bodil",
         "commits": [
             "351c55b632e0c0ebffae05837909995a03de3406",
             "b8430c38e5eb9130bdb7c4f722107fc1983cc7e7",
@@ -17169,6 +17389,7 @@
         }
     },
     "mmorph": {
+        "owner": "Thimoteus",
         "commits": [
             "e067ee63c9c08e67b632a8b55930f744ddfad980",
             "b5bb255091344361f355dfe96dfea84066fbe66e",
@@ -17203,6 +17424,7 @@
         }
     },
     "aff-coroutines": {
+        "owner": "purescript-contrib",
         "commits": [
             "dc015278a62f3e3e7744f2208ccc99535b986be0",
             "2e549486769bcebe501682b507b70d6b0497aced",
@@ -17279,6 +17501,7 @@
         }
     },
     "node-http": {
+        "owner": "purescript-node",
         "commits": [
             "b18d054de436ad589d41acee0aca7f3bd6762aab",
             "970fd36886225f1d0a62215fcad789c36bea7ba8",
@@ -17377,6 +17600,7 @@
         }
     },
     "ansi": {
+        "owner": "hdgarrood",
         "commits": [
             "e060b4a7c9a0df9359871cb0c5773139e5525d2f",
             "d02428ce98d277843dc898fc7ec8027e92e8bea4",
@@ -17422,6 +17646,7 @@
         }
     },
     "orders": {
+        "owner": "purescript",
         "commits": [
             "80e22c22c72c846e09ef9dfcdb40b3eee39118d6",
             "9d42c652278da7f363dd7b6b91ab506334a71c5c",
@@ -17487,6 +17712,7 @@
         }
     },
     "halogen-bootstrap4": {
+        "owner": "mschristiansen",
         "commits": [
             "1f3c45119b1679766dfcaf6402c0a52d313991ea",
             "386f0f57d7e85b1ceff1ae6b9e988a5c25b101a4",
@@ -17510,6 +17736,7 @@
         }
     },
     "const": {
+        "owner": "purescript",
         "commits": [
             "bc5db27b0ed3947fa5e2074ccbab01236eec3fa4",
             "0df1492a6d93045934bf44778cd7641b448c6eff",
@@ -17580,6 +17807,7 @@
         }
     },
     "spork": {
+        "owner": "natefaubion",
         "commits": [
             "131f07d669f2c09175faed39c3445c6a46ca924f",
             "748804f656c89b1f4495e8f68c4a234f537d230d",
@@ -17634,6 +17862,7 @@
         }
     },
     "globals": {
+        "owner": "purescript",
         "commits": [
             "8e6d69c36b6fd8c988a3664fc033ad11dbdd5860",
             "c4da4badc6a04cb582966280c409d74f07c2d852",
@@ -17711,6 +17940,7 @@
         }
     },
     "node-sqlite3": {
+        "owner": "justinwoo",
         "commits": [
             "fba7aea5808105dd48290c9def22cba34a4ebede",
             "84f1b4333800edf5db2477a5aec4f93aa5f301f0",
@@ -17773,6 +18003,7 @@
         }
     },
     "generics-rep": {
+        "owner": "purescript",
         "commits": [
             "aae27ba1de21dda342dcdfc8b3cc5b951bd5b3ec",
             "0d42177848d1a9aeea59b5152eb6c73b641fe8f2",
@@ -17835,6 +18066,7 @@
         }
     },
     "psa-utils": {
+        "owner": "natefaubion",
         "commits": [
             "3191b19ef0ca6863658e5f73cbf5baca7a9487fc",
             "4536732918d3c6367b863f5df252d2e2ac3160b8",
@@ -17864,6 +18096,7 @@
         }
     },
     "drawing": {
+        "owner": "paf31",
         "commits": [
             "60dafc4cf155896e307a8cc1696d95d53cff8acb",
             "006e9c1d370506f0ff629b93b7cf39b0c83b3c25",
@@ -17957,6 +18190,7 @@
         }
     },
     "decimals": {
+        "owner": "sharkdp",
         "commits": [
             "4911f744fb7db6519758b6993edc28d0f81e0a89",
             "94161bad1aa941e407995bb8144c046adaf14c00",
@@ -17999,6 +18233,7 @@
         }
     },
     "canvas": {
+        "owner": "purescript-web",
         "commits": [
             "bbdc02388f2cc612324aa8c1eef7877666bf1bd2",
             "e917c4021272841f25993cb769be48ce6bdf439f",
@@ -18122,6 +18357,7 @@
         }
     },
     "makkori": {
+        "owner": "justinwoo",
         "commits": [
             "bdd0e3899075b86e860b310fd69353ac80a85a98",
             "a7cb86a61f7f2615dd78b0a086d369cc9c807963",
@@ -18143,6 +18379,7 @@
         }
     },
     "stylesheet": {
+        "owner": "danieljharvey",
         "commits": [
             "baa2d1abeba470a1ff35a429ea618d9d081c4252",
             "7bc13fadd920465aebae6644d6cabae24a9da712",
@@ -18181,6 +18418,7 @@
         }
     },
     "run-streaming": {
+        "owner": "natefaubion",
         "commits": [
             "ff42f0526db9e3b03f9729dcda64852e006c03d2",
             "1eb765d05bd4955e4b57f6d637a47998a95e58f1",
@@ -18200,6 +18438,7 @@
         }
     },
     "kancho": {
+        "owner": "justinwoo",
         "commits": [
             "81df453734ea516a63940b4964810f01531d18b4",
             "6c30d2f56ea43d6a639f58cb54bb99e1dcbd5326",
@@ -18227,6 +18466,7 @@
         }
     },
     "js-date": {
+        "owner": "purescript-contrib",
         "commits": [
             "9cc9635dab86f6b97a698664898be88475025f6e",
             "a25204ebfca92ab5825503c03ad81057938f4f30",
@@ -18276,6 +18516,7 @@
         }
     },
     "numbers": {
+        "owner": "sharkdp",
         "commits": [
             "6262a5f17dcdfba11dfae03f4fa8eec02f7ed29f",
             "1dfc39808806a93a6c6ccb123de73606e519785c",
@@ -18325,6 +18566,7 @@
         }
     },
     "math": {
+        "owner": "purescript",
         "commits": [
             "8be36d24f9d2d8795adf04791446bbc458297b9b",
             "fdb86584adda667fd3c51894005c622e391620b9",
@@ -18381,6 +18623,7 @@
         }
     },
     "enums": {
+        "owner": "purescript",
         "commits": [
             "19800105b556798ea5650f8a01bfe5ea17cfc6eb",
             "c22de834699a095049cea6190742de7c14b10d6b",
@@ -18488,6 +18731,7 @@
         }
     },
     "options": {
+        "owner": "purescript-contrib",
         "commits": [
             "bc0109fb1a18d5f51aa32914618e96d1ec9d8cf5",
             "ae9a65c74fea0b32d725aba4f02643d1bbe73618",
@@ -18561,6 +18805,7 @@
         }
     },
     "web-socket": {
+        "owner": "purescript-web",
         "commits": [
             "00f4ab583efb6fc60e0517d782d2ba2a89d8ec66",
             "430baef4155d3e18053524c72845d54a31afe014",
@@ -18576,6 +18821,7 @@
         }
     },
     "freet": {
+        "owner": "purescript-contrib",
         "commits": [
             "aecca5b389aecf15a37e369b76d7d0064223996d",
             "eb662da6487b7d9c105d6e9d783e8743587ea7d8",
@@ -18648,6 +18894,7 @@
         }
     },
     "bower-json": {
+        "owner": "klntsky",
         "commits": [
             "c2880c35a99d500e71964fe4831f43a1bb7a2228",
             "48589aba7aae6459991102128ca14f3e61995c68",
@@ -18669,6 +18916,7 @@
         }
     },
     "bucketchain-history-api-fallback": {
+        "owner": "Bucketchain",
         "commits": [
             "f2035fb6a66a0f9488a7e06138948b02b9bd2a82",
             "125beca6f91e3b20cb0aad7f8eb48ec84f5c2b8f",
@@ -18689,6 +18937,7 @@
         }
     },
     "bucketchain-conditional": {
+        "owner": "Bucketchain",
         "commits": [
             "0b05d4587ba556105e1fde37d1e368867b17c167",
             "f2bdb05ac25a080f6941a6a6fcd487f3d47fad68",
@@ -18706,6 +18955,7 @@
         }
     },
     "freedom-transition": {
+        "owner": "purescript-freedom",
         "commits": [
             "9eb2e6bc30d2fb1f34e24736248f1c63df978d4d",
             "4787ed975d3d5578e92371983d276aeb2e7667b2",
@@ -18734,6 +18984,7 @@
         }
     },
     "monad-logger": {
+        "owner": "cprussin",
         "commits": [
             "55441b4caf390bc38078a9c5c865efb105549cef",
             "974b6fcfec6dff3474bcbc8e658a0e9ef2f9a97c",
@@ -18766,6 +19017,7 @@
         }
     },
     "aff-bus": {
+        "owner": "slamdata",
         "commits": [
             "75e76f9afa129d643a95738665baefdfc804afb4",
             "d03399724f17c8bbf6d911afdcae7ab34cb66d86",
@@ -18803,6 +19055,7 @@
         }
     },
     "motsunabe": {
+        "owner": "justinwoo",
         "commits": [
             "d016e6319fef40119abba726e31d066e7c211875",
             "6b0d87bc1725f7f9ab53d1c71ed7e92bc287b22d",
@@ -18816,6 +19069,7 @@
         }
     },
     "jquery": {
+        "owner": "purescript-contrib",
         "commits": [
             "da06a4315997206a095cb35a315e65824c7c6ebe",
             "b8d5b298700397bcb47c64369b932bd07b4f9065",
@@ -18919,6 +19173,7 @@
         }
     },
     "node-fs": {
+        "owner": "purescript-node",
         "commits": [
             "3da61c95b0542fc65c67f086f56f787aebbb03f4",
             "02d610f237dc130edb5ee594fd46b16c691b79eb",
@@ -19092,6 +19347,7 @@
         }
     },
     "transformers": {
+        "owner": "purescript",
         "commits": [
             "0e473e5ef0e294615ca0d9aab0bcffee47b2870d",
             "961f4034d6e8a7696fa248981ce92b27b265b85b",
@@ -19444,6 +19700,7 @@
         }
     },
     "random": {
+        "owner": "purescript",
         "commits": [
             "75e6b21edbe0eec78c28ff3bd8265998f2ea0b45",
             "c10e2bca7b58430c5bafc06f153e6f193b45f4b9",
@@ -19510,6 +19767,7 @@
         }
     },
     "bucketchain-header-utils": {
+        "owner": "Bucketchain",
         "commits": [
             "07a90f72493d4b0dbc58fdd9d7e9dd613c10a522",
             "3e6dafc569255d248dd031d649ad37d3a444e749",
@@ -19528,6 +19786,7 @@
         }
     },
     "tuples": {
+        "owner": "purescript",
         "commits": [
             "2e0291613fc4093c71c8a9ba6f212ef7fef20f59",
             "8a279cc1f040be544f36e7a9eacb01a5e9bf1014",
@@ -19646,6 +19905,7 @@
         }
     },
     "posix-types": {
+        "owner": "purescript-node",
         "commits": [
             "ac1434193b91ab4ffe520b95dbf3d3fbb2faeb32",
             "1d4cd274436cc1e470dc6bf7735bcfdf0092d884",
@@ -19680,6 +19940,7 @@
         }
     },
     "parallel": {
+        "owner": "purescript",
         "commits": [
             "4d6c8b05041a36c300dfca2ba8f1f3443ca26bc6",
             "2417fdff0c3a0d583d7c32008f10fd840104db2a",
@@ -19753,6 +20014,7 @@
         }
     },
     "errors": {
+        "owner": "passy",
         "commits": [
             "99aec8b249158c831c5a84453cb7c63d536c9ebe",
             "a37797e2469f52cbc6cbe1a5629dc2aed9e18b1a",
@@ -19899,6 +20161,7 @@
         }
     },
     "indexed-monad": {
+        "owner": "garyb",
         "commits": [
             "c3638dd54272a44bca5ecb9290c9fbe03b5ed2b7",
             "35ccf039dd7f327c74f5ed10d4d9f0607a96cdba",
@@ -19937,6 +20200,7 @@
         }
     },
     "spec-quickcheck": {
+        "owner": "owickstrom",
         "commits": [
             "77a426996f7869f8424ed2720ab55c1f8d45bc84",
             "f130115f60ec77eecf346850a50e2cfce0136552",
@@ -20001,6 +20265,7 @@
         }
     },
     "partial": {
+        "owner": "purescript",
         "commits": [
             "76b63a324f7eafbb859256771b5bb7404082af96",
             "f9ab0e9eae1b10bb787a78715f0e6d015e813322",
@@ -20048,6 +20313,7 @@
         }
     },
     "quickcheck": {
+        "owner": "purescript",
         "commits": [
             "6289a80570acd5aec3ea89dc673cf10cdaf5794a",
             "270f8fa82ff0e4416f1d61a23cd8aa9dcf4990ee",
@@ -20333,6 +20599,7 @@
         }
     },
     "tolerant-argonaut": {
+        "owner": "matthew-hilty",
         "commits": [
             "db221e8e0335221c0d2c644dc3980a44394ace78",
             "c4263d1a8ca36be4362156a33698755cfcd9fefb",
@@ -20355,6 +20622,7 @@
         }
     },
     "semirings": {
+        "owner": "purescript",
         "commits": [
             "36aedc601d296607439eec1e71f8483adc373ffc",
             "9b7db4c761ad6c79e977e31d62984165e9001133",
@@ -20405,6 +20673,7 @@
         }
     },
     "encoding": {
+        "owner": "menelaos",
         "commits": [
             "e45941150c75f26ab53cb5e34207cc347b375942",
             "1dace094e7648ca525cf5e71dbbbf0af2a26f2c4",
@@ -20434,6 +20703,7 @@
         }
     },
     "psci-support": {
+        "owner": "purescript",
         "commits": [
             "a66a0fa8661eb8b5fe75cc862f4e2df2835c058d",
             "1c481ceda0f2dcfbfbcdb42b9a7773e3bd0a4a9d",
@@ -20469,6 +20739,7 @@
         }
     },
     "crypto": {
+        "owner": "oreshinya",
         "commits": [
             "eae49e622881fce65c1c04caed5b7f8c9e4946e8",
             "0acc404042b5effa63d5aee08ffcc1b3e1e0e5ce",
@@ -20521,6 +20792,7 @@
         }
     },
     "type-isequal": {
+        "owner": "justinwoo",
         "commits": [
             "c1f43c399f2d2df346d837438730ca91ea1e6284",
             "7050dc48cd7de5666b7c0197990031426f1d5847",
@@ -20533,6 +20805,7 @@
         }
     },
     "freedom-portal": {
+        "owner": "purescript-freedom",
         "commits": [
             "f0bab8ffcad5b8b3887840c506b16734596cb8d8",
             "615099da64a3e9d0c30b9458a6a59f0ae1515e98",
@@ -20580,6 +20853,7 @@
         }
     },
     "simple-json": {
+        "owner": "justinwoo",
         "commits": [
             "c5e2b7b25e2e30fb9940cad388377a2040d8b54a",
             "8fc0546d5e338e386ed110a82ba5b168d8112c95",
@@ -20760,6 +21034,7 @@
         }
     },
     "catenable-lists": {
+        "owner": "purescript",
         "commits": [
             "d81b7df30d9879d0bb531b3102fb36f429c2f12e",
             "f512f659a058597a0375a001806789218135af30",
@@ -20844,6 +21119,7 @@
         }
     },
     "web-file": {
+        "owner": "purescript-web",
         "commits": [
             "2c2df4e1e21936fd64c27474b024aa531050831b",
             "b3222285a5f4ec46dfc6b85d878dbc3818e9d374",
@@ -20881,6 +21157,7 @@
         }
     },
     "validation": {
+        "owner": "purescript",
         "commits": [
             "63b253bbfea7257b0700eadaca1c53082e8fcad1",
             "839e1df09a87348ee1e3c48657212cb92a9ad22d",
@@ -20965,6 +21242,7 @@
         }
     },
     "web-dom": {
+        "owner": "purescript-web",
         "commits": [
             "65d1b79f86c01f967fe822e2d8f7dabf711b66df",
             "dcfeb05905cedcdeeb88447259b022b6a1b824a4",
@@ -20997,6 +21275,7 @@
         }
     },
     "selection-foldable": {
+        "owner": "jamieyung",
         "commits": [
             "9e362beb4886263de1386a129b1519a54bcf82b8",
             "eb751ffaffb08659aa14c6ac8c9b0fd92080dc30",
@@ -21028,6 +21307,7 @@
         }
     },
     "server-sent-events": {
+        "owner": "MichaelXavier",
         "commits": [
             "9797621c151e0becb24580d97cf771b62df78259",
             "bbe4d8fff8cbe2654be464c1267413723cf15e90",
@@ -21060,6 +21340,7 @@
         }
     },
     "optparse": {
+        "owner": "f-o-a-m",
         "commits": [
             "14eb29f6d7c1ad455f39ace45f1c0dc53f1f7f4f",
             "782892c8d2015ab15c68ed2af46fb53b74169eaf",
@@ -21740,6 +22021,7 @@
         }
     },
     "hypertrout": {
+        "owner": "purescript-hyper",
         "commits": [
             "b1643fed848e317c10f86eae34ec96d9c6b87b1b",
             "462f3add456a76feaa7a4304537984f0f0fb6055",
@@ -21803,6 +22085,7 @@
         }
     },
     "kishimen": {
+        "owner": "justinwoo",
         "commits": [
             "8a9b11f9bcdaf4ff63c2e572def3d0b2a4e2c870",
             "4c142fbeaba2361e7f1f54af456577220935d179",
@@ -21827,6 +22110,7 @@
         }
     },
     "sized-vectors": {
+        "owner": "bodil",
         "commits": [
             "b31f49310931886706bb366cfc6c945ee9fcf7d7",
             "2f18660809e487faf492e8a0b84173fcd715548c",
@@ -21881,6 +22165,7 @@
         }
     },
     "machines": {
+        "owner": "purescript-contrib",
         "commits": [
             "e7cb36ed45154103c804a17648aa795ecd384fae",
             "b52d60e162135249507cd4446e7ebe84889ff5ae",
@@ -21970,6 +22255,7 @@
         }
     },
     "colors": {
+        "owner": "sharkdp",
         "commits": [
             "fb582d3626e566371d20d4ef0b8d2795ee80f024",
             "80d68b44cb80ff28e18d904e87ef36810e28a680",
@@ -22118,6 +22404,7 @@
         }
     },
     "identity": {
+        "owner": "purescript",
         "commits": [
             "1b7938abdc8cb28c0ac5f80f63405d53e3173a8e",
             "b75db9a9073807dd4ed34faa746aa4298457361b",
@@ -22178,6 +22465,7 @@
         }
     },
     "strings": {
+        "owner": "purescript",
         "commits": [
             "a455b8cd32aa305e1d5f3cd3500713f51a9b73f5",
             "aa5b16163b4974f0ad64f223dc6b3f0be8f743a8",
@@ -22485,6 +22773,7 @@
         }
     },
     "ring-modules": {
+        "owner": "f-o-a-m",
         "commits": [
             "48f72122e7f80dfd1efcc2bd5bb2f8fb92942f68",
             "d3172a52be33f0d5155699ca9f5d4452036d0c29",
@@ -22511,6 +22800,7 @@
         }
     },
     "foreign": {
+        "owner": "purescript",
         "commits": [
             "9ff4489d6a7044a13aab2a4b92ccc347e99db435",
             "46d601b34672190670d7eb6acef32f298b850a89",
@@ -22716,6 +23006,7 @@
         }
     },
     "nodemailer": {
+        "owner": "oreshinya",
         "commits": [
             "2b54f9b85ff21d73d7f6bf35e86daf7143eae28b",
             "1132b66dbec26aed5cf1ea2e70c03514361b63a8",
@@ -22747,6 +23038,7 @@
         }
     },
     "hyper": {
+        "owner": "purescript-hyper",
         "commits": [
             "c3498d2e2d41e1bb86a1aaeae64058fd6ffe4c2d",
             "266a4cccc772f7d5ebe91fb71c2bd7530cec3fdc",
@@ -23223,6 +23515,7 @@
         }
     },
     "signal": {
+        "owner": "bodil",
         "commits": [
             "58e44e7f8c20e9d057bcaffbd231893935548bb5",
             "a26f52e356c4a2354c675908aa996778706d9667",
@@ -23441,6 +23734,7 @@
         }
     },
     "strings-extra": {
+        "owner": "purescript-contrib",
         "commits": [
             "8e029b42c8d9018d8ea9174ea348bd8ee4d1e2c1",
             "dfe17addc1e30384ec48cec7320f47635764a2d1",
@@ -23464,6 +23758,7 @@
         }
     },
     "nullable": {
+        "owner": "purescript-contrib",
         "commits": [
             "f4dc3b9d0169f5f7e385283c5c885bd4575d1354",
             "d0b9957f8e78e72ada2d8afde6aa37ec94911872",
@@ -23517,6 +23812,7 @@
         }
     },
     "freedom-now": {
+        "owner": "purescript-freedom",
         "commits": [
             "c0e81042483a25a721cdf651ef7463e27b30cd06",
             "a0fdc1fd1648f29f1d0dd7b2d4803e7c491231f2",
@@ -23531,6 +23827,7 @@
         }
     },
     "datetime": {
+        "owner": "purescript",
         "commits": [
             "9e76abe96f45a68eb0bb23d0afd56031a8070bee",
             "2bd4cebdc866dec58b6d302863fe5b0e01758ea5",
@@ -23682,6 +23979,7 @@
         }
     },
     "node-readline": {
+        "owner": "purescript-node",
         "commits": [
             "0d61e645aa33142ddd46f63048fe16605f9b8b2a",
             "70f0f7b744e0c95be3d87d86de0ca6555d1880bd",
@@ -23758,6 +24056,7 @@
         }
     },
     "sodium": {
+        "owner": "SodiumFRP",
         "commits": [
             "6a0a066fe0a9da7e1072bd565cd7569d60a27890",
             "913674e2f30d84c1790bead9c1888ea636176c17",
@@ -23881,6 +24180,7 @@
         }
     },
     "functions": {
+        "owner": "purescript",
         "commits": [
             "c63451ae74f6fba7a4eede5f87208a73c537af77",
             "37932941ebd7e370da1a466090e45bbab30eb7cc",
@@ -23916,6 +24216,7 @@
         }
     },
     "undefinable": {
+        "owner": "ethul",
         "commits": [
             "9c5c863e638b93cf73e2cfde8dfbde91480ee011",
             "4ca2b04252c3db494e3aa72fd51914560c03ce50",
@@ -23940,6 +24241,7 @@
         }
     },
     "web-clipboard": {
+        "owner": "purescript-web",
         "commits": [
             "5c4fe20111b9e37d74c805101b5c558928808971",
             "18076b93c75286ed4ccf3ba278337bf3f69cb7e2",
@@ -23955,6 +24257,7 @@
         }
     },
     "arraybuffer": {
+        "owner": "jacereda",
         "commits": [
             "7f90bc44247dcbeab70caef5d373833286468266",
             "525ca98350d8a9822bdede6bf19e429b92ba8281",
@@ -24238,6 +24541,7 @@
         }
     },
     "search-trie": {
+        "owner": "klntsky",
         "commits": [
             "8ab120195970078391f3a4f8f1daff758505c113",
             "028405e35e7b6cf085c4b68a86fa5364bb6775d0",
@@ -24260,6 +24564,7 @@
         }
     },
     "http-methods": {
+        "owner": "purescript-contrib",
         "commits": [
             "7cde5e92a0c22052d8b555a818009fcd6399d698",
             "0672c3591ebd5819e8727645977acb44dbb2cea2",
@@ -24298,6 +24603,7 @@
         }
     },
     "format-nix": {
+        "owner": "justinwoo",
         "commits": [
             "ca32a16deee11127b620470e63a1370d77a48975",
             "1883820736e1fc676132674292fa8119c7a132ae",
@@ -24407,6 +24713,7 @@
         }
     },
     "bucketchain-secure": {
+        "owner": "Bucketchain",
         "commits": [
             "d91a49bb6d16e45b0952633f3aaa4d59c6b03bc6",
             "685912b787d5f6858f221b416d9182ec731bad0d",
@@ -24428,6 +24735,7 @@
         }
     },
     "run-profunctor-lenses": {
+        "owner": "sigilion",
         "commits": [
             "7ba2c63b9a8ed3b71768242add2a491e1c7236c8",
             "411acb271541eab7b977a285f15b4e9d9a6be024",
@@ -24441,6 +24749,7 @@
         }
     },
     "halogen-bootstrap": {
+        "owner": "slamdata",
         "commits": [
             "9289a84f989c2572fbdbd49af2fcdd8175d3d7a0",
             "1146289f46a8c6538329f911bae3617de4515618",
@@ -24504,6 +24813,7 @@
         }
     },
     "lists": {
+        "owner": "purescript",
         "commits": [
             "62900a56f6864638c952575dfd211a1cc55be7da",
             "6ffd6b436c7cb9bb006ca7d69301508a97ae124f",
@@ -24843,6 +25153,7 @@
         }
     },
     "prettier": {
+        "owner": "gcanti",
         "commits": [
             "f79667f01f25ddc2e10b5fc8e7d18348f34f6fca",
             "a827a7711bf9aceea448b3225fbd64a7c2834eec",
@@ -24868,6 +25179,7 @@
         }
     },
     "milkis": {
+        "owner": "justinwoo",
         "commits": [
             "7e524d44005ccb6f19c28d6c61fe1488ba637938",
             "5d92f66b83482fd27ef09a1bd5abc739b7c4a101",
@@ -24967,6 +25279,7 @@
         }
     },
     "bucketchain-basic-auth": {
+        "owner": "Bucketchain",
         "commits": [
             "abd6aeb32a09ce1654b3a6edbf3cf57fc229a04a",
             "02181a20ca12bd527a10830e04c38b815487c4f0",
