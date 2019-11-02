@@ -10401,6 +10401,8 @@
     "now": {
         "owner": "purescript-contrib",
         "commits": [
+            "9fd1f03763df6c397d229359517537d7f08a6e1d",
+            "551dc4ccff641572b01c5cc0a166f18159e1164b",
             "68a2505155d74094f5adeeceeddd393b29e1095a",
             "c3b0d892cb188732b6b20cff522f7728ee275a6e",
             "2a05a426a10f5d046c947629b812e98f9122b9c7",
@@ -12782,6 +12784,7 @@
     "typelevel-prelude": {
         "owner": "purescript",
         "commits": [
+            "6792c6c2f1c770600d9a8beebde5528e936781eb",
             "182bc7d19d320d7db46024257e7fc1d8d9c37439",
             "dd703bac30e9cd837dba64fce4d0ff750da965d0",
             "82b343fabfe3bf4ebf8106ce61bfe24fb3ed500c",
@@ -12840,7 +12843,7 @@
             "44443683c4b358e114fad0b95a660e4c209603c4",
             "c19feba2fc168e764f16f309abf26bfd2fa0fa2e"
         ],
-        "latest": "v5.0.0",
+        "latest": "v5.0.1",
         "tags": {
             "v2.3.0": "c28581510ae5297229b5ac3d8f148eef88a81db1",
             "v1.0.0": "29a7123a0c29c85d4b923fcf4a7df8e45ebf9bac",
@@ -12849,6 +12852,7 @@
             "v2.5.0": "f7385cc0f1eb3c8f076ce64967897850024d181e",
             "v2.0.0": "52ededde01ca0c98cbedb108408bd0ad7b98ec8a",
             "v4.0.0": "1e4a6235d9aa83257a0204a4e9a86a3871bbaf81",
+            "v5.0.1": "6792c6c2f1c770600d9a8beebde5528e936781eb",
             "v2.6.0": "979f06ae3758c145a9f15d877ed0d7c148ece243",
             "v2.1.0": "48af3f1e3f7ae8ea4d9f8c1b2206b21ee4617345",
             "v3.0.0": "7aeb5990701925b199d3f49f5a073337903c9e41",
@@ -14180,6 +14184,7 @@
     "st": {
         "owner": "purescript",
         "commits": [
+            "7eef412ebc22dfe30b38ba307d7312fbebe8be24",
             "552c4329fafcfe80dffbb4125a2aa08e7cdaea95",
             "173934e41e61898277dd9b89945ca4273d2d9be1",
             "4b749c93bc541e92bba37e4da48207b820032fb7",
@@ -14220,7 +14225,7 @@
             "72506edc85f346b389a41c8aa6923b2fcae40bbd",
             "2936289548c041d32cb29bf7cd97126a7373ce45"
         ],
-        "latest": "v4.0.0",
+        "latest": "v4.0.1",
         "tags": {
             "v1.0.0-rc.1": "435b8462d520ea05cc895e027ac8c46d979df445",
             "v0.1.0-rc.1": "d8e9bb82ae43b0987b075ac55b5070b0d40a5a51",
@@ -14229,6 +14234,7 @@
             "v2.0.0": "43da907e16e0e54a199ca5a34d981a572f5242cc",
             "v4.0.0": "c1b9a0d47a5be1d7ea713ef1c583040eb332250a",
             "v3.0.0": "8e2f9555124d6844a0a0816515ef5475054575b6",
+            "v4.0.1": "7eef412ebc22dfe30b38ba307d7312fbebe8be24",
             "v0.1.1": "031ea9e6a25fa136d3b5d4dab4a783608e6f19c6"
         }
     },
@@ -14351,6 +14357,8 @@
     "cheerio": {
         "owner": "icyrockcom",
         "commits": [
+            "a2f0cb8c4e3e591a9209d924a50f05bee6d33e0a",
+            "370fa4b23ed8883948a1b6a2df94cfa436356276",
             "70e11f60f554d8747e566c32f7f0c0bdec5f76bc",
             "e8111489db752aafbafe477dbf03a812d183dde7",
             "e02796e6a445ad6037758c16ccf3a28cd3e3bd32",
@@ -14367,10 +14375,11 @@
             "7bfc8d7c0245cb5e516f6cdf02b69c142313e1bd",
             "d2efb6f0f97d2b7810881c6d75dfc258b649618e"
         ],
-        "latest": "v0.2.0",
+        "latest": "v0.2.1",
         "tags": {
             "v0.1.0": "0450cd176802c0bf53c9e3d1752fbf2ae6455494",
-            "v0.2.0": "70e11f60f554d8747e566c32f7f0c0bdec5f76bc"
+            "v0.2.0": "70e11f60f554d8747e566c32f7f0c0bdec5f76bc",
+            "v0.2.1": "a2f0cb8c4e3e591a9209d924a50f05bee6d33e0a"
         }
     },
     "leibniz": {
@@ -15052,6 +15061,7 @@
     "concur-react": {
         "owner": "ajnsit",
         "commits": [
+            "bca5eef318822404b090dd9b33fe7128fad710d5",
             "ac23d7d151d0105595c18df8e093e219513f43e3",
             "bb6358c22b20d93dfea92f9cdc8ed4f32185976f",
             "5344f79ac63f5a90aa208be2b755c665fcef6082",
@@ -23760,6 +23770,8 @@
     "nullable": {
         "owner": "purescript-contrib",
         "commits": [
+            "8f1e24687b32ff1ebc12edf1ef33ee063a73b75c",
+            "9ba6555ee3cec7bd71d7516308cd9f3b3382263a",
             "f4dc3b9d0169f5f7e385283c5c885bd4575d1354",
             "d0b9957f8e78e72ada2d8afde6aa37ec94911872",
             "cc85a817e5d5cdc7fee3246b794747cc362ac585",
