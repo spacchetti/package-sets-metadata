@@ -14184,6 +14184,9 @@
     "st": {
         "owner": "purescript",
         "commits": [
+            "3fcc99181225c1a7693d63024d912ead1a62c495",
+            "80ac3844b9768aed84e1325b6f5d4612900537f8",
+            "c6a1316efe3abfb93b71b8266a1282876818d4fa",
             "7eef412ebc22dfe30b38ba307d7312fbebe8be24",
             "552c4329fafcfe80dffbb4125a2aa08e7cdaea95",
             "173934e41e61898277dd9b89945ca4273d2d9be1",
@@ -14225,12 +14228,13 @@
             "72506edc85f346b389a41c8aa6923b2fcae40bbd",
             "2936289548c041d32cb29bf7cd97126a7373ce45"
         ],
-        "latest": "v4.0.1",
+        "latest": "v4.0.2",
         "tags": {
             "v1.0.0-rc.1": "435b8462d520ea05cc895e027ac8c46d979df445",
             "v0.1.0-rc.1": "d8e9bb82ae43b0987b075ac55b5070b0d40a5a51",
             "v0.1.0": "d8e9bb82ae43b0987b075ac55b5070b0d40a5a51",
             "v1.0.0": "47a4d4df1477bf8583debcaa855ab6406fa79418",
+            "v4.0.2": "3fcc99181225c1a7693d63024d912ead1a62c495",
             "v2.0.0": "43da907e16e0e54a199ca5a34d981a572f5242cc",
             "v4.0.0": "c1b9a0d47a5be1d7ea713ef1c583040eb332250a",
             "v3.0.0": "8e2f9555124d6844a0a0816515ef5475054575b6",
