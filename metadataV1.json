@@ -2283,6 +2283,8 @@
     "email-validate": {
         "owner": "cdepillabout",
         "commits": [
+            "3fdb86408fe06490de9ebef3a688571d445ec0ab",
+            "a7aa71c818f74c46871457703a2e6a1c19408b70",
             "b73471c0f479b6a5ad6fb903d3388013a9b79810",
             "7c527324b6ed9e3b04a4f390fae178ad94c327e3",
             "503bd7c94b9721c8766e8e6e36f006dffeef5b7e",
