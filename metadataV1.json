@@ -24864,6 +24864,7 @@
     "format-nix": {
         "owner": "justinwoo",
         "commits": [
+            "370c89e792abc919cbd53b690f984f2d0a139782",
             "ca32a16deee11127b620470e63a1370d77a48975",
             "1883820736e1fc676132674292fa8119c7a132ae",
             "8f0b0f6193ef36fc40add60f8477f6c3a06dfed9",
