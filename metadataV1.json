@@ -17971,6 +17971,8 @@
     "halogen-bootstrap4": {
         "owner": "mschristiansen",
         "commits": [
+            "1241a8333729ea4c1f16219dc85b385cee84dc50",
+            "86ef303c49221a8f84fbe7dd5b42177ccd5b1593",
             "1f3c45119b1679766dfcaf6402c0a52d313991ea",
             "386f0f57d7e85b1ceff1ae6b9e988a5c25b101a4",
             "9a4532f7d4ef43b87e16bf2f9c5c23b5f1b8e8a0",
