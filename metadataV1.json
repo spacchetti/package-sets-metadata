@@ -9146,6 +9146,7 @@
     "halogen": {
         "owner": "slamdata",
         "commits": [
+            "115b48959afae35bdfebfac87221ba0ac61b5367",
             "dd301747260620946956048a86e07e9efe1b6380",
             "18b1da50583d5eacdf43898d11de924410bcc84d",
             "76f80d6b059a0c29bfe75f4d756bc988a2f3bc5d",
