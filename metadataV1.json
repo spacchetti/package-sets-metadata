@@ -6876,6 +6876,10 @@
     "trout": {
         "owner": "purescript-hyper",
         "commits": [
+            "0bdf220531c31af8a519eb34d12c0201a0d9230b",
+            "db850f1e27298ecef472e2af8e8d8ae5ac7ceee9",
+            "0a7256ba9a5e9eb46b4649cdb2495e3c1244db92",
+            "4edde87293e3905817bfa184e1434be5d2989f39",
             "efc97ffb9806f8a0d7a10313ac74f957f392a2f8",
             "da350320a3c62f197f8b7e0ff21947b86c9de738",
             "1a1cf3925fceef395f5fe0808ba098633fdaf6f8",
@@ -6935,7 +6939,7 @@
             "dbed8c20ad39c4e2eb075da96a9b6749968e1899",
             "41409fa505405b197aa3f75efab679b045154e13"
         ],
-        "latest": "v0.12.1",
+        "latest": "v0.12.2",
         "tags": {
             "v0.12.1": "efc97ffb9806f8a0d7a10313ac74f957f392a2f8",
             "v0.12.0": "63c3af6bb5e10acb997c3671f58855d6970ce6ac",
@@ -6947,6 +6951,7 @@
             "v0.9.0": "7d025b0ab6d42425795753e7575d6899adcff837",
             "v0.10.0": "f0cc59fdaabcff671a9722e30ea313c36d44b504",
             "v0.8.1": "ffbc3337dbe431b280384f252ff0804c2426dc37",
+            "v0.12.2": "0bdf220531c31af8a519eb34d12c0201a0d9230b",
             "v0.4.0": "8ddd885c5436129dbfc765b49d76f4c5e06dd627",
             "v0.5.0": "ba07d9f4732e8dc48f6f10142bc597622caa69e6",
             "v0.4.1": "987ebbc079bf81740c0c31fea4befba3f4fdbb50"
