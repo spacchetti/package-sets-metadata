@@ -605,6 +605,31 @@
             "v1.1.0": "d18d17203bf5b4be66641fae18802cc13e40ebf8"
         }
     },
+    "cartesian": {
+        "owner": "Ebmtranceboy",
+        "commits": [
+            "b752b0a53f007ca8aa9e319eb91fd6a997c14365",
+            "b4817b4133ac7386a5f044f3fcb15d63b8346655",
+            "4fe52a389cdd462a72e5389ba920de23831dcb83",
+            "34562320478a96cae17eff2713476c86192644e2",
+            "f0e2735058e6c9bb81cd8f65df3826c29e2b7be1",
+            "8352e6b5f9760d5d5e252e295d42aae7ebac1011",
+            "7b4bd6a36155ed17f9f41cc2d2eda25e6cb7342b",
+            "d7b1decfa8f277655cd9963f262f46c41c55e6cc",
+            "4ecebbf48141132a18a09dbc880c157c1f727d7c",
+            "d957dbbe86626c328aa54a3f7007fb3b9ec826a2",
+            "897705a920f36eaead2544445835a9e02f54aea4",
+            "70557c4b736cf7711e179bf59d41c5351ea84859",
+            "0255f5c7874b8dd2e07f993225312540bc1d7bea",
+            "bb0b63073a831307c73d29ce72f425d1ef687412"
+        ],
+        "latest": "v1.0.4",
+        "tags": {
+            "v1.0.2": "7b4bd6a36155ed17f9f41cc2d2eda25e6cb7342b",
+            "v1.0.4": "b752b0a53f007ca8aa9e319eb91fd6a997c14365",
+            "v1.0.1": "4ecebbf48141132a18a09dbc880c157c1f727d7c"
+        }
+    },
     "subcategory": {
         "owner": "matthew-hilty",
         "commits": [
