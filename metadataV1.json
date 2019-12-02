@@ -11963,6 +11963,7 @@
     "routing-duplex": {
         "owner": "natefaubion",
         "commits": [
+            "eceaba4ee9921250cc6640d5ead98bbfc44310f5",
             "3fc0db14ddf7538a61443824150d0e806644f767",
             "c49af79f0ec1979d4b8ae7c25119a0c0f1383f33",
             "1c31283924a1cc581cf3a82e284fea044143eba5",
@@ -11980,12 +11981,13 @@
             "c85afdbb1c1c1bad17245cbf1feac10e77cb3f0e",
             "5db0e869ceb3d5f9ce549ea21795d14ab5ddb28d"
         ],
-        "latest": "v0.4.0",
+        "latest": "v0.4.1",
         "tags": {
             "v0.1.0": "a03a30e2b423508c83c100d8b9aa16c197610405",
             "v0.2.0": "949e3bc395566fb304e3c72eda9af3c920537925",
             "v0.4.0": "a76379757707725bb73d30a64ed4973c8c347c4e",
-            "v0.3.0": "33845e577a701aabef9463100f438958f50b78d9"
+            "v0.3.0": "33845e577a701aabef9463100f438958f50b78d9",
+            "v0.4.1": "eceaba4ee9921250cc6640d5ead98bbfc44310f5"
         }
     },
     "node-child-process": {
