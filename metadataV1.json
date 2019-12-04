@@ -3973,6 +3973,9 @@
     "httpure": {
         "owner": "cprussin",
         "commits": [
+            "a12e63b87984e3df3cf36bf931392f97790906fd",
+            "b47c9a2c6c05a52111101ae697e81b002a500073",
+            "52f88ccd8154aa869b466ad728c280d718871b42",
             "ac43b0d12518c512b7ce25f5019f29caa38113b8",
             "46fe320a78bdad1a85898df188b84ad7e5a4aaa2",
             "acd27f525a52cb94a6b4759898c961e7077abbf0",
@@ -4106,7 +4109,7 @@
             "0e6cb596b8a17988337e796834df23e79abadb2e",
             "17d39fcdc2f0a2fafc959030a1ad14dea5ee99eb"
         ],
-        "latest": "v0.9.0",
+        "latest": "v0.10.0",
         "tags": {
             "v0.8.2": "717a33739c5f56ac9514ebb4ba9c78d627baf3b2",
             "v0.1.0": "4ca1378f7d212d479eed2faffca72b4276aaf86b",
@@ -4118,6 +4121,7 @@
             "v0.6.1": "6d78a1b5fb25946fe46a31b32e0eadf8c1c25fc8",
             "v0.2.0": "e3985bd86ffe5b0b9a6dc6d172f1aba62af39d28",
             "v0.9.0": "acd27f525a52cb94a6b4759898c961e7077abbf0",
+            "v0.10.0": "a12e63b87984e3df3cf36bf931392f97790906fd",
             "v0.8.1": "92408f9636240d6c0bc02c5b5285c0fb41baab25",
             "v0.6.2": "f94342035138288ab2fb032d88797ad20dc68936",
             "v0.4.0": "3fd5cf017999341d94b2f63141c74858cc541959",
