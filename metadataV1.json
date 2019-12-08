@@ -2399,6 +2399,9 @@
     "console": {
         "owner": "purescript",
         "commits": [
+            "8224f6e9af1dba922139038edc49e55f20c1fbd4",
+            "de05157033a7e72e99d100cd2ce9dfcbf26fc2a6",
+            "7571290613eb5ab0b72419385bb5968c5a74645e",
             "add2bdb8a4af2213d993b728805f1f2a5e76deb8",
             "1cf02680af22501dacddfabc03f40176e046e7da",
             "eee71b13ccc54a34c77533e6ce791e54d023e323",
@@ -2437,13 +2440,14 @@
             "f002a467c6ddea87b84fc5b82ccd69be77dd89c1",
             "2b037fed54fac82b4b37977c97308b3c10558965"
         ],
-        "latest": "v4.2.0",
+        "latest": "v4.3.0",
         "tags": {
             "v1.0.0-rc.1": "18fa23956e956b4b56697d35bb195233aa10944c",
             "v0.1.0-rc.1": "d6654ac2b846982375c58d0b8829b495bc4d6b69",
             "v0.1.0": "d6654ac2b846982375c58d0b8829b495bc4d6b69",
             "v1.0.0": "739efea81b4de13f229f2dc8169947869622d8d5",
             "v4.2.0": "add2bdb8a4af2213d993b728805f1f2a5e76deb8",
+            "v4.3.0": "8224f6e9af1dba922139038edc49e55f20c1fbd4",
             "v2.0.0": "3d3846c1a625b1996b4bc9e1d7a2fbff407fda25",
             "v4.0.0": "84ff5cf8a5b2a4540541c52e938919d2149b83ca",
             "v3.0.0": "36eb19ee6ed578cbec480cd89cd5b2285984ead6",
@@ -16234,6 +16238,12 @@
     "freedom": {
         "owner": "purescript-freedom",
         "commits": [
+            "9699dcb8362ff92717b893acdea78c106024ec38",
+            "9b40cc9ca16c1a750513b94fb4be89b59b4278e8",
+            "261e2387c48208d56eb7568501be38bbd273410c",
+            "9c2f971456959cac7ac3be7d1b6b65391cdbb612",
+            "948dea59dc383da642ffbb4527b112397dba5df1",
+            "f7c6c8e70c63062f29c3a85ff281a4100a0d886b",
             "cff9e97b893aba5836366b4e83b7821b6f0cbd6f",
             "a41026695058a608e0fc0682395445befbcce1bb",
             "01447a77e821c016beceb4aa610658d502366540",
@@ -21848,6 +21858,9 @@
     "web-file": {
         "owner": "purescript-web",
         "commits": [
+            "32fa296ff8103a72d52fc900b195f2ee05dc5627",
+            "0e044f71f852ed2a6cadd8b0f52fac813932704a",
+            "4159183b1db7c5ee8a6a23679a9ee0686974acd9",
             "2c2df4e1e21936fd64c27474b024aa531050831b",
             "b3222285a5f4ec46dfc6b85d878dbc3818e9d374",
             "7e4b8ae99ef6b16c37fc48b899e39599d3a7bdd6",
@@ -21871,9 +21884,10 @@
             "e363a17986688b44a947a260a5ab73b5e9cf94fb",
             "2ce0cd1d2b0060e9a1cefdd88fc8f220d9e659c5"
         ],
-        "latest": "v2.2.0",
+        "latest": "v2.3.0",
         "tags": {
             "v2.1.2": "96956761312f6dbceef99b1dd28199c0a03065a9",
+            "v2.3.0": "32fa296ff8103a72d52fc900b195f2ee05dc5627",
             "v1.0.0": "866a0d8ed314b4d03b0d86f485244f0d999dc473",
             "v2.0.0": "df51ed42933c39c8898d6d8c865888ef34813696",
             "v2.1.1": "5245d62ba35357c6fb74fa919797d2b7c08110cd",
