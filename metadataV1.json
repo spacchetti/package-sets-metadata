@@ -4267,6 +4267,13 @@
     "mysql": {
         "owner": "oreshinya",
         "commits": [
+            "1551c8cca5982305965fc843821562a693e99748",
+            "555b465add361527e207f884c14e004ebe2d94ba",
+            "9a25d38fa4440d2a17015ff382f2bc4325c2afd9",
+            "5fd9086ef5243070b638a51dc67884f21fba0bdc",
+            "d22f40a04ca3b82a53218084ced83d57bd3018a5",
+            "574299f72b9bec17112d267c619717dc41a09915",
+            "a0583d42fc6109dfd110940ad597151de8337ccd",
             "29b1da96ee110892f3e5d5b8468dfc0ba6f2fef5",
             "ca0892164870b1472159add7b0c3fa8ae8199aa2",
             "aee3ccf21da8fd6f33349cd5b8dfcb28c27d8583",
@@ -4347,7 +4354,7 @@
             "2e5ba0f7b82d6cb9bd8a9c17c7f0c35ce658719e",
             "fd0f3ab5e1d6f266b01203f5c26fdcb3979d4b42"
         ],
-        "latest": "v4.0.0",
+        "latest": "v4.1.0",
         "tags": {
             "v3.2.0": "75ce6958b329674e3e47a7a3e7306ee37229ffa7",
             "v0.1.0": "02ae68ef6a1f12fa0c15a9ade22e33f3d65a876e",
@@ -4367,6 +4374,7 @@
             "v0.2.1": "568a88215f72ec91e21efc787bca57b4611ac5d1",
             "v3.0.0": "a4f090fdfa9df9738cc6f7353160a8d5ff1597a7",
             "v2.0.1": "3f78afc70ce8fee36538e439ae303b3f8fa2f532",
+            "v4.1.0": "1551c8cca5982305965fc843821562a693e99748",
             "v3.3.0": "046225892d4e9a4955b91b7dd453c6a7e2ae2e35",
             "v1.1.0": "11e9bac88b178f6c5773db11c408e70158dbe7c5",
             "v0.1.1": "eade4cc454d36bd23b7999718c428c5f905ab28c"
@@ -8432,6 +8440,10 @@
     "bucketchain-cors": {
         "owner": "Bucketchain",
         "commits": [
+            "df3d5c19af0177a0ed09df11d3edbbe66fe2711a",
+            "a5c746594ddb93dc5b7e46d769de073c340925af",
+            "307ca9299d16ecf2004ba6107b0af7d2f1494678",
+            "6d0d92705a4fc61524f5f30cfae5e544b3b74ea6",
             "ee4d5ee1ae1ec9a4b45f24d590fcba9d69541597",
             "0251ab18dc080985bb4b802a3df3a63676f67913",
             "cf6c70fde1073fd836fe5076e51d1a772b869704",
@@ -8442,10 +8454,11 @@
             "e99723168b1c081f66ae685aefd80da30885f30a",
             "47a16258438af0c8a34faf7cd452285667369b37"
         ],
-        "latest": "v0.2.0",
+        "latest": "v0.3.0",
         "tags": {
             "v0.1.0": "e99723168b1c081f66ae685aefd80da30885f30a",
-            "v0.2.0": "646fd548935a6158af8ee6d1cea0c2cb0e71c64d"
+            "v0.2.0": "646fd548935a6158af8ee6d1cea0c2cb0e71c64d",
+            "v0.3.0": "df3d5c19af0177a0ed09df11d3edbbe66fe2711a"
         }
     },
     "record-format": {
@@ -13590,6 +13603,62 @@
             "v0.0.4": "1f3001a73ed321a2f3f147434aa06970f7d936f9",
             "v0.0.3": "d2c5167b9045a5d7a9e1aa8356ba42f243526494",
             "v0.0.5": "8004820fa46f3078169638915174e77abdc7d38a"
+        }
+    },
+    "trout-client": {
+        "owner": "purescript-hyper",
+        "commits": [
+            "b852e7f104195e1f388b3e385b9d2e304ac1e578",
+            "be6031a9b56dbc5917e5ac6fa0c9a3c298009b14",
+            "6a9fe17634191d45d1f231ba4e6803cb86fb0bdd",
+            "48a42537141dd86516d6598c6d5f9cfa90bfbcc5",
+            "a3711b1c4e16ae7b9e40d4ff74dac757b51181a6",
+            "f554aa9236f69716bdbb91717e14808c42eb34f6",
+            "9606264b84965beae8b50561d6ac65305b912e03",
+            "e430d76c30565447b1a66b6f24ef75874e58f77b",
+            "cc933fafd21d1c9f3b1a524b9ed6b5aa225e7085",
+            "040808a348c48b582931b1a0a36f4742631fbde0",
+            "1f2acf2c62076854d328e4576dea0781442b794e",
+            "171af7e2c3993eacf66eba7413c3bb09903a268b",
+            "4bc793f6c6ac0577c2c2db375a85b119cec2868d",
+            "90c4ac2aace998c83fa1a762959a6fff8eb085bb",
+            "121fa89ec68a0d7df73dae5e09574938c7b6a85e",
+            "1b7079248fef0cb29519cf7f4a3b4f306b8a2e65",
+            "eb5fd710a41411a1fe903e7193686c8a82ec19de",
+            "ba6613594f3810f1b20395686267409d1708dc54",
+            "3123526fdef043edf99d13006944aacceb210943",
+            "d3c1acb47466180d4903f0338b4efa37c88079be",
+            "56b029e0379fe179ab228431a6f5a917c726947d",
+            "646a829feaaa7b69d09f0b62b1f62deb5c116c2b",
+            "7cd8bf4d6dd2cb2f9120f92c228cc1da0d630a95",
+            "f39c6b245ae97c802f70617328dec732596c6719",
+            "3233a6daad9fc59b44ca7e303950f3a9f2893025",
+            "c39879db733f8f8784de5ccdbafa03680ac41b7f",
+            "455c6fa4d4bdb2e21ec592c9f45a747e8bf2e6b0",
+            "fd3cb61e0f3342f1ff269fe1c30a95e848ce41b9",
+            "c604b8e93d3807502d90b44381852ff9f8e27d5a",
+            "6d0e4bf32b98bb6f70c2e4729d4584326f3ba953",
+            "0ab8ad3855a79a17d09dbf6e2d1309bc469d33e4",
+            "c1fdf59128287c4865b27b71680191af12ba13b4",
+            "f42ad9733882d51616fe5104b281db222a870648",
+            "50f04e1b0644bcf35a5cb1c38c40f26d865946de",
+            "12902f012b7010e64b4ca8d53f9ed2bad8e048a4",
+            "5081785aece0148d35dc0abd99143b3b4772736c",
+            "4ba6bf41b57cc61079ef6e6d9283425f8f5c71ec",
+            "883a45554f577b0b7fb901ead09456af1595f7a8",
+            "8d3f4533e7dc158309c60742657fe51241c82377",
+            "6a80cbe0c985ad5469ed02581e768814f93a61f0",
+            "0f032ae38243fe73e85e70fcff64aba6b9308ede"
+        ],
+        "latest": "v0.12.0",
+        "tags": {
+            "v0.12.0": "b852e7f104195e1f388b3e385b9d2e304ac1e578",
+            "v0.6.0": "50f04e1b0644bcf35a5cb1c38c40f26d865946de",
+            "v0.8.0": "f39c6b245ae97c802f70617328dec732596c6719",
+            "v0.11.0": "cc933fafd21d1c9f3b1a524b9ed6b5aa225e7085",
+            "v0.7.0": "6d0e4bf32b98bb6f70c2e4729d4584326f3ba953",
+            "v0.10.0": "3123526fdef043edf99d13006944aacceb210943",
+            "v0.4.1": "5081785aece0148d35dc0abd99143b3b4772736c"
         }
     },
     "biscotti-cookie": {
@@ -20509,6 +20578,9 @@
     "bucketchain-header-utils": {
         "owner": "Bucketchain",
         "commits": [
+            "899b4230d53a2d74e52e356e90f956d034e38e60",
+            "a0e0a90887afa2c83ec7524dfe503a6035c5bf4e",
+            "f10bddf9f64bf8490596a60671398e3fef5d4057",
             "07a90f72493d4b0dbc58fdd9d7e9dd613c10a522",
             "3e6dafc569255d248dd031d649ad37d3a444e749",
             "7e51a3731a86745f665f7e9bc85432df955108a2",
@@ -20519,10 +20591,11 @@
             "6690b3bddafea290530d331a6061a1633a11b029",
             "7cb8d03f18b7c328a683c38a8bc7789ca5002e8c"
         ],
-        "latest": "v0.2.0",
+        "latest": "v0.3.0",
         "tags": {
             "v0.1.0": "6690b3bddafea290530d331a6061a1633a11b029",
-            "v0.2.0": "07a90f72493d4b0dbc58fdd9d7e9dd613c10a522"
+            "v0.2.0": "07a90f72493d4b0dbc58fdd9d7e9dd613c10a522",
+            "v0.3.0": "899b4230d53a2d74e52e356e90f956d034e38e60"
         }
     },
     "tuples": {
