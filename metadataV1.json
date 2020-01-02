@@ -11716,6 +11716,7 @@
     "querydsl": {
         "owner": "Dretch",
         "commits": [
+            "45f9e7c54a5f94fc0562c163f16f2ca811900bb8",
             "96016e4547486019a8100c489f092e3b5ffc6a15",
             "a64d647ad0c9e99086e705424f5338fcb254359d",
             "26c112e6291ff2ff23f5fb27e8b632d9adecec82",
@@ -14766,6 +14767,8 @@
     "affjax": {
         "owner": "slamdata",
         "commits": [
+            "143201eb51eefbb46bc4e2355038c57fc4800675",
+            "174a10e7365bbee661e71eb74911aea07d76d455",
             "200bad76c420935550bb9ef0ea6a548caea2ba42",
             "d710d92a46f8afb165214be07d452fd586c78c0d",
             "d5a7a9c327d56e8bcaa15b10ab3df61e1f173f05",
@@ -15566,6 +15569,8 @@
     "concur-react": {
         "owner": "purescript-concur",
         "commits": [
+            "40fcc63f422d21ac8ad7890e16e11b16f16d1335",
+            "5e208ea5db38b2eb86b5de8f8c1b11914f864866",
             "467fedb08854c55780d1fb2d00e668f4837657c8",
             "7d6bd8fff8abe2c6e8e3fdda2c72aa09d983c08f",
             "720879aba03c0cdfaad0d813d7b0fb5f32e8d614",
@@ -17317,6 +17322,8 @@
     "node-telegram-bot-api": {
         "owner": "justinwoo",
         "commits": [
+            "f598342116e781e45b8a87a86fcd42dbac784012",
+            "76e02478f3a4ab76fcdc8438d5721e278b2f03db",
             "722fc94c6ff28d2a762a87a0fbbb8d92b6497bc7",
             "26d9dc37a28e153a5bc545ed4912399f36923ff8",
             "eaa1302f5daada0307c47993370d05239dc6f7c6",
@@ -17470,6 +17477,7 @@
     "argonaut-codecs": {
         "owner": "purescript-contrib",
         "commits": [
+            "b041043c0a58e066beb9056d12e6122db198546b",
             "adaad0f7ff3cb61f0f12fe401f3fd1f37ada4e56",
             "1e5aecae7ad292f4b5c255a87448b5b08bef053d",
             "6372c0d6e6cd1733b59f7ea62859463e15251209",
