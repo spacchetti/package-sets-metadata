@@ -8128,6 +8128,8 @@
     "react-basic-hooks": {
         "owner": "spicydonuts",
         "commits": [
+            "df73fc806a6d41a5ab11893f8761c280110f7471",
+            "a18a0511a2fe95fc168d50c40270b8a63790d627",
             "c6a9b1b1952e393f6334a8cdad565e149eae3d39",
             "bd3f00febe8ff50950764fc1cb558a2502653cdb",
             "b2b75a778893b7d0f43daade145d53b6205bd4c1",
@@ -8185,7 +8187,7 @@
             "e14e7538b4fc1689b102a2370919f65dd3570ece",
             "6075310b3807f02d611bb6911c1435e82905993d"
         ],
-        "latest": "v4.1.0",
+        "latest": "v4.1.1",
         "tags": {
             "v0.1.0": "94220fd9017207ebfcdfdf8e489e33f308cb253e",
             "v2.0.3": "34f3fcc1afc86346dbb06cf1def277c5cf9c43e4",
@@ -8196,6 +8198,7 @@
             "v0.6.1": "a758a629e4bb6ea29af2a0ad8baafc2cec2e9681",
             "v2.0.0": "80600ecd3632152a863301114c2576fc044d6d44",
             "v0.2.0": "32116d1ccd53ef81439d0fc2bd7332292b266efd",
+            "v4.1.1": "df73fc806a6d41a5ab11893f8761c280110f7471",
             "v4.0.0": "b2b75a778893b7d0f43daade145d53b6205bd4c1",
             "v0.4.0": "1dae60e0e037ca75c8e339b878617d84bca73713",
             "v0.3.0": "6e334b938e7fea2df031c8207b73a1111a2b1e67",
