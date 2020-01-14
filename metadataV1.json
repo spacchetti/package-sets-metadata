@@ -26020,6 +26020,10 @@
     "milkis": {
         "owner": "justinwoo",
         "commits": [
+            "cedf35448832cbb6fd56f0dcf26abc5a6ec6b76f",
+            "72b7e1cb99a306559a84d40fd1215c80008fbc12",
+            "8fc9e333fb8ee0ea85a8afe161391b8d43f38eee",
+            "0aadf60bfea70b047cd1fa7a49f5b9d096c3f489",
             "7e524d44005ccb6f19c28d6c61fe1488ba637938",
             "5d92f66b83482fd27ef09a1bd5abc739b7c4a101",
             "b891818ff6b58ffa872e6201599cfef401181131",
@@ -26090,7 +26094,7 @@
             "559d7659767ae52d17de4a74b5ea33e65f1ca317",
             "c6a33a21a39a95c877d775bf3f86128de116fa2f"
         ],
-        "latest": "v7.2.1",
+        "latest": "v7.4.0",
         "tags": {
             "v0.1.0": "559d7659767ae52d17de4a74b5ea33e65f1ca317",
             "v1.0.0": "f06eec4bed0d79b6942aee09103cc6edcd8b82aa",
@@ -26110,6 +26114,7 @@
             "v5.0.1": "1fb748de330220d26e4810eed8756421e9ec0740",
             "v6.3.1": "efa05c3ad784d64fa9ad5e39774be2e13ba99d29",
             "v3.0.0": "4cc0eb7d195c6cce5d83ac94fe6af38c36ac5337",
+            "v7.4.0": "cedf35448832cbb6fd56f0dcf26abc5a6ec6b76f",
             "v4.0.1": "2b1ccf19f7dfda658b4c9c7589fb9a02cb22b658",
             "v5.0.0": "f769b5ee9e5396c0d606d4f73e3a99d5affb4758",
             "v6.3.0": "1535820d3229021a7102e17bba4391a81cac6fc8",
