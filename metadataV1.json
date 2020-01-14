@@ -6932,6 +6932,8 @@
     "trout": {
         "owner": "purescript-hyper",
         "commits": [
+            "b182662e8b5c7b63d97852131e478b1d6fe207a6",
+            "fc2b1063fa8c72792f3544ea9d2a21bf62966787",
             "0bdf220531c31af8a519eb34d12c0201a0d9230b",
             "db850f1e27298ecef472e2af8e8d8ae5ac7ceee9",
             "0a7256ba9a5e9eb46b4649cdb2495e3c1244db92",
@@ -13072,6 +13074,7 @@
     "freedom-virtualized": {
         "owner": "purescript-freedom",
         "commits": [
+            "acf9b27d202ed601a6b81f2142a9dfb9baffb045",
             "8ae58a8e658745391c540e07711cb0d2d6cd1f48",
             "48c256647263eb4d3e1cc7327843c8cd3291c4e4",
             "8a17f8ae76403062050058eddf6c796831a712c8",
