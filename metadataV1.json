@@ -17076,6 +17076,7 @@
     "metadata": {
         "owner": "spacchetti",
         "commits": [
+            "05a4fd5dd0f8269f3ebceb9b7a99ad289b1c65a7",
             "f2e0335c06e1d112b1e2e32683cd50e3430f76e7",
             "049672087bb130a586aeda4e73ebf4b26a80dfa6",
             "2c097903c39eefe98140380b05d7c843011f2ba2",
@@ -17091,9 +17092,10 @@
             "8b2ff5859c55a40b1b661659ffc74979e2f47be0",
             "3fc18df12f1e72095f0d54a122176c1cdb95f60a"
         ],
-        "latest": "v0.13.5",
+        "latest": "v0.13.6",
         "tags": {
             "v0.13.0": "a3339faf0dac40e84ca3e27ecc2d13d2db76e1e3",
+            "v0.13.6": "05a4fd5dd0f8269f3ebceb9b7a99ad289b1c65a7",
             "v0.13.1": "2740399fdfc5f763162f6b1981efc7bf1fd1944f",
             "v0.13.2": "fef45c102a29d7f8d5d404705531888af6b05e9d",
             "v0.13.3": "2c097903c39eefe98140380b05d7c843011f2ba2",
