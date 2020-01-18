@@ -7290,6 +7290,7 @@
     "halogen-select": {
         "owner": "citizennet",
         "commits": [
+            "f0a1ce0b45bb0e8c39bb123bb4d6577ce43b1a2d",
             "467b35fa5dd05d64dbdbcab77442153f729bd0a8",
             "e6fcd98d7e93c9da5076aa9427c043c1492f8a76",
             "1e7111902d25937816a99f004c228f19679a89ac",
@@ -7483,11 +7484,12 @@
             "4d4e57f5692a9a179427fb7266c8715c5f392bb2",
             "8020ef71c163c41132eb0fddcd7d50321a656d94"
         ],
-        "latest": "v5.0.0-rc.3",
+        "latest": "v5.0.0-rc.4",
         "tags": {
             "v3.0.2": "dc7f100873370d6679955bc1ee6fe331d5b9697c",
             "v1.0.0": "fed7d96a4bde4417c1fdb912a9267adc696a4bd3",
             "v5.0.0-rc.3": "467b35fa5dd05d64dbdbcab77442153f729bd0a8",
+            "v5.0.0-rc.4": "f0a1ce0b45bb0e8c39bb123bb4d6577ce43b1a2d",
             "v5.0.0-rc.2": "21d63d1239c8859e15440103a4442a52b52242ff",
             "v2.0.0": "64e4d0c14e59eb10b1eb3ba19688ecf9fdc8de11",
             "v0.2.0": "3406ad8bafa9e6ca794d053445768a36c4f37289",
@@ -13074,6 +13076,11 @@
     "freedom-virtualized": {
         "owner": "purescript-freedom",
         "commits": [
+            "9bb20454de1e06d42230cd446f0d2e57b9f90e72",
+            "78466bcb8671ca745551d008532f862f6496fe72",
+            "10a945d1e675964eb620a09291b0ebaa5dc05acb",
+            "a2072351be4b52141c7c6d9275d88f194c1b6bc3",
+            "3f5942d6ca62f2a4d15dc98f8786d66ba23b74b0",
             "acf9b27d202ed601a6b81f2142a9dfb9baffb045",
             "8ae58a8e658745391c540e07711cb0d2d6cd1f48",
             "48c256647263eb4d3e1cc7327843c8cd3291c4e4",
@@ -13095,12 +13102,13 @@
             "c4f32633812dc3f28627726eeb1bef515fe15b26",
             "7fa12ee1d01a877508aa12c3aa210c950b73d171"
         ],
-        "latest": "v1.0.0",
+        "latest": "v1.1.0",
         "tags": {
             "v0.1.0": "c4f32633812dc3f28627726eeb1bef515fe15b26",
             "v1.0.0": "415cda957835f83d7f95883456237d2a8c07bc0d",
             "v0.2.0": "b2df26800e203fcaf897114bac2f94bb911b70f8",
             "v0.1.2": "c6447428c5d072ff5bbb23f554e83253aa49ae3b",
+            "v1.1.0": "9bb20454de1e06d42230cd446f0d2e57b9f90e72",
             "v0.1.1": "af2155def7db5a96a915ce3d9dcb3aaaa489aa0f"
         }
     },
@@ -19386,6 +19394,7 @@
     "concur-core": {
         "owner": "purescript-concur",
         "commits": [
+            "f175dd4a4f7b8904d2cc4abb51e3b5179140c294",
             "e9461b44fff7ec18aa90f857dedd49b0ba5e3e08",
             "8333b3267199b99b42722b2c47b2c862ffdbc226",
             "cf567149de0cff3e6fc4ea079204c3739ad0fa10",
@@ -20175,6 +20184,8 @@
     "transformers": {
         "owner": "purescript",
         "commits": [
+            "015de5d5b2e0e73e8ef90ff906f1f7c920921477",
+            "cd29b3934482806ae3252476d116059302436f27",
             "0e473e5ef0e294615ca0d9aab0bcffee47b2870d",
             "961f4034d6e8a7696fa248981ce92b27b265b85b",
             "5bd4bdae21b03f9a0d2270a7b83ef3351b81db82",
