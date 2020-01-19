@@ -15589,6 +15589,7 @@
     "concur-react": {
         "owner": "purescript-concur",
         "commits": [
+            "12e245737b5625411ba6b34c0bee3434f7c5cc7b",
             "40fcc63f422d21ac8ad7890e16e11b16f16d1335",
             "5e208ea5db38b2eb86b5de8f8c1b11914f864866",
             "467fedb08854c55780d1fb2d00e668f4837657c8",
