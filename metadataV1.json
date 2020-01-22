@@ -13079,6 +13079,9 @@
     "freedom-virtualized": {
         "owner": "purescript-freedom",
         "commits": [
+            "4005d846f8b90b708817f5635d3d7f113408c658",
+            "eefb80b14782584b9c74d65822fdc69560239121",
+            "c04542198656ac2a6998e0474a89af9b8506fdd5",
             "9bb20454de1e06d42230cd446f0d2e57b9f90e72",
             "78466bcb8671ca745551d008532f862f6496fe72",
             "10a945d1e675964eb620a09291b0ebaa5dc05acb",
@@ -13105,10 +13108,11 @@
             "c4f32633812dc3f28627726eeb1bef515fe15b26",
             "7fa12ee1d01a877508aa12c3aa210c950b73d171"
         ],
-        "latest": "v1.1.0",
+        "latest": "v2.0.0",
         "tags": {
             "v0.1.0": "c4f32633812dc3f28627726eeb1bef515fe15b26",
             "v1.0.0": "415cda957835f83d7f95883456237d2a8c07bc0d",
+            "v2.0.0": "4005d846f8b90b708817f5635d3d7f113408c658",
             "v0.2.0": "b2df26800e203fcaf897114bac2f94bb911b70f8",
             "v0.1.2": "c6447428c5d072ff5bbb23f554e83253aa49ae3b",
             "v1.1.0": "9bb20454de1e06d42230cd446f0d2e57b9f90e72",
