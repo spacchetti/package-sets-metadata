@@ -2399,6 +2399,7 @@
     "console": {
         "owner": "purescript",
         "commits": [
+            "9b48f83997168b94418d64d9e7b5c1763b30bdab",
             "8224f6e9af1dba922139038edc49e55f20c1fbd4",
             "de05157033a7e72e99d100cd2ce9dfcbf26fc2a6",
             "7571290613eb5ab0b72419385bb5968c5a74645e",
@@ -2440,7 +2441,7 @@
             "f002a467c6ddea87b84fc5b82ccd69be77dd89c1",
             "2b037fed54fac82b4b37977c97308b3c10558965"
         ],
-        "latest": "v4.3.0",
+        "latest": "v4.4.0",
         "tags": {
             "v1.0.0-rc.1": "18fa23956e956b4b56697d35bb195233aa10944c",
             "v0.1.0-rc.1": "d6654ac2b846982375c58d0b8829b495bc4d6b69",
@@ -2452,6 +2453,7 @@
             "v4.0.0": "84ff5cf8a5b2a4540541c52e938919d2149b83ca",
             "v3.0.0": "36eb19ee6ed578cbec480cd89cd5b2285984ead6",
             "v4.1.0": "eee71b13ccc54a34c77533e6ce791e54d023e323",
+            "v4.4.0": "9b48f83997168b94418d64d9e7b5c1763b30bdab",
             "v0.1.1": "7d8372f9ceccb4e4eba1adbfa32d57a45deb6044"
         }
     },
@@ -2678,6 +2680,10 @@
     "ordered-collections": {
         "owner": "purescript",
         "commits": [
+            "06c1e40849d456d89e898eedf48ba3a94fdd2320",
+            "63fceeef83ba3326afcd07a98d283ce0e5ba9b78",
+            "688194af8b3c24c6b13cf7a9748c448eb46b6f09",
+            "be6e918b81c24ff7888b7f66c256b36ba317fdff",
             "54af8b281bf01acfc14e147debec76974901e93c",
             "7b4bad306174aa4cbbbcf11cd4946d1ffb295e69",
             "b78430901817ec7c584ff13630066c9d912a2ebd",
@@ -6102,6 +6108,8 @@
     "unfoldable": {
         "owner": "purescript",
         "commits": [
+            "077e787108e02bd16a1b27e57847d5baede7dd61",
+            "1c122478b51dc3bdbaa0c17125183cb991de153d",
             "be3262a9dc48e794676b1b2883987331d4be6fd7",
             "d7c72afa2c4de96fe903107353c5aefd2ec1e1ae",
             "fe25ee3189abac01e31f71371f275329b9d17e07",
@@ -6155,7 +6163,7 @@
             "813b4942a713df15ef8016e416e829095ed0321d",
             "45992faf24ceaeed5855d8208b467c7a8af98346"
         ],
-        "latest": "v4.0.2",
+        "latest": "v4.1.0",
         "tags": {
             "v1.0.0-rc.1": "ad16507391363e151527352954657c5ba68292fc",
             "v0.3.2": "7070901fb3b88d17fb99f59431eebae8ccf41fb4",
@@ -6175,6 +6183,7 @@
             "v3.0.0": "40db2589ea5fe605956515834a08ee1ae0982426",
             "v4.0.1": "f4928532605b18d9da3733f34451d59222edc181",
             "v0.4.1": "4cc1cdf32f5f0587632a511039683a3d73c629a9",
+            "v4.1.0": "077e787108e02bd16a1b27e57847d5baede7dd61",
             "v1.1.0": "72acbbb701c5f9ea1321618f79589bcf9452af7e"
         }
     },
@@ -9341,6 +9350,7 @@
     "halogen": {
         "owner": "slamdata",
         "commits": [
+            "18257d84a422db67097cad4fc7479134d832057d",
             "115b48959afae35bdfebfac87221ba0ac61b5367",
             "dd301747260620946956048a86e07e9efe1b6380",
             "18b1da50583d5eacdf43898d11de924410bcc84d",
@@ -21200,6 +21210,8 @@
     "indexed-monad": {
         "owner": "garyb",
         "commits": [
+            "7793cdc95e583174b71e36a97c0a25529b220e42",
+            "cf4cca14bbc94fedae35ee7c0957a227ccec8295",
             "c3638dd54272a44bca5ecb9290c9fbe03b5ed2b7",
             "35ccf039dd7f327c74f5ed10d4d9f0607a96cdba",
             "a52edecf739cd15d8c32fd544061b1ceaebf1ec1",
@@ -21226,12 +21238,13 @@
             "2d39e084fdff1b5cf717a866860d8fde4de91767",
             "06139dc90b1e77118057ff6faf87ec85e271a527"
         ],
-        "latest": "v1.1.0",
+        "latest": "v1.2.0",
         "tags": {
             "v0.1.0": "2d39e084fdff1b5cf717a866860d8fde4de91767",
             "v1.0.0": "2e16035a1dec57d3b4bb741cef7603fc98f63775",
             "v0.2.0": "2786138fe52b4445a42cb3cddbcc0144a092441a",
             "v0.3.0": "d421583e2ad869e9e8b4c95684629a5ed14a188e",
+            "v1.2.0": "7793cdc95e583174b71e36a97c0a25529b220e42",
             "v1.1.0": "c3638dd54272a44bca5ecb9290c9fbe03b5ed2b7",
             "v0.1.1": "320c1c12eff0cd56cc587e0de86b68ffd98a99fd"
         }
@@ -23153,6 +23166,9 @@
     "sized-vectors": {
         "owner": "bodil",
         "commits": [
+            "8d35080e7ee2a42cf4f9ac0f0413ca2b085510cf",
+            "30bdc5018bc0c18c1240fd30d23a831619b54d20",
+            "9a5e2b53e771c11f2a9890b2db2d84307c7cc031",
             "b31f49310931886706bb366cfc6c945ee9fcf7d7",
             "2f18660809e487faf492e8a0b84173fcd715548c",
             "3ca34b05531314ecff0ba5cf8ab7be2c671873ab",
