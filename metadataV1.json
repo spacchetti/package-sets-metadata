@@ -23166,6 +23166,7 @@
     "sized-vectors": {
         "owner": "bodil",
         "commits": [
+            "32e7277c0bef89f8a53cf4590b03d156159fcffd",
             "098eb06527be3cdb06474d3a2ae7ed84f538cf30",
             "f2bd433699af2ad5bc61c2b709b8db2fc41b7975",
             "77af6d237fd9f4a9eddcb2ca8ccc2650d10df0cf",
