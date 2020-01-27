@@ -4903,6 +4903,50 @@
             "v0.1.1": "36e3e7218b64316e52252ae7038d29fb70b0fb61"
         }
     },
+    "sized-matrices": {
+        "owner": "csicar",
+        "commits": [
+            "e5ac0ce9f3535e81b4daca953dd8c61de2b6d5fa",
+            "5b216fd33523a3555d2fe22b5520ea8e8f5b0a39",
+            "1a1dea867a1befceb3e300eb12ae270201c4059d",
+            "5b9b8a95bd77f915800cae065a876cdc589af9e9",
+            "5ff31470150637b6f53c61afad8a10472056bc5b",
+            "1918c13d2a61c49feb7f51c6c64c897449b72308",
+            "bfc78abd2b2e905203d59887799853acc54a8bce",
+            "dfdd2e4196c9af121c43085fa2e071760a6925ab",
+            "9235f93882c97819d8ce62c7c8abd9783bc6c52a",
+            "73e0cb6705334893b8bd384aa4fc5aa9c6f52a30",
+            "a631b8611ad00e546651a977140f98af27cf0fa4",
+            "4902a468b807e3297d334b74395a2eb7294aba62",
+            "917ef5b6fa253eb949099756f1eee1a5effc6d2a",
+            "9abcbb426a8f3f39be57307594cec86f98440898",
+            "9759f493300eb729cbeb37a4b1096b87858f978b",
+            "d26c12b282014610af4d2ac0fd10f9e46e89d025",
+            "7603051ef07d184a7d2efd12b9840d160f44cc45",
+            "133cbe422914d16142098fb931ba36583e89ec2f",
+            "56ae882de9c6b6897ac276847535a61a7b17530e",
+            "b18f990a65d2d660a712f1e2c5bf35d3f43435a3",
+            "d901036ac896ab38013e3f82e6119f917d71548e",
+            "cfe9adfbc6a77fb807aba7e12b5f06ed3d497c9b",
+            "64efb9cd78c589a28c8a89efb9ed1bf52f858daf",
+            "986f1b6507d931647f1b55748258aa05d3f0baf9",
+            "077c4f861e9d907302995b312f3d69586b567e9f",
+            "51db8d9dda87fc3842d55f58f7c9097f54036719",
+            "87331769f5879235c314b3e11178fa116c5a66e1",
+            "45d09e721e08c546332aa66b885821a2adb19119",
+            "a54b9346e10f1799606e138e726e48890143df99",
+            "6660b703a3ed030d0bb88f12a9311b7a4ba415e4",
+            "fefae7ad06a4ce5747b7627658d579a1f859bfa0",
+            "314cd637f66230eb6120a70d3a8a860f29c3c0b1"
+        ],
+        "latest": "v0.2.1",
+        "tags": {
+            "v0.1.0": "917ef5b6fa253eb949099756f1eee1a5effc6d2a",
+            "v0.2.0": "1a1dea867a1befceb3e300eb12ae270201c4059d",
+            "v0.2.1": "e5ac0ce9f3535e81b4daca953dd8c61de2b6d5fa",
+            "v0.1.1": "a631b8611ad00e546651a977140f98af27cf0fa4"
+        }
+    },
     "form-urlencoded": {
         "owner": "purescript-contrib",
         "commits": [
@@ -7510,6 +7554,25 @@
             "v3.0.0": "f5d1a7c4cdf240db035417800070900e1ca93b2e",
             "v5.0.0-rc.1": "9dacac780ccaa8727a4d5d1e06635609263a085b",
             "v1.0.1": "7bd8e07490d31f3e0cc05321e60f595363863f12"
+        }
+    },
+    "vectorfield": {
+        "owner": "csicar",
+        "commits": [
+            "13ff5f45e190b5d7dd31825d443182514892b946",
+            "efcb426e58f2c1eae5b7c2fb5cdb7ec61a36353d",
+            "c9d4648659e4eabda2918585753ad3edc07dc279",
+            "2b25ee85879194ac90b6729edf00a04e6c18b33d",
+            "a94ff6cad007671c0c3154c799cdd4f4e47b41ae",
+            "c95f1d8b2db3c290fef94593d72536c800e19767",
+            "4380b39f678dad173b1d55ed1e308e1034e562d0",
+            "daf687e0a2893351539480e0e4968a6fadc8c1de",
+            "3ea3863580dfdea58e611acd93d13d4bd638de86"
+        ],
+        "latest": "v1.0.1",
+        "tags": {
+            "v1.0.0": "2b25ee85879194ac90b6729edf00a04e6c18b33d",
+            "v1.0.1": "13ff5f45e190b5d7dd31825d443182514892b946"
         }
     },
     "argonaut-core": {
