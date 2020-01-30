@@ -2980,6 +2980,8 @@
     "quickcheck-laws": {
         "owner": "garyb",
         "commits": [
+            "21d2e44d45d14cd70792a457683b5fe560d7e448",
+            "77d0c3b70537b1d94393cbdcbebcdfa6f5eb2f57",
             "7f0160093340033f594dfb264422ac615cfac15e",
             "79ab936a518140ba48e0a1bed62e24bfd3424ab6",
             "1885b004bab98693ef64f872c461b23802e31fcd",
@@ -3055,12 +3057,13 @@
             "37126480864f0869a4362a6a07017e00870815d7",
             "4c37257714e49c542cd1cdaad4ac200b3d0ec71f"
         ],
-        "latest": "v5.0.1",
+        "latest": "v5.1.0",
         "tags": {
             "v0.1.0": "28ef48c84f9e4327246b83c6402c977856e61adc",
             "v1.0.0": "03dc4eb5a4a834227750a6b7d25e0a3c4f7452d2",
             "v2.0.0": "229ee48259fa8751cbe1e6dfb38e6315c667e440",
             "v3.0.1": "43cefe0481b3e73e2a9260650f00d2b4eac1178e",
+            "v5.1.0": "21d2e44d45d14cd70792a457683b5fe560d7e448",
             "v4.0.0": "f66c104d5901f929dffb06ebfbd24728191a64ee",
             "v5.0.1": "7f0160093340033f594dfb264422ac615cfac15e",
             "v2.1.0": "ac6448218da3843394761f3ade16b7b0569a4f3f",
@@ -6060,6 +6063,9 @@
     "uuid": {
         "owner": "spicydonuts",
         "commits": [
+            "572191b9f8053bc618c325289be9d6464865b12c",
+            "6b61d68e3830b02f7312d99f8123a8cb487250e8",
+            "7d952cc6b61568f0853230353ec2a0e59310bf8e",
             "6de5e57a8529eca6ac956103f6341c4fa7dfb25e",
             "e0db79053e2428f1d8fb5f9e34e7d48e57a36ab1",
             "c4ff2da504710588b62bed66dbcc275a0baea3a2",
@@ -6098,11 +6104,12 @@
             "46a44b52dba309a6d52f8a2f7b7c55fca7e5e211",
             "e0a79837b362b424ef26bbb0265b7b09bc9d6ddd"
         ],
-        "latest": "v6.0.0",
+        "latest": "v6.0.1",
         "tags": {
             "v1.0.0": "e0a79837b362b424ef26bbb0265b7b09bc9d6ddd",
             "v5.2.1": "59466e1bfc3cacb65fe8d3e2b1e214fbf8c69258",
             "v6.0.0": "6de5e57a8529eca6ac956103f6341c4fa7dfb25e",
+            "v6.0.1": "572191b9f8053bc618c325289be9d6464865b12c",
             "v5.2.0": "bbb2575ee7fec2c86fd8cd075da4069411b1cd4a",
             "v2.0.0": "c125a4b00b0c8e4bae84386570c8a01479c6d5f5",
             "v1.0.3": "8cd7efea9cdefaddb28675bc12ffd3db8ecf2590",
@@ -7345,7 +7352,12 @@
     "halogen-select": {
         "owner": "citizennet",
         "commits": [
+            "8a3509f23398d77f1fd4fbf2462bcf157f2b118a",
+            "6149f687eabef57ade3563a2cc87d4c062dec1f9",
+            "09bfeba73fb31c87825476b152e5e04977ee16da",
             "f0a1ce0b45bb0e8c39bb123bb4d6577ce43b1a2d",
+            "d8d37408f39ebf4fae8a5a2a981d9739031eaf0e",
+            "2b9e85bbd5d82c0cbc42bdd61c6f67e68ecd274b",
             "467b35fa5dd05d64dbdbcab77442153f729bd0a8",
             "e6fcd98d7e93c9da5076aa9427c043c1492f8a76",
             "1e7111902d25937816a99f004c228f19679a89ac",
@@ -8587,6 +8599,7 @@
     "svg-parser-halogen": {
         "owner": "rnons",
         "commits": [
+            "559d2213f5cd87d4ad9086da308c66776862ad43",
             "ac16a7af82d739b1f9773fbc28fc7e24f0d24550",
             "02a41abce5c665e94eeec8e33a54e953e4f9ca0d",
             "e80a0e6cc0f330df7dbd85f922e0bc697b57c995",
@@ -8612,8 +8625,9 @@
             "e97a50bfd5cc7ca859f77dd317888f7ced75b86f",
             "6cb0c68afedefb22d3d994400d6c70e1b6184572"
         ],
-        "latest": "v1.0.0",
+        "latest": "v2.0.0-rc.1",
         "tags": {
+            "v2.0.0-rc.1": "559d2213f5cd87d4ad9086da308c66776862ad43",
             "v0.1.0": "4e7316d4fc29cfa3f61130b55ede6e9193166248",
             "v1.0.0": "a93c86579fbc8b4284250200153cbf5715423e0b",
             "v0.2.0": "56bdf07e0adc673214afc7f528d9fa8de0f1aa8f",
@@ -13532,6 +13546,54 @@
             "v3.1.1": "76aac1f6583c39a3745f862636d16c7292d29690",
             "v3.0.0": "abae3f6ded72745566c854955529600a6f92005c",
             "v1.0.1": "5f342456170f6aad4e9392aa59c2c2d753c2b065"
+        }
+    },
+    "html-parser-halogen": {
+        "owner": "rnons",
+        "commits": [
+            "7d37fd6a29bff2a143d91c2ebfe5ca582ca76018",
+            "53026ecad51d187e820d9b7477cf28e5d992c918",
+            "5312d4bd702a88f14ef72e89ac2b3eb856dde70c",
+            "d7af1fc3a0d2c828c88d91904c2ccf4e69faf3e2",
+            "890da763cdd2a1049ab8837e477c5ba1fcf6d4ce",
+            "e5e811f78b02aa6ab1700d998d61dc6aa53aab81",
+            "876789b5c9463b93c06a458bb30f81ae39a26bf3",
+            "e814205264ab589835de4e1cdd266da77b9f3068",
+            "0b6b5f1274966b4c4fefed46183e30357b57af86",
+            "23607df327124e3a168c2a18846675d4b30ca448",
+            "46ef2af94d5628084b2673688dd65782340af1ff",
+            "77e56dac8cae86e06c33d55f8c75559522857547",
+            "434dc199081b86b2ba520abaeff783683aaf1aac",
+            "1bdccb1f9801f671dbfd59d42ef0429fdce44e54",
+            "e9f87da33a411d8af96c18b54f39ea27bde7390a",
+            "6e4e4bfd092c8594a71fb038b23991b771fdd1e9",
+            "b73d94f958ac956b71dc76ba54e4c905617aa934",
+            "601b53db4f39f67850a640e3f88369980a310627",
+            "6a9fe41ba1893c79e7cb4a6a0c12c7047f08c395",
+            "8278f64c612f7e7a834f5b8950c7c150bb324522",
+            "a0ec36f1b63826ab984d8e399fb72cf1b9fc443b",
+            "1f125b1baa1fb76170c3f7a21a4db5d04cc585ff",
+            "fb58b7259a1be69d095ce34ef902451acfe7c1a7",
+            "e2f94179403b825611f1f9b2d612c34dfea5d32f",
+            "4f7d7a3311c8348159a4e55b16a0e9832279e7d8",
+            "e2712ab26befa78df71ea269ae258615dbfdb4f4",
+            "421da437af36851d98662826fe78616dade50fc7",
+            "1eadbfd142240de9df452373349ed40e81a8328f",
+            "da012f86aec697164a5dfa07301a7118bd2e7ba5",
+            "cec109195e83a3d862f8af78d5afa1f8c9ddb723",
+            "5feb6f2f4cf11fe7ed43d7d59956c27e86c258a9",
+            "991d92ccdb81f96e36b37fb4ae5282e7f0f1b5a8",
+            "5c79fd57be1b861bb595e5eaf854e7532527c7e5",
+            "e25636aeaf5f300714da4ec61b16c60ca75c198c",
+            "9112810ca18574cebf28a39c4a208c6696aaab96",
+            "817a410f11f5d459b51742f0d48f36ac66c3abc0"
+        ],
+        "latest": "v1.0.0-rc.1",
+        "tags": {
+            "v1.0.0-rc.1": "7d37fd6a29bff2a143d91c2ebfe5ca582ca76018",
+            "v0.1.0": "991d92ccdb81f96e36b37fb4ae5282e7f0f1b5a8",
+            "v0.2.0": "da012f86aec697164a5dfa07301a7118bd2e7ba5",
+            "v0.3.0": "1eadbfd142240de9df452373349ed40e81a8328f"
         }
     },
     "tailrec": {
@@ -23232,6 +23294,17 @@
     "sized-vectors": {
         "owner": "bodil",
         "commits": [
+            "b9ecd23e02ffb78fc834f4d4e246e388f044327a",
+            "aa5656185d815f647eab13108ed7864cb20502ce",
+            "1bb96ae8893d20cd21e4217ca2bb90d67eb8c4cc",
+            "26975682c3e59ebc29a9a177e8fabb89e9168c53",
+            "6e2ae48925778f436cebc754e7e395a59169ab19",
+            "dd8ab8272d155a984d6a159c5657ff705b05725d",
+            "819d80c0289b5ce91b1a0ca99f488435edaef2b8",
+            "a7ce771f37d8fe9c1b818e72392bc98b145be03f",
+            "827838aeb9d700d6637c588b895343c2695be482",
+            "b1c86abae9a98340482d687eeff283557fc51730",
+            "f77561d85aa7f21a9a91d8c2c27ea6e80babfde9",
             "32e7277c0bef89f8a53cf4590b03d156159fcffd",
             "098eb06527be3cdb06474d3a2ae7ed84f538cf30",
             "f2bd433699af2ad5bc61c2b709b8db2fc41b7975",
@@ -24901,6 +24974,42 @@
             "1.0.0": "adbcbdffd08b931e755515af98584eb5abf3ce21",
             "v2.0.0": "371883284f8f598690d16f75d8a73d6552986513",
             "v1.0.1": "112684fc2cd396b890e8408b9aef97d770522d4f"
+        }
+    },
+    "halogen-storybook": {
+        "owner": "rnons",
+        "commits": [
+            "de336410dde6e59ad4930f7e4296d066cb236628",
+            "0627e1a3b0aa2116c1849eaa2d1b7604156afffb",
+            "55972f1da53c61af502dd2ccee8f8fb108c2cd13",
+            "200924b68c5a851443a786e054525f43f744e0b8",
+            "a0de3b6542631253233429f35162c2f98881e3fb",
+            "e4ce8e6a54691e783c49f355de64b73194e27797",
+            "269184c1d33d8d256932a1eb126f278691d0d440",
+            "337a6210513bc71c1539c087e39101371bdcdf77",
+            "0cd4f1b48cc5adb7bd0437e667d47c6a909ab079",
+            "f076b3be5bb24558fa96b947e62c879ec1088d85",
+            "9bc3c2af1bd5b917ae11cee01a9d1d64c129f137",
+            "9d712b9ce9168b056ea9fc8bfb2778ec48f8306c",
+            "5390ad950a6a2a9eb1a8bed83dfb29c7f3525e67",
+            "b57ea75af02a6a32dc49c32c5a3393166c84b835",
+            "bf76643fdcdb7c882d44f88b1057c367294f54b4",
+            "6733e0ab2df3e78141bf4121835aaf53082a7471",
+            "88a6ce7e817d69fa207d098c505a2530191f3de3",
+            "65ec5e12a640d1a885750205024162206cd75d2b",
+            "8d3d2b0986d8b18e755f7b81011f1d35739dafa7",
+            "bb672fa17adcb79052d7ec6999ae3bc31ac2b2fc",
+            "97536f21c1015e43511a28b49631b6e8a7d4e92b",
+            "0a065fb8ccdae0958b88d69c80bb68f8280800eb",
+            "92839b63ee949b4968ed4f5669d3143a24c5bbaa"
+        ],
+        "latest": "v1.0.0-rc.1",
+        "tags": {
+            "v1.0.0-rc.1": "de336410dde6e59ad4930f7e4296d066cb236628",
+            "v0.1.0": "bb672fa17adcb79052d7ec6999ae3bc31ac2b2fc",
+            "v0.2.0": "8d3d2b0986d8b18e755f7b81011f1d35739dafa7",
+            "v0.4.0": "9d712b9ce9168b056ea9fc8bfb2778ec48f8306c",
+            "v0.3.0": "65ec5e12a640d1a885750205024162206cd75d2b"
         }
     },
     "nullable": {
