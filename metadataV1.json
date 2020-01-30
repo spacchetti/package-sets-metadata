@@ -23294,6 +23294,7 @@
     "sized-vectors": {
         "owner": "bodil",
         "commits": [
+            "7a40c339835d6d40bffd5c9f613935407bc13215",
             "b9ecd23e02ffb78fc834f4d4e246e388f044327a",
             "aa5656185d815f647eab13108ed7864cb20502ce",
             "1bb96ae8893d20cd21e4217ca2bb90d67eb8c4cc",
@@ -23371,7 +23372,7 @@
             "e5351eca167f9523c26859539b0d919d561326df",
             "eb69dded7a30986fc0133dcd37059ef8e3e29fec"
         ],
-        "latest": "v4.0.0",
+        "latest": "v5.0.0",
         "tags": {
             "v1.0.0": "e5351eca167f9523c26859539b0d919d561326df",
             "v2.0.0": "13db711f25cfd1d2324be71ec40afd5521aa4367",
@@ -23379,6 +23380,7 @@
             "v4.0.0": "b31f49310931886706bb366cfc6c945ee9fcf7d7",
             "v2.1.0": "88bf3934e69027bf447390c5eeae896ae95c55c5",
             "v3.0.0": "1d9784d5825448f06d2bb6f0dce8081e2d17b40a",
+            "v5.0.0": "7a40c339835d6d40bffd5c9f613935407bc13215",
             "v1.1.0": "ec1187d9b708814c14a2a7ae5dd7aaed0f079869",
             "v2.2.0": "015cd195de356f23caebe1895ae69c291ebafe45"
         }
