@@ -7352,6 +7352,7 @@
     "halogen-select": {
         "owner": "citizennet",
         "commits": [
+            "256d09dfedf3aba3e6ed004753f0d89cea7cc993",
             "8a3509f23398d77f1fd4fbf2462bcf157f2b118a",
             "6149f687eabef57ade3563a2cc87d4c062dec1f9",
             "09bfeba73fb31c87825476b152e5e04977ee16da",
