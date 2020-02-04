@@ -7789,6 +7789,8 @@
     "halogen-vdom": {
         "owner": "slamdata",
         "commits": [
+            "0e9f126e4c411b6dcff7c08a157e2658938ad0a6",
+            "3154c5a5eb4e3f4f6e4f32c02e75910b40a08fdc",
             "efa28b957567e3b9fd0f1ce0f42cf7d9809fe5a9",
             "655bbda5bee80c5a62c8695fa9fdff7f39ed1a6d",
             "e4185a96ab959ee9755923a8e2bef6bb8ba1c8f5",
@@ -7846,7 +7848,7 @@
             "942fc62cfe21f95cb4825daad2ba0f82bc64eb14",
             "e7d4d57a7261ec2a10ec8479357cf7f27953a181"
         ],
-        "latest": "v6.1.1",
+        "latest": "v6.1.2",
         "tags": {
             "v1.0.0": "fb18a6e050cbb98fb3c8b7c80ca5f5825c2771ed",
             "v6.1.1": "efa28b957567e3b9fd0f1ce0f42cf7d9809fe5a9",
@@ -7862,6 +7864,7 @@
             "v1.0.2": "d60c34f0392ac5a1e520e0d523697e866e2e136a",
             "v1.0.4": "87f145aae4a540706b2d545e1d2feb1f1f7c65b8",
             "v5.0.0": "ce7fb14f70685376f01031c7103e79b5f9c8b646",
+            "v6.1.2": "0e9f126e4c411b6dcff7c08a157e2658938ad0a6",
             "v1.0.1": "6d1b16a57c4c8a09d18cc744b7988c44c98370ee"
         }
     },
