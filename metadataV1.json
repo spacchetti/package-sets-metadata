@@ -1481,6 +1481,7 @@
     "unordered-collections": {
         "owner": "fehrenbach",
         "commits": [
+            "b7b54285f9a55e5f367f7e8b71b1ca1001672ee8",
             "84501202af5319eabfce2c803f509ff63f6bc54f",
             "119ebe64821c4c55721269a10e88ee1eef7d0748",
             "15bf60f1490ed15b81ff0436bcc3cc7f17a1eeef",
@@ -1555,8 +1556,9 @@
             "55a310197cf6fd7d5e415e48480a69cab791cf9a",
             "e6411f8e21804184d9e7aa157e97a9e495c3ef06"
         ],
-        "latest": "v1.8.2",
+        "latest": "v1.8.3",
         "tags": {
+            "v1.8.3": "b7b54285f9a55e5f367f7e8b71b1ca1001672ee8",
             "v0.1.0": "69441a89d070989d964ddfdad57bb40a60c26e87",
             "v1.0.0": "13854304f39cf394c315751406cdebcc86d9f2b8",
             "v1.8.2": "15bf60f1490ed15b81ff0436bcc3cc7f17a1eeef",
@@ -4909,6 +4911,10 @@
     "sized-matrices": {
         "owner": "csicar",
         "commits": [
+            "5041f814da156028caa1ffd76accd6426b343ad1",
+            "0c515436330699fea82ea9014ca495cbfef06eb4",
+            "41e3cdaed27b23ffddf7603ac25212d1ac3e79a9",
+            "96ef8d358d8bb746e02a051949950a08aceed28d",
             "e5ac0ce9f3535e81b4daca953dd8c61de2b6d5fa",
             "5b216fd33523a3555d2fe22b5520ea8e8f5b0a39",
             "1a1dea867a1befceb3e300eb12ae270201c4059d",
@@ -7783,6 +7789,11 @@
     "halogen-vdom": {
         "owner": "slamdata",
         "commits": [
+            "efa28b957567e3b9fd0f1ce0f42cf7d9809fe5a9",
+            "655bbda5bee80c5a62c8695fa9fdff7f39ed1a6d",
+            "e4185a96ab959ee9755923a8e2bef6bb8ba1c8f5",
+            "97ace7072006cb6bb05b08e117a572a77267cbe3",
+            "efa7fa9130fc14c2509419ba1b16771f574d819f",
             "34c032aa5f72b600d69ab970e2737ca533c6c118",
             "f245501fd0ea4886e3b40c84ecdad5aae9484f8a",
             "e0532a91941a243b505f786176311ab22c1003a9",
@@ -7835,9 +7846,10 @@
             "942fc62cfe21f95cb4825daad2ba0f82bc64eb14",
             "e7d4d57a7261ec2a10ec8479357cf7f27953a181"
         ],
-        "latest": "v6.1.0",
+        "latest": "v6.1.1",
         "tags": {
             "v1.0.0": "fb18a6e050cbb98fb3c8b7c80ca5f5825c2771ed",
+            "v6.1.1": "efa28b957567e3b9fd0f1ce0f42cf7d9809fe5a9",
             "v6.0.0": "14ec580576c5a3e7122d02e461a642e86bd433d4",
             "v6.1.0": "34c032aa5f72b600d69ab970e2737ca533c6c118",
             "v2.0.0": "e11ecc5587b6b2dbac10839b132aff1df9ae8b0e",
@@ -15223,6 +15235,12 @@
     "dotenv": {
         "owner": "nsaunders",
         "commits": [
+            "c04ac4cd6de328ba83405b55fd91109217fdd950",
+            "b327d1d4e7ba90b0d779cc303a4c30c069b80d95",
+            "d58a84b94234bda0c36ebc9e24eeb7dd13425c2b",
+            "2783a5ba7292afcab71d220383f347c4a3fc00fd",
+            "c99789c4f81f6a61386d7aa1695f249c1576a3d4",
+            "dbcecc2d9866239ea7930638942bcadf1cea5e20",
             "d66c219aa3f5e068de65c238c35413e0bad77884",
             "c910e81c2f10faf3b1a63beb09738b0d0bd3d062",
             "c344add7d24c49b3af1daf0d27caca8e79048e95",
@@ -15352,7 +15370,7 @@
             "b53345dbfb8839e6990fa81b279f1f3d1cad29d9",
             "af3cd47923e73aadaa4a98404b92e5893a29d6d0"
         ],
-        "latest": "v1.0.0",
+        "latest": "v1.1.0",
         "tags": {
             "v0.1.0": "90da1b9c7badf812d87832a68abeced823762628",
             "v1.0.0": "641fd4cdd48c30faea233c094f06e1b7ddb87c77",
@@ -15365,6 +15383,7 @@
             "v0.2.1": "f86f5e67138aec1877f4bd50eb32115a565b0ec3",
             "v0.4.1": "16431fe5cf9416c53fd3ba627b610bc0ee446ff0",
             "v0.1.4": "3df29dc08110f1aba60c39419cd53bd68092b263",
+            "v1.1.0": "b327d1d4e7ba90b0d779cc303a4c30c069b80d95",
             "v0.1.1": "f80792f7ea237377094373be6d57c821c05ef971",
             "v0.2.2": "44e4952afcd4a834b7f378eed62b3fcd419427c8"
         }
@@ -23295,6 +23314,10 @@
     "sized-vectors": {
         "owner": "bodil",
         "commits": [
+            "96c1592e77664b25df46cd2d90767af7d76ade59",
+            "71ba2edf58496958e757caad78eb34af0e88d09d",
+            "bf25ff6d016edd770a14c6e42fb9f2304070a240",
+            "d198a09dfede2a28830799dd9ff1c9c182b6023f",
             "7a40c339835d6d40bffd5c9f613935407bc13215",
             "b9ecd23e02ffb78fc834f4d4e246e388f044327a",
             "aa5656185d815f647eab13108ed7864cb20502ce",
