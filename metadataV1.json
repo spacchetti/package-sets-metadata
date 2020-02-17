@@ -1899,6 +1899,7 @@
     "json-schema": {
         "owner": "felixmulder",
         "commits": [
+            "04ba9ab03a919622c2b53528b2a2f136be9e3c10",
             "5dbce3cdc9fc3f339cee3dfbfe92d70a56edf629",
             "0ef07d9d4ccb6ac8b4b87c66bf949b7b96b79a06",
             "43a7e7fcb29ea80fabef128a55d166032baa959f",
@@ -2982,6 +2983,10 @@
     "quickcheck-laws": {
         "owner": "garyb",
         "commits": [
+            "4d613d0e99a9f65b9fefa320fcc412441f69098b",
+            "a70f99818f505a05acbda708621df12f7df80ff8",
+            "2719b6338d888abc3bc43f1bfdfa844111a53cd9",
+            "f7a36af542cd319f9d8d2ecf4d91d91c9a47f822",
             "21d2e44d45d14cd70792a457683b5fe560d7e448",
             "77d0c3b70537b1d94393cbdcbebcdfa6f5eb2f57",
             "7f0160093340033f594dfb264422ac615cfac15e",
@@ -4911,6 +4916,15 @@
     "sized-matrices": {
         "owner": "csicar",
         "commits": [
+            "729302b29425ca7e0a8a89f6cc29d40ad218bf69",
+            "2fcb06da7c148e45b0967c3eec6d7407b641378a",
+            "a7ca3431d0358b39be89b463db91add3981d31f3",
+            "0ce19aec4c697e95b6e5b3077151e358dd80c8e4",
+            "b3793fe8515f5a446ec2dffadfe4eb5f7cb31e3e",
+            "6cd5dcf1c35c323ee0e3a1fa87e9d38bdad8ef48",
+            "08ef468c3fbf9265f7a02e9eba894b5bf483e94a",
+            "98944cfbdc81049bff95d4beda97919415e263ec",
+            "6e7b2712ab195c11f4f31574d4d05cc3e6e11bed",
             "5041f814da156028caa1ffd76accd6426b343ad1",
             "0c515436330699fea82ea9014ca495cbfef06eb4",
             "41e3cdaed27b23ffddf7603ac25212d1ac3e79a9",
@@ -5209,7 +5223,7 @@
             "10abc6916d3c3cc1001f79b72603246c57cb632a",
             "1fa5122379dc35ff4fc00f8937998ed48cff9a00"
         ],
-        "latest": "v6.2.0",
+        "latest": "v6.3.0",
         "tags": {
             "v1.0.0-rc.1": "18240ecbc9cf56e1887be8eee4a639989c9711cc",
             "v0.3.2": "4d27c72671d4b22da24bd88fd5c52a9241521938",
@@ -5249,6 +5263,7 @@
             "v5.0.0": "20df41e4f75c8850e3ed5954a48f434aad3c84f2",
             "v0.4.1": "a6e0d50dcd3c94d4d4c38a661c0d5f360a0642f6",
             "v3.6.0": "3dc8b03938b88a0839f4413d9d0253c04f225e4b",
+            "v6.3.0": "2be610e104ab733a4dcc9d63f03d8eaee1e1b1c2",
             "v3.3.0": "c34b3bbab69f31f4db726eb48a6df8731459f818",
             "v0.3.3": "7844c33f3957019a5bea4420fc0b9a0c8fd92376",
             "v2.2.0": "9ad3b1f10856584e521448fbb142dad459f0e696"
@@ -9443,6 +9458,17 @@
     "halogen": {
         "owner": "slamdata",
         "commits": [
+            "337d450fdd5e18de6f75920f808c34a173ff8d88",
+            "8865b593870060db6612b79ff3134e173c19b24f",
+            "46d917b67433b3963f36e869eb4b34f80e610239",
+            "207489e5078bd6e94d75a47b41855cb369147677",
+            "fd3d280f9a10e747f039137cc854a6da3a8389c4",
+            "2642d7eed2c69284a22e66f4222f8a146d191eb3",
+            "764f17e91de012a551576d7741cec63b823b6053",
+            "8b6f4975353163fce8ee8c0cef55e6c24ac2c33e",
+            "c05cfa73d61b5145c621afa5eb8df5afc1d8f635",
+            "413c09d6eab32bd1cdb046bda1a00e95879fac0c",
+            "1d4ada6a4b730258f7eee52a0c6a524e18f3f7c9",
             "18257d84a422db67097cad4fc7479134d832057d",
             "115b48959afae35bdfebfac87221ba0ac61b5367",
             "dd301747260620946956048a86e07e9efe1b6380",
@@ -13303,14 +13329,18 @@
     "routing": {
         "owner": "slamdata",
         "commits": [
+            "12ff339eab48b491d73164f24cd43403ce08ce69",
+            "269ace07011e1e400ffff592b96bf43e3bde74d6",
             "629e99b132c87010edc3c48f8324b6a4ea5c27aa",
             "5059f8b5048e5f921c7726a093bde10c3b8ee09d",
+            "aed07e2e1f12c785c07a6ba7effe79e49d153f93",
             "d4b15b9042ff4880c906e38e28be892844c817d6",
             "59266816658274d094e5adb1eb9ad4f029c68dc3",
             "62742c314b7a30118399f1b98fdec27212f8f40e",
             "4d9e53e41eaa5b33085210fa6a8b64522528dae2",
             "f832ddc4abb74de2e5afc856ba9087bab2ba64ee",
             "0df90fca64ed161c2dbe4defd036601d5c6587a0",
+            "b8c731d2b94fd412b67a885c039dc188b300f758",
             "10b54cb89aa56865fc34ad5acabe6fd1f35ec5ec",
             "ed7338bd5da04a420e51077ec7255333430dfdd6",
             "c11efec0f5f992f86c907de791826271e43ebd5d",
@@ -13446,7 +13476,7 @@
             "c5cc4402c96ca60c3788c6b1386d0c66d11e7c8f",
             "7ca8e3ce2878562be9031cd85da1523d07fa9097"
         ],
-        "latest": "v9.0.0",
+        "latest": "v9.0.1",
         "tags": {
             "v0.1.0": "7ee71133309e3cc249ca4b68f8b1700311dfc8eb",
             "v1.0.0": "87f88092a347df68ec5f1b98cccc0c77e0e59555",
@@ -13454,6 +13484,7 @@
             "v6.0.0": "bc97e20e057112fbc5d7ed916c06ce0bc68fa1ec",
             "v7.1.0": "9436bbda3d194809669e2145e465a3f21b8e9a29",
             "v8.0.0": "c11efec0f5f992f86c907de791826271e43ebd5d",
+            "v9.0.1": "12ff339eab48b491d73164f24cd43403ce08ce69",
             "v7.0.0": "b867817928b81603bf58150c74c69d4608b0a408",
             "v6.1.0": "3b86c487308b9ef042ea3c2025d65027daa781e0",
             "v2.0.0": "84f8185e7275307d4b9fb98c39e42da691367539",
@@ -13569,6 +13600,8 @@
     "html-parser-halogen": {
         "owner": "rnons",
         "commits": [
+            "b4bd43e6ce7b3426e6b78f89a150b31bf4c1d7be",
+            "2deb5d8cdae43d79bab77ffe199f8f7b974f5334",
             "7d37fd6a29bff2a143d91c2ebfe5ca582ca76018",
             "53026ecad51d187e820d9b7477cf28e5d992c918",
             "5312d4bd702a88f14ef72e89ac2b3eb856dde70c",
@@ -13606,11 +13639,12 @@
             "9112810ca18574cebf28a39c4a208c6696aaab96",
             "817a410f11f5d459b51742f0d48f36ac66c3abc0"
         ],
-        "latest": "v1.0.0-rc.1",
+        "latest": "v1.0.0-rc.2",
         "tags": {
             "v1.0.0-rc.1": "7d37fd6a29bff2a143d91c2ebfe5ca582ca76018",
             "v0.1.0": "991d92ccdb81f96e36b37fb4ae5282e7f0f1b5a8",
             "v0.2.0": "da012f86aec697164a5dfa07301a7118bd2e7ba5",
+            "v1.0.0-rc.2": "b4bd43e6ce7b3426e6b78f89a150b31bf4c1d7be",
             "v0.3.0": "1eadbfd142240de9df452373349ed40e81a8328f"
         }
     },
