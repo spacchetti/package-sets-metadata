@@ -11091,13 +11091,20 @@
     "json-pointer": {
         "owner": "reactormonk",
         "commits": [
+            "db72b946e9a58ee8283026578e9ce30a84d95ba4",
+            "f90d731133cbc89020aa1cd279eebe81f252e8a0",
+            "e37e74628096cc3728c06db36708ab8143e53620",
+            "6933a53777279e0aad8609dfdbe272066382ba32",
+            "3b98279013c6e3f2405a771d8c93154a79054209",
             "808ece8b338706a41ae2aa5b31a8715d38dcd490",
             "9400087fc48282c1720eb3e38f59a3c3fe72ec8d",
             "6369fd1cdbe45b0e4955698c2987954dbbabb28e"
         ],
-        "latest": "v0.1.0",
+        "latest": "v1.1.0",
         "tags": {
-            "v0.1.0": "9400087fc48282c1720eb3e38f59a3c3fe72ec8d"
+            "v0.1.0": "9400087fc48282c1720eb3e38f59a3c3fe72ec8d",
+            "v1.0.0": "e37e74628096cc3728c06db36708ab8143e53620",
+            "v1.1.0": "db72b946e9a58ee8283026578e9ce30a84d95ba4"
         }
     },
     "checked-exceptions": {
