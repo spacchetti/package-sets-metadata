@@ -5609,6 +5609,7 @@
     "bucketchain-simple-api": {
         "owner": "Bucketchain",
         "commits": [
+            "656f6e90982281471ce13bd343e5a26fcfa78b79",
             "d1809a5371f96970b372669d5ec802866b395046",
             "ae8a29bb989d8219f6bb33e714f870b55131112d",
             "21f7e61a4577f7d3a9e53f1cc69e6281c718a7be",
