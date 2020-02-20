@@ -4916,6 +4916,7 @@
     "sized-matrices": {
         "owner": "csicar",
         "commits": [
+            "7331f4088124a64383d4ecf755f5b2e06c5150d3",
             "af677f80367f837240edbbfe4f6eeaa2f65daa77",
             "ba2a8c72ee3fb201150421d6b183e31befaa5b63",
             "729302b29425ca7e0a8a89f6cc29d40ad218bf69",
