@@ -8254,6 +8254,8 @@
     "react-basic-hooks": {
         "owner": "spicydonuts",
         "commits": [
+            "fd188966467dd92e411c32e2767283e940d8ec30",
+            "137e8ccc270ebc6963a260979324abc645ad7d1e",
             "df73fc806a6d41a5ab11893f8761c280110f7471",
             "a18a0511a2fe95fc168d50c40270b8a63790d627",
             "c6a9b1b1952e393f6334a8cdad565e149eae3d39",
