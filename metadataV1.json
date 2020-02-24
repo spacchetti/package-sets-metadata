@@ -8254,8 +8254,6 @@
     "react-basic-hooks": {
         "owner": "spicydonuts",
         "commits": [
-            "fd188966467dd92e411c32e2767283e940d8ec30",
-            "137e8ccc270ebc6963a260979324abc645ad7d1e",
             "df73fc806a6d41a5ab11893f8761c280110f7471",
             "a18a0511a2fe95fc168d50c40270b8a63790d627",
             "c6a9b1b1952e393f6334a8cdad565e149eae3d39",
@@ -8834,6 +8832,8 @@
     "react-basic": {
         "owner": "lumihq",
         "commits": [
+            "a332c44fca335d188cceae73ede8496dddeb652c",
+            "518a9304bf9412e734192a0bdb89905a53d4561e",
             "feee3a51a531f65ff0c0802bffa77e9cd0bd0164",
             "df358364ece1cd4760429afae0bcca0eb518eb03",
             "a81de9964b57b06e23939a784fa18a724261656e",
