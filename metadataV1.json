@@ -10746,6 +10746,20 @@
             "v0.1.1": "25c039333b2fb7d17328f492f2f22eff8dab2c6e"
         }
     },
+    "call-by-name": {
+        "owner": "natefaubion",
+        "commits": [
+            "91565e90cacf176bcc45eb4ab495264137a4e9d7",
+            "dca0eb57d7d4b8ad658110355665fe769f57abad",
+            "45c0029b65a563ee31a2fec9f8c658c1c428d412",
+            "65e6c8b63c76383acb16f68c7dc806c4d5b7017f"
+        ],
+        "latest": "v2.0.0",
+        "tags": {
+            "v1.0.0": "45c0029b65a563ee31a2fec9f8c658c1c428d412",
+            "v2.0.0": "91565e90cacf176bcc45eb4ab495264137a4e9d7"
+        }
+    },
     "now": {
         "owner": "purescript-contrib",
         "commits": [
