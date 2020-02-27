@@ -3993,6 +3993,7 @@
     "httpure": {
         "owner": "cprussin",
         "commits": [
+            "61b88de59b431140b4e6da2b5c982fcd84396b59",
             "91224a955fc315124b047ae3180c70a1cc2c367f",
             "a12e63b87984e3df3cf36bf931392f97790906fd",
             "b47c9a2c6c05a52111101ae697e81b002a500073",
