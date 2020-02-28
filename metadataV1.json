@@ -25639,6 +25639,7 @@
     "arraybuffer": {
         "owner": "jacereda",
         "commits": [
+            "d073ea8596330b8ad205370668c017a2e9bd2d7a",
             "7f90bc44247dcbeab70caef5d373833286468266",
             "525ca98350d8a9822bdede6bf19e429b92ba8281",
             "0adc84d8d33aaa1deda2828e68926d2d8b093f81",
@@ -25902,6 +25903,7 @@
             "v8.0.2": "680f00ffe7ee03b1b16c7c7ce40c1b54d82267a5",
             "v0.1.0": "885a3c6f2984845f73613c5fc56fca089dccfe6d",
             "v1.0.0": "d57c248f3bb5a9f69fdb20b848197c7d49040a60",
+            "v8.0.3": "d073ea8596330b8ad205370668c017a2e9bd2d7a",
             "v10.0.2": "7f90bc44247dcbeab70caef5d373833286468266",
             "v6.0.0": "1a93289c5a99bc3c1ed9669ec927d2cd32456261",
             "v7.1.0": "12495768e74cb7887fccb0b9364ac91056e79909",
