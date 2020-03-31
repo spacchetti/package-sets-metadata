@@ -8338,6 +8338,51 @@
             "v4.1.0": "ce75a88991c4e1f5dc97acd078ef205c6201f7fb"
         }
     },
+    "halogen-hooks": {
+        "owner": "thomashoneyman",
+        "commits": [
+            "01d57ec15a1b5bd214387b377535bacd2a5f2b39",
+            "066c1544d58663cf423ebd3e75500efa33568956",
+            "1e999c5ff42873db6c74c0b8c0754d16a161415e",
+            "1fd16f665565c7e8319f7383937595c22696ed59",
+            "27083c89a1eaab8b91ec315a09f3febfa1befa08",
+            "2da7545a69499cb4bcea2d42c9381de5bdd8075f",
+            "31f61f207624c77a299f4855d272055c96cb0585",
+            "39ba75c800fa52441fc47c73de7df6d522cdc32b",
+            "423fde8e2ff8e6835d9ba4950265bcf365a84383",
+            "436c69b2b6eb0b86fbf93fff9e81f2cfe1a57836",
+            "48d4c8c69f09738f4ba33e4fca34319886fe168e",
+            "4cee2addcddc2c0e5f5277867a47f773fae05f4d",
+            "4efeb1d50889a5559c28e434829e49d47a47e548",
+            "53e2c5f3d56730c6fdd0adbc4ad04f0239408327",
+            "61a576cd083e75d703b40278e8a9952096930d1a",
+            "680eff26667c74c2ee04fe7159b4d81aa6ccc2ca",
+            "70dc0a7bbf2e1ae26820832b072d172e25d08a94",
+            "830cdaa2a8297ee5f1375eb1d615825428c905d0",
+            "8543abb83f9a896d4088073635d59e380a0da821",
+            "87361ceb5033b6e2b54712af23a305013c2d3acf",
+            "87cc9b0bb348e2a1a338830105af7b453a37c3ac",
+            "89b543235a915b158ba056844a508634f51a8620",
+            "8c0020f31426a731b9da85726700b740bd6aa191",
+            "96bba1b7b1da4bd7d695d804894d78aceb9150ef",
+            "a18c163dc3a8708a7fd86c32955a85c94493f9c6",
+            "a52ace3c8415c92e24c3a62438e35014a5c8a57f",
+            "a5e9b51ad0d2048ad602cea257cf0e275269d469",
+            "a5f8b5d1fef73b3e7d29a2733f967a059dbcf060",
+            "b14bf4aca4fff1716b3b3bb827b71d17f700bf90",
+            "c6bd22819f97b76fd11248dcac3e2b502656d9fc",
+            "c8fd3b6df3ddf82a98849a03ff80241105317a28",
+            "c9deb09d4fb1dbf43422444782d5e5b7ca27e8bc",
+            "cfd1d3bd5d7aa6d1bcbc86b2224fabe1fc095943",
+            "ddd46340fb932d3764137119d15fd78e3d762658",
+            "e4e8737ac008193261afb39f32133754b46a3b56",
+            "fc5908d5dd33b6ea7f1ad51aa8a5b634a4f62b2d"
+        ],
+        "latest": "v0.1.0",
+        "tags": {
+            "v0.1.0": "96bba1b7b1da4bd7d695d804894d78aceb9150ef"
+        }
+    },
     "formatters": {
         "owner": "slamdata",
         "commits": [
