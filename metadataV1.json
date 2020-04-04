@@ -23238,6 +23238,47 @@
             "v0.1.1": "1817eedd532b0bd3678f94d4ee9e642596f08933"
         }
     },
+    "typelevel-peano": {
+        "owner": "csicar",
+        "commits": [
+            "0e33e28728f2c9267451047b781dc6595675fd84",
+            "18b4d132b6240c5fd7c92289d77f4a45df4c97fc",
+            "21c67e4cf5e8d1328f1592652cb3fd0f442dc59c",
+            "2238925e0f1d732c8e3e1a433886fa9411ccf6b1",
+            "2383ea12d8a4a559fd06224d15965d96811dcf4c",
+            "30a4f0a6ac409cb4e5eb7e7dc7eb1cb0095cdb8d",
+            "4140765f81b99d99fa80e20ed2fbe6b467bb4108",
+            "4423dd1fa92445a1be99c0a2696a2927dc11211f",
+            "54f3f0a9401e8c90427ca436e39836e8a6a2442f",
+            "55315dcf6e25f0353a4953fd508b1dbdcbd8ea8f",
+            "6cae5ae4ec3496fd3c0d5e800beab449ced58a34",
+            "7553f09d68d3961fb516e6e50af7d978aa4d9c43",
+            "757914c5cfc9367acfa19fa9865475196f2384b3",
+            "812e18038ae00c9f02bce43ca2c7bb11a86f32c6",
+            "8542c1b937c4cad44d692f34f9b598d96e6fc6a1",
+            "9092731f3d2d84ce3d1e02f20f12ca1bbbce7338",
+            "99d5dffc6a9545da84d8dddebd2f96263b2a91ff",
+            "ad41b499389b840508b0312ee9b66beff007b2cd",
+            "b0129d55b7ae7620f08819fb11a569e45f872d50",
+            "bafc12cd67ba9008652e4041c0eadcb6ba3cfe6e",
+            "eb6c05869a1bb6d6bcf04a583a5bfb659984b1c2",
+            "f32a29fee697832924d5cc9a6ece85bf0f82b4a5",
+            "f55c08cf5a69e8e5fa2ce428a9ce9d517d1c107d",
+            "faa233b787162c379a6f854512dfe0001f84ad8d"
+        ],
+        "latest": "v0.1.8",
+        "tags": {
+            "v0.1.0": "bafc12cd67ba9008652e4041c0eadcb6ba3cfe6e",
+            "v0.1.7": "21c67e4cf5e8d1328f1592652cb3fd0f442dc59c",
+            "v0.1.6": "55315dcf6e25f0353a4953fd508b1dbdcbd8ea8f",
+            "v0.1.3": "9092731f3d2d84ce3d1e02f20f12ca1bbbce7338",
+            "v0.1.8": "8542c1b937c4cad44d692f34f9b598d96e6fc6a1",
+            "v0.1.5": "eb6c05869a1bb6d6bcf04a583a5bfb659984b1c2",
+            "v0.1.2": "54f3f0a9401e8c90427ca436e39836e8a6a2442f",
+            "v0.1.4": "b0129d55b7ae7620f08819fb11a569e45f872d50",
+            "v0.1.1": "4423dd1fa92445a1be99c0a2696a2927dc11211f"
+        }
+    },
     "server-sent-events": {
         "owner": "MichaelXavier",
         "commits": [
