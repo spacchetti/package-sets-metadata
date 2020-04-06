@@ -16742,6 +16742,22 @@
             "v0.2.2": "4688a1da8f159271ce776be2b05913e709d7209b"
         }
     },
+    "selective": {
+        "owner": "anttih",
+        "commits": [
+            "11ee4e44a7708e706f835586c49b6d2370a0e648",
+            "1aa8648cf87abd107f556e2b22037aaaa7249436",
+            "3772a1c1019da9d932447fb71584991616061e1d",
+            "73caba21ca0b2c763243e13693709f20b717a877",
+            "7d52f2d50823d89092f1ee6d2b6017bdfbd5dbc6",
+            "f476de2bfa7cf39c42071d4b74ee926331fa75ca"
+        ],
+        "latest": "v0.1.1",
+        "tags": {
+            "v0.1.0": "11ee4e44a7708e706f835586c49b6d2370a0e648",
+            "v0.1.1": "f476de2bfa7cf39c42071d4b74ee926331fa75ca"
+        }
+    },
     "nonempty": {
         "owner": "purescript",
         "commits": [
