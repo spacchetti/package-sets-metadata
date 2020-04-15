@@ -7121,6 +7121,27 @@
             "v0.4.1": "20b1aa1115736277337b445e1593e32fb5c60c07"
         }
     },
+    "ordered-set": {
+        "owner": "flip111",
+        "commits": [
+            "1e698da9c87838abfa569ffbfc1820e4ebc05855",
+            "279a4d358d8346b65d8d5d5b6ae7e15ef85252a6",
+            "3247eb96be0f3871970b95d68ae8694321ba9901",
+            "34881143df843962d816a7ea00280c41043306af",
+            "618a2ee0007a81f7485b1ad66f2f14ddc514db2e",
+            "743c9b1a1cb72884906283bc4408e13e2b3b6f9b",
+            "7d64010369eec9274b36f1a0233435ba58b188e7",
+            "8a08f76421c860a699d832f7c39d1f209ff578b9",
+            "97c9ce295ebe9b7601496073f3464e83e3e7d075",
+            "aa02a1e70f53f8e4fc3e35e0d69884dca7d0db90",
+            "bf4247525768a0a800e53f846cac8953cbbbd8c2"
+        ],
+        "latest": "v0.4.0",
+        "tags": {
+            "v0.2.0": "97c9ce295ebe9b7601496073f3464e83e3e7d075",
+            "v0.4.0": "618a2ee0007a81f7485b1ad66f2f14ddc514db2e"
+        }
+    },
     "trout": {
         "owner": "purescript-hyper",
         "commits": [
