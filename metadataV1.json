@@ -15387,6 +15387,7 @@
     "cheerio": {
         "owner": "icyrockcom",
         "commits": [
+            "23038e55c188d9446cef97927ab63f8cefbf0dd1",
             "370fa4b23ed8883948a1b6a2df94cfa436356276",
             "4145c4634c4ffa3d530412e78228dead52514dc7",
             "534cf3d4bbb14a23bceaf87e0f3cd86b397924ca",
