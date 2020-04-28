@@ -8889,6 +8889,7 @@
             "ea86688b673ecec56eb393ea666c7d0e05f4c146",
             "eb95b6d1101a8056802a8c335bcb32b76d6e53e5",
             "ec9d775d9516af2db59ba9f7eca16af5ebcd2939",
+            "ed479a3a6e4cf1b36d41614e57c0ba88c5ec7e68",
             "f0599ec8f1ac633bccd702cf74d60b1da6a3bf09",
             "f26a1117b5e9c8259d39368dd4f5b4c54a2ec837",
             "f6c2123c9a53e6177e4fd98096ea8e2d6b041310",
@@ -8897,7 +8898,7 @@
             "fd5e0f935a6785163c2ec3410688b1278972b7b5",
             "ffe214d7098bd35eb52584129051fc6ecf456197"
         ],
-        "latest": "v5.0.0",
+        "latest": "v5.0.1",
         "tags": {
             "v0.1.0": "94220fd9017207ebfcdfdf8e489e33f308cb253e",
             "v2.0.3": "34f3fcc1afc86346dbb06cf1def277c5cf9c43e4",
@@ -8913,6 +8914,7 @@
             "v4.1.1": "df73fc806a6d41a5ab11893f8761c280110f7471",
             "v4.2.2": "6314a92c3196e3d0d4b9d379ef60982c1dc7810d",
             "v4.0.0": "b2b75a778893b7d0f43daade145d53b6205bd4c1",
+            "v5.0.1": "ed479a3a6e4cf1b36d41614e57c0ba88c5ec7e68",
             "v0.4.0": "1dae60e0e037ca75c8e339b878617d84bca73713",
             "v0.3.0": "6e334b938e7fea2df031c8207b73a1111a2b1e67",
             "v3.0.0": "b99fc561411471d3a2cc07e2b559ac2f612947e1",
