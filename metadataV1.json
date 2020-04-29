@@ -5605,6 +5605,19 @@
             "v1.1.0": "022c4876c26697ec52eddb8a77986fe42b902e46"
         }
     },
+    "row-extra": {
+        "owner": "athanclark",
+        "commits": [
+            "24cc40a96e27c2a256afb501458894aa76eb79aa",
+            "632e1f7f76b169831d481c85f9d15af03b16c49a",
+            "c34ec418a592275f001947ba0ee59bcb52b19977"
+        ],
+        "latest": "v0.0.1",
+        "tags": {
+            "v0.0.1": "24cc40a96e27c2a256afb501458894aa76eb79aa",
+            "v0.0.0": "c34ec418a592275f001947ba0ee59bcb52b19977"
+        }
+    },
     "slug": {
         "owner": "thomashoneyman",
         "commits": [
@@ -8699,6 +8712,60 @@
         "latest": "v0.1.0",
         "tags": {
             "v0.1.0": "96bba1b7b1da4bd7d695d804894d78aceb9150ef"
+        }
+    },
+    "text-encoding": {
+        "owner": "AlexaDeWit",
+        "commits": [
+            "08df1be1c1fcd8b0d6b844a6bc1b0d9bf542caa1",
+            "1cbacf3cb64a66faf278f2221613a8a29bf3e9f7",
+            "244794b15cfa83cdd08c6239ec9a0acdbaf7d192",
+            "27f5bbac073ec368f22d10fbeef31b7cf4051973",
+            "2aa87e94d4864f1dc7944b2d9a868f2db92a4e09",
+            "2cb19cfdb40e32d37069d6e96256d560da477a84",
+            "3cfa68498aa9288088c3870eb8aaf5abb07c28d4",
+            "3da3af3c0715b65304bc7ffbfaf3c7d01d5b9bfd",
+            "3ed17836de35da1cc8e432bbed2362d02c7e7117",
+            "42eb2ae083a75793b96ddbd447a34dc6ce5122e5",
+            "46d809d5806ed9bb725192a7a0cf0d679911aa39",
+            "46ef20a21a0d7f2fa560de818f04391ab5db27d3",
+            "4e9cb130519836639ad75b9081a36bc82fc6e416",
+            "528d0c30cc932d148f8531251ddecd28d4ad4296",
+            "5a2d6576c991b7b6c812e30335e3f738fbf26957",
+            "609ea0916f6817971d4a6c11b991b59715aaa096",
+            "6244eef2382c65c154eb71e023b6b4c0fde93884",
+            "63e2a33760adf8d3e330e251548f6ed9746390b6",
+            "6a60dec04daf84821b7901f654234e6a201a4677",
+            "73ffbd5f881922a1d2743acbd257b217c3e942a1",
+            "7aa8e2a210192e22ccf449fe1cdf81cbe559d4a8",
+            "87d6644d37e7aa7349af9130ecd34a4fede61df2",
+            "8a36dbc7708d38f6ba9cb431d80ed3d0a8f4cb07",
+            "8a697897538ac8d0c7de66770bb83a98b0a662b9",
+            "8d9803328f5511da45f61ffbd540d0954e5c93df",
+            "8fb10cc6d66b2c05df8e49898c9152c2da176426",
+            "938b8e9809c5208867d7713f9ff100ded49e00cf",
+            "9b0190243256a74008032b8d80657cd9de01639e",
+            "9bcbd70952a88060917061fd7bb0119eccb221bc",
+            "9e9bf6c1f5aefffa66c1a1e2bb7df6509f5dfe10",
+            "9f3789f2e848cd82c5074dc759aa2ad16582205d",
+            "a700b4cd1786027c63e6c4a92990204aaada21c3",
+            "ad41863940db7646889208bafb85ace80825969b",
+            "add86be1257a67285485b45c54e5cc6ae11392cb",
+            "b08a7475a21de51771617879f70fb86e39e9e732",
+            "c36ed16222b0b0d17496b4408761e6942259983d",
+            "c6412db33d2ccfdf2f18da05267d1e1db6f9f62b",
+            "cf9a03700fa3d978e5baada7a4bee5cea1b21283",
+            "d5dd8260b83aab0ed3ee9125fa2b447f284b3906",
+            "ebd4c37c55c84c6b30cebeaad4086cbee6684bd9",
+            "f8a6ae4cb100c2ac3c4c651bc5473eb0ef07d231",
+            "fef616236ae8123a1a59452f4cdffbd869365038"
+        ],
+        "latest": "v1.0.0",
+        "tags": {
+            "v1.0.0": "609ea0916f6817971d4a6c11b991b59715aaa096",
+            "v0.0.8": "27f5bbac073ec368f22d10fbeef31b7cf4051973",
+            "v0.0.7": "fef616236ae8123a1a59452f4cdffbd869365038",
+            "v0.0.9": "46d809d5806ed9bb725192a7a0cf0d679911aa39"
         }
     },
     "formatters": {
