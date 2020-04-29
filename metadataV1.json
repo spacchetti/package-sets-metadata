@@ -18402,13 +18402,16 @@
         "owner": "oreshinya",
         "commits": [
             "05d94926b1a5ff70ee1117306e5f59b94d97c3ff",
+            "2f1d18a08b9cf2fe87c729fde1866260842f8d82",
             "67899300fe47254540acdf6abe50005037eefee6",
+            "a3212e804c8de941b84275cfb86e096fc677f350",
             "c09fa3e83e62899e760ea58f74fb9cc482978b54",
             "c70562ec3075408aa33d0c16428f4d04928efe7b"
         ],
-        "latest": "v0.1.0",
+        "latest": "v0.1.1",
         "tags": {
-            "v0.1.0": "c70562ec3075408aa33d0c16428f4d04928efe7b"
+            "v0.1.0": "c70562ec3075408aa33d0c16428f4d04928efe7b",
+            "v0.1.1": "a3212e804c8de941b84275cfb86e096fc677f350"
         }
     },
     "freeap": {
