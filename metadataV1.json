@@ -8587,6 +8587,7 @@
             "c6fd1424d3f0cf590e3f84b111ce41d82f60ae3d",
             "c8fd3b6df3ddf82a98849a03ff80241105317a28",
             "c9deb09d4fb1dbf43422444782d5e5b7ca27e8bc",
+            "cfa94be75e4abe65b596fa51a74fc96a34857232",
             "cfd1d3bd5d7aa6d1bcbc86b2224fabe1fc095943",
             "d428a8d2ff847410b9b90c257f0e9ec92557680a",
             "d459ab201daabe7c7deb142702d1c865dba50b3d",
@@ -8597,10 +8598,11 @@
             "e4e8737ac008193261afb39f32133754b46a3b56",
             "fc5908d5dd33b6ea7f1ad51aa8a5b634a4f62b2d"
         ],
-        "latest": "v0.2.0",
+        "latest": "v0.2.1",
         "tags": {
             "v0.1.0": "96bba1b7b1da4bd7d695d804894d78aceb9150ef",
-            "v0.2.0": "6c2521334a8ed2c5050265af2faa85db85af4c96"
+            "v0.2.0": "6c2521334a8ed2c5050265af2faa85db85af4c96",
+            "v0.2.1": "cfa94be75e4abe65b596fa51a74fc96a34857232"
         }
     },
     "text-encoding": {
