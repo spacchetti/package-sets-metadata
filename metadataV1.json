@@ -15433,13 +15433,14 @@
             "fe79aa09e9865aa991d7ec35b4da3e2e8e59a48a",
             "fff0fd7950e5a733a3b84b5bc28221f7a8d1b88f"
         ],
-        "latest": "v1.0.0-rc.1",
+        "latest": "v1.0.0-rc.2",
         "tags": {
             "v1.0.0-rc.1": "97aaa24d411cc061ee5da3d611477aa0cc4aa084",
             "v0.1.0": "2de2f75d847ae74fb2a55e1313fdea351db69ac5",
             "v0.5.2": "d2ea40347fbed51271301eabc23983417e2f3cc9",
             "v0.3.1": "9b23452b39ef81caa1c6fa5f9f1fc20d1649027b",
             "v0.2.0": "28477b62f77fe80e1a40e87bb262a32c04b42350",
+            "v1.0.0-rc.2": "b42d54ec9a74be9b99d45aed273c68bac3fdbfda",
             "v0.5.1": "34483168650884cc34974c501f6cedad205d069c",
             "v0.4.0": "225dd6c1df28cd99a256624575f7f99686f28e8c",
             "v0.3.0": "1a8504dba237d71ee367a2be7f6d26cf7aa2c245",
