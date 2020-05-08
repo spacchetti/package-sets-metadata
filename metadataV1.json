@@ -501,6 +501,7 @@
             "1534c73292751e2535a62678cc9f52c338ca54da",
             "1989239928bb46ae650a3fa9fd9a60b00ec0f026",
             "1fdcdf9e28ddf9d2b2198a204dbf2f265a3fa29e",
+            "203ab3773f1d9e8e9d4268c6f8ae11080b7bd329",
             "2316b28c4b506550465993b59d16f88104d57d62",
             "2c7a1925986b64962724ed0aa242c2cf3a428e70",
             "2eb1ac1a7d4df47cfa72a6e7a63dba4a14949b47",
@@ -1755,6 +1756,7 @@
             "39ff9e32334fdcc95611a5f60f735d3a43a81f8a",
             "3a45db378352b761f1c57c073486e94b338f0b6e",
             "3a4b2d4e50225844db0a0d2384908ab8a92c4e41",
+            "3aa72d1b575df8c8a3cc6aa5aa015b57d1153216",
             "3b45977fb6ebd700b915c10e5c7ba147cf5f7fba",
             "3c8f2118c5b8395d49788114caf91ef94fbf499d",
             "3c986f72e08a15dc04cd0f7227cd5fdee1fbb9c3",
@@ -8547,6 +8549,7 @@
             "48d4c8c69f09738f4ba33e4fca34319886fe168e",
             "493a4a5a290013d1b53e61b705089e5ef02e51c3",
             "4b3a2253159f2bc630a61c3e0f15f146a3f2f1dd",
+            "4c43797a699a1a53d169ed98a3942ac377e4eab5",
             "4cee2addcddc2c0e5f5277867a47f773fae05f4d",
             "4efeb1d50889a5559c28e434829e49d47a47e548",
             "525ddda261954a7a0d3b5a167c9410cc5fdcbe0a",
@@ -8570,6 +8573,7 @@
             "89b543235a915b158ba056844a508634f51a8620",
             "8b88dd2c27a2b63cefa3b977625072a51475065a",
             "8c0020f31426a731b9da85726700b740bd6aa191",
+            "8fd0f0ba014940ad761647858469e585d5aac4fe",
             "90a5171d5df139560d15e3f3137fc7918b03b49e",
             "91733d3b29378b2ca2774278f80f847bf6b07906",
             "92fcb86f80219d40a2e0dabf8fe043b8fdc8b40f",
@@ -8602,10 +8606,11 @@
             "e4e8737ac008193261afb39f32133754b46a3b56",
             "fc5908d5dd33b6ea7f1ad51aa8a5b634a4f62b2d"
         ],
-        "latest": "v0.2.1",
+        "latest": "v0.3.0",
         "tags": {
             "v0.1.0": "96bba1b7b1da4bd7d695d804894d78aceb9150ef",
             "v0.2.0": "6c2521334a8ed2c5050265af2faa85db85af4c96",
+            "v0.3.0": "8fd0f0ba014940ad761647858469e585d5aac4fe",
             "v0.2.1": "cfa94be75e4abe65b596fa51a74fc96a34857232"
         }
     },
@@ -13308,6 +13313,7 @@
     "routing-duplex": {
         "owner": "natefaubion",
         "commits": [
+            "150d92bab24e0f8ad23f84e4a3e24c6c9ebc5ac6",
             "1c31283924a1cc581cf3a82e284fea044143eba5",
             "33845e577a701aabef9463100f438958f50b78d9",
             "343bf5ab4293e652b4df7dc85a5b654fffcda218",
@@ -23390,9 +23396,11 @@
             "f2552efd42d18259e3d628ab4bf28436dfa12d9d",
             "f897d93f5342ddd7fd0a7847478c44fa197547f1"
         ],
-        "latest": "v1.0.0",
+        "latest": "v1.0.2",
         "tags": {
-            "v1.0.0": "444c4b83cdcadc961d72be81a79cf8a6cec1bc1f"
+            "v1.0.0": "444c4b83cdcadc961d72be81a79cf8a6cec1bc1f",
+            "v1.0.2": "002ba908b6984c9e43faed5e49cde1d81a0c8337",
+            "v1.0.1": "ac9b46b7aa43e39b679d7aeb937eb28d846acb3a"
         }
     },
     "quickcheck": {
@@ -28613,6 +28621,7 @@
             "4effe5779c5fd6fa2a0d9aafbee28512b6c83376",
             "6145d99d2ddedcb53da5f2280b94464a46b56aac",
             "65ffe0151b6c15801ad30115592e2f2f79e19f80",
+            "66678587c82b5defd56a02e17d0dd960b59885a9",
             "a827a7711bf9aceea448b3225fbd64a7c2834eec",
             "b2cae055f98864b98b1ee28a8080331aa2ef9c53",
             "c0324361af2e64bb48936bfd9e40930aeb0391eb",
