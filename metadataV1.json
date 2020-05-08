@@ -19480,6 +19480,7 @@
             "1c799f5a537ee2c429f3fba48edf48eb9f7de944",
             "1dedbada7ccd849165f02c7d064cdcac4ef9d2bc",
             "1e50939b5df6058a80e03f30bd99ae9f1229d191",
+            "1e528c9bfcb0af406e426fe64e2096bb8b2d2d45",
             "1e5aecae7ad292f4b5c255a87448b5b08bef053d",
             "1f00e01cace3fcb61fad7218dba210b2f691f1e6",
             "20a0343b5e41ad358d0051b67983324bc6e3875f",
@@ -19605,7 +19606,7 @@
             "f9fb69ad33f2a9a98d1dd26860be788b1e51399b",
             "fa2cbbbc553033761e522d22d5e07904a830ab5b"
         ],
-        "latest": "v6.0.2",
+        "latest": "v6.1.0",
         "tags": {
             "v3.2.0": "2fbd8e84f2944fd8a6d9d021d5e0abe4a803616f",
             "v0.1.0": "7138d8320a2eaa200f7b267dbf9c1aac1d0ec010",
@@ -19615,6 +19616,7 @@
             "v4.0.2": "3c0e3e2052afeb5c339d9e79d14d280a3ca78547",
             "v6.0.0": "ac5e4fbad5680f55c6237d2b311206a25b36ec2d",
             "v6.0.1": "c6f029e392f62ba76050abb127a0b46cd55a8008",
+            "v6.1.0": "1e528c9bfcb0af406e426fe64e2096bb8b2d2d45",
             "v5.1.3": "3be823ef851ec0f60f8869eb85f26bd8dddbe97d",
             "v0.6.1": "dfa3559779e300857582d05af0af72dd1b2ddb84",
             "v0.5.2": "95b4e0efa2c9f58170b1b98742e3d2c5409134d3",
