@@ -14442,6 +14442,7 @@
     "freedom-virtualized": {
         "owner": "purescript-freedom",
         "commits": [
+            "0ec141e4da1ac995da7bf461b43f55ec0db2c890",
             "10a945d1e675964eb620a09291b0ebaa5dc05acb",
             "26951e28fcae2f2b6d14e64ddd9969864ec01b59",
             "2bc1bd07ab1b5b89d78ca5c908000cc90f966cb1",
@@ -14473,17 +14474,20 @@
             "c2532a00f264165087ea7b76de00cd03f01537d6",
             "c4f32633812dc3f28627726eeb1bef515fe15b26",
             "c6447428c5d072ff5bbb23f554e83253aa49ae3b",
+            "c64f01680c28aab37db38d76917ea1a11fb2935c",
+            "cb0692bf5353f7c7500c1d2bdfae6e8ffc035656",
             "e641b0e1dca0baed878d7b7e89f6a67fca97fc92",
             "eb66c5a45068a7f459b8b37a1405760e7f7007a8",
             "eefb80b14782584b9c74d65822fdc69560239121",
             "fae131928ca6dbaa8cf87d603b1e38110251580a"
         ],
-        "latest": "v3.0.0",
+        "latest": "v3.0.1",
         "tags": {
             "v0.1.0": "c4f32633812dc3f28627726eeb1bef515fe15b26",
             "v1.0.0": "415cda957835f83d7f95883456237d2a8c07bc0d",
             "v2.0.0": "4005d846f8b90b708817f5635d3d7f113408c658",
             "v0.2.0": "b2df26800e203fcaf897114bac2f94bb911b70f8",
+            "v3.0.1": "cb0692bf5353f7c7500c1d2bdfae6e8ffc035656",
             "v0.1.2": "c6447428c5d072ff5bbb23f554e83253aa49ae3b",
             "v3.0.0": "26951e28fcae2f2b6d14e64ddd9969864ec01b59",
             "v1.1.0": "9bb20454de1e06d42230cd446f0d2e57b9f90e72",
