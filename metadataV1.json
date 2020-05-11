@@ -19007,11 +19007,14 @@
     "zeta-extra": {
         "owner": "athanclark",
         "commits": [
+            "08f7e8e52d9cb969a39bcc5d433cc3e0e21a6872",
             "21535311e625f0b24b41bb58213d7e7da6b3ea8b",
             "7ddfac970576e55c996770ba45ba050aba911872",
+            "7f855ae08182b8829e655481b3a7e21c56bb9379",
             "9aa26fbd2d4b2526a3a157906595ca8cfef641e0",
             "b2aafee31c1971f81f0e0466adfcb7f628a62602",
             "bec2792a7eaf66f0b765443d3b9e9a44858955ae",
+            "c5d8d0fa6b35ec16f08fc2d1855878c953717a67",
             "f922d3c58b7b9a49258658ca8180773b51ad0d05"
         ],
         "latest": "v0.0.1",
@@ -28657,12 +28660,13 @@
             "cb27b90e0360df49d759e371a5dc084f349fbdd9",
             "f79667f01f25ddc2e10b5fc8e7d18348f34f6fca"
         ],
-        "latest": "v0.2.0",
+        "latest": "v0.3.0",
         "tags": {
             "v0.0.1": "4effe5779c5fd6fa2a0d9aafbee28512b6c83376",
             "v0.1.0": "2c715baa4fa9610df1e2261a34010a221d1043a1",
             "v0.0.2": "4d89c3eec0cb39216b8d8b25af99b06ba70d68b8",
-            "v0.2.0": "f79667f01f25ddc2e10b5fc8e7d18348f34f6fca"
+            "v0.2.0": "f79667f01f25ddc2e10b5fc8e7d18348f34f6fca",
+            "v0.3.0": "b880c0cf888fcbd00e360e7b7737847d01b3b1cd"
         }
     },
     "milkis": {
