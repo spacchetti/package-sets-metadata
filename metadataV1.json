@@ -8620,13 +8620,14 @@
             "e4e8737ac008193261afb39f32133754b46a3b56",
             "fc5908d5dd33b6ea7f1ad51aa8a5b634a4f62b2d"
         ],
-        "latest": "v0.4.0",
+        "latest": "v0.4.1",
         "tags": {
             "v0.1.0": "96bba1b7b1da4bd7d695d804894d78aceb9150ef",
             "v0.2.0": "6c2521334a8ed2c5050265af2faa85db85af4c96",
             "v0.4.0": "4202125ac31a20dc53d7e28fbe01ca12bf96fcad",
             "v0.3.0": "8fd0f0ba014940ad761647858469e585d5aac4fe",
-            "v0.2.1": "cfa94be75e4abe65b596fa51a74fc96a34857232"
+            "v0.2.1": "cfa94be75e4abe65b596fa51a74fc96a34857232",
+            "v0.4.1": "5a28f6c99d0a7b7a54671be17be095afc58bdbf0"
         }
     },
     "text-encoding": {
@@ -24466,7 +24467,9 @@
         "commits": [
             "023c73e2f6a71417db287260ed826a250c3b7f73",
             "0c47ae3e37407c10789712137381f7899d1ac3a0",
+            "1659f887b66349c7b869a3bfc04b1076f3dd130c",
             "16a1531972f6634d552b853d8ac01d41000242ef",
+            "212d1a854968561705e872e79397dd1e35ad7083",
             "309634a18f7574de9bbf398ba0a339ee16de5cb1",
             "381142b7c012458739994cd3ed9b5468d119c7d3",
             "3c756980ef75564e782cdbe16d748a1ee8187ae2",
@@ -24480,17 +24483,20 @@
             "8eac04842afeb1441cd8aeb22ad6cf4288346393",
             "aa37a74a2eb4b45c06ad7e313339d42b06cd5a09",
             "ae891c563300f614e5284285aa64c69acfef8bb1",
+            "afd0217366b7e85794b59d1c752ea731dc413a6d",
             "b3c9d46ade1acafe22dc44ae33f7febbd201264f",
             "d79d2e0ed953708579f4a972934388fd613d64ad",
             "dae0da075c9f0731d474f15efa41aa36475519a4",
             "dcfeb05905cedcdeeb88447259b022b6a1b824a4",
+            "e611cf42394fb80e03bec4b09a877ed88c9c7f5d",
             "e88f5055ca5f12c425209ba23e43421316a55b7a",
             "ed45238fb964fe77199254b9d6917f2e5e2cf1c6",
             "eebb8921c073c673655320680467b0d9daddab60"
         ],
-        "latest": "v4.0.1",
+        "latest": "v4.0.2",
         "tags": {
             "v1.0.0": "3c756980ef75564e782cdbe16d748a1ee8187ae2",
+            "v4.0.2": "e611cf42394fb80e03bec4b09a877ed88c9c7f5d",
             "v2.0.0": "b3c9d46ade1acafe22dc44ae33f7febbd201264f",
             "v3.1.0": "dcfeb05905cedcdeeb88447259b022b6a1b824a4",
             "v4.0.0": "65d1b79f86c01f967fe822e2d8f7dabf711b66df",
