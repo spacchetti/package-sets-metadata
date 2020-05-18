@@ -7855,7 +7855,7 @@
             "ffc7c7fa2a9ee7b9368cb2c291fa3938b1865b94",
             "ffcb748de0072f534afacc7da1eb08f089b887e1"
         ],
-        "latest": "v5.0.0-rc.4",
+        "latest": "v5.0.0",
         "tags": {
             "v3.0.2": "dc7f100873370d6679955bc1ee6fe331d5b9697c",
             "v1.0.0": "fed7d96a4bde4417c1fdb912a9267adc696a4bd3",
@@ -7869,6 +7869,7 @@
             "v0.3.0": "8c166b709331387b10a1c2f7927c33497dd3a68d",
             "v3.0.0": "f5d1a7c4cdf240db035417800070900e1ca93b2e",
             "v5.0.0-rc.1": "9dacac780ccaa8727a4d5d1e06635609263a085b",
+            "v5.0.0": "256d09dfedf3aba3e6ed004753f0d89cea7cc993",
             "v1.0.1": "7bd8e07490d31f3e0cc05321e60f595363863f12"
         }
     },
